@@ -1,0 +1,2521 @@
+Linux panel 2.6.35.3-571-gcca29a0 #809 Fri Sep 2 21:11:46 NOVST 2016 armv5tejl GNU/Linux
+HARDWARE INFORMATION:
+ with err=0
+[55234.850000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55234.850000] mxs-i2c mxs-i2c.0: Done with err=0
+[55234.850000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55234.850000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55234.850000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55234.850000] mxs-i2c mxs-i2c.0: Done with err=0
+[55234.850000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55234.850000] mxs-i2c mxs-i2c.0: Done with err=0
+[55234.850000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55234.850000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55234.850000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55234.850000] mxs-i2c mxs-i2c.0: Done with err=0
+[55234.850000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55234.850000] mxs-i2c mxs-i2c.0: Done with err=0
+[55234.850000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55234.850000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55234.850000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55234.850000] mxs-i2c mxs-i2c.0: Done with err=0
+[55234.850000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55234.850000] mxs-i2c mxs-i2c.0: Done with err=0
+[55234.850000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55234.850000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55234.850000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55234.850000] mxs-i2c mxs-i2c.0: Done with err=0
+[55234.850000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55234.850000] mxs-i2c mxs-i2c.0: Done with err=0
+[55236.060000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55236.060000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55236.060000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55236.070000] mxs-i2c mxs-i2c.0: Done with err=0
+[55236.070000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55236.070000] mxs-i2c mxs-i2c.0: Done with err=0
+[55236.070000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55236.070000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55236.070000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55236.070000] mxs-i2c mxs-i2c.0: Done with err=0
+[55236.070000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55236.070000] mxs-i2c mxs-i2c.0: Done with err=0
+[55236.070000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55236.070000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55236.070000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55236.070000] mxs-i2c mxs-i2c.0: Done with err=0
+[55236.070000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55236.070000] mxs-i2c mxs-i2c.0: Done with err=0
+[55236.070000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55236.070000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55236.070000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55236.070000] mxs-i2c mxs-i2c.0: Done with err=0
+[55236.070000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55236.070000] mxs-i2c mxs-i2c.0: Done with err=0
+[55236.070000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55236.070000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55236.070000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55236.070000] mxs-i2c mxs-i2c.0: Done with err=0
+[55236.070000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55236.070000] mxs-i2c mxs-i2c.0: Done with err=0
+[55236.070000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55236.070000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55236.070000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55236.070000] mxs-i2c mxs-i2c.0: Done with err=0
+[55236.070000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55236.070000] mxs-i2c mxs-i2c.0: Done with err=0
+[55237.220000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55237.220000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55237.220000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55237.220000] mxs-i2c mxs-i2c.0: Done with err=0
+[55237.220000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55237.220000] mxs-i2c mxs-i2c.0: Done with err=0
+[55237.220000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55237.220000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55237.220000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55237.220000] mxs-i2c mxs-i2c.0: Done with err=0
+[55237.220000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55237.220000] mxs-i2c mxs-i2c.0: Done with err=0
+[55237.220000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55237.220000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55237.220000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55237.220000] mxs-i2c mxs-i2c.0: Done with err=0
+[55237.220000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55237.220000] mxs-i2c mxs-i2c.0: Done with err=0
+[55237.220000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55237.220000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55237.220000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55237.220000] mxs-i2c mxs-i2c.0: Done with err=0
+[55237.220000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55237.220000] mxs-i2c mxs-i2c.0: Done with err=0
+[55237.220000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55237.220000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55237.220000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55237.220000] mxs-i2c mxs-i2c.0: Done with err=0
+[55237.220000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55237.220000] mxs-i2c mxs-i2c.0: Done with err=0
+[55237.220000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55237.220000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55237.220000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55237.220000] mxs-i2c mxs-i2c.0: Done with err=0
+[55237.220000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55237.230000] mxs-i2c mxs-i2c.0: Done with err=0
+[55238.400000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55238.400000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55238.400000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55238.400000] mxs-i2c mxs-i2c.0: Done with err=0
+[55238.400000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55238.400000] mxs-i2c mxs-i2c.0: Done with err=0
+[55238.400000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55238.400000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55238.400000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55238.400000] mxs-i2c mxs-i2c.0: Done with err=0
+[55238.400000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55238.400000] mxs-i2c mxs-i2c.0: Done with err=0
+[55238.400000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55238.400000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55238.400000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55238.400000] mxs-i2c mxs-i2c.0: Done with err=0
+[55238.400000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55238.400000] mxs-i2c mxs-i2c.0: Done with err=0
+[55238.400000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55238.400000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55238.400000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55238.400000] mxs-i2c mxs-i2c.0: Done with err=0
+[55238.400000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55238.400000] mxs-i2c mxs-i2c.0: Done with err=0
+[55238.400000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55238.400000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55238.400000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55238.410000] mxs-i2c mxs-i2c.0: Done with err=0
+[55238.410000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55238.410000] mxs-i2c mxs-i2c.0: Done with err=0
+[55238.410000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55238.410000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55238.410000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55238.410000] mxs-i2c mxs-i2c.0: Done with err=0
+[55238.410000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55238.410000] mxs-i2c mxs-i2c.0: Done with err=0
+[55238.410000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55238.410000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55238.410000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55238.410000] mxs-i2c mxs-i2c.0: Done with err=0
+[55238.410000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55238.410000] mxs-i2c mxs-i2c.0: Done with err=0
+[55238.410000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55238.410000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55238.410000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55238.410000] mxs-i2c mxs-i2c.0: Done with err=0
+[55238.410000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55238.410000] mxs-i2c mxs-i2c.0: Done with err=0
+[55238.410000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55238.410000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55238.410000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55238.410000] mxs-i2c mxs-i2c.0: Done with err=0
+[55238.410000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55238.410000] mxs-i2c mxs-i2c.0: Done with err=0
+[55238.410000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55238.410000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55238.410000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55238.410000] mxs-i2c mxs-i2c.0: Done with err=0
+[55238.410000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55238.410000] mxs-i2c mxs-i2c.0: Done with err=0
+[55238.410000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55238.410000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55238.410000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55238.410000] mxs-i2c mxs-i2c.0: Done with err=0
+[55238.410000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55238.410000] mxs-i2c mxs-i2c.0: Done with err=0
+[55238.410000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55238.410000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55238.410000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55238.410000] mxs-i2c mxs-i2c.0: Done with err=0
+[55238.410000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55238.410000] mxs-i2c mxs-i2c.0: Done with err=0
+[55239.550000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55239.550000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55239.550000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55239.550000] mxs-i2c mxs-i2c.0: Done with err=0
+[55239.550000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55239.550000] mxs-i2c mxs-i2c.0: Done with err=0
+[55239.550000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55239.550000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55239.550000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55239.550000] mxs-i2c mxs-i2c.0: Done with err=0
+[55239.550000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55239.550000] mxs-i2c mxs-i2c.0: Done with err=0
+[55239.550000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55239.550000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55239.550000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55239.550000] mxs-i2c mxs-i2c.0: Done with err=0
+[55239.550000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55239.550000] mxs-i2c mxs-i2c.0: Done with err=0
+[55239.550000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55239.550000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55239.550000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55239.550000] mxs-i2c mxs-i2c.0: Done with err=0
+[55239.550000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55239.550000] mxs-i2c mxs-i2c.0: Done with err=0
+[55239.550000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55239.550000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55239.550000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55239.550000] mxs-i2c mxs-i2c.0: Done with err=0
+[55239.550000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55239.550000] mxs-i2c mxs-i2c.0: Done with err=0
+[55239.550000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55239.550000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55239.550000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55239.550000] mxs-i2c mxs-i2c.0: Done with err=0
+[55239.550000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55239.550000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.730000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55240.730000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55240.730000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55240.730000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.730000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55240.730000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.730000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55240.730000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55240.730000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55240.730000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.730000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55240.740000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.740000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55240.740000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55240.740000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55240.740000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.740000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55240.740000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.740000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55240.740000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55240.740000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55240.740000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.740000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55240.740000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.740000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55240.740000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55240.740000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55240.740000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.740000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55240.740000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.740000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55240.740000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55240.740000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55240.740000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.740000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55240.740000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.740000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55240.740000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55240.740000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55240.740000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.740000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55240.740000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.740000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55240.740000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55240.740000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55240.740000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.740000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55240.740000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.740000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55240.740000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55240.740000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55240.740000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.740000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55240.740000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.740000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55240.740000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55240.740000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55240.740000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.740000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55240.740000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.740000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55240.740000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55240.740000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55240.740000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.740000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55240.740000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.740000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55240.740000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55240.740000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55240.740000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.740000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55240.750000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.750000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55240.750000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55240.750000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55240.750000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.750000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55240.750000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.750000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55240.750000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55240.750000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55240.750000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.750000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55240.750000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.750000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55240.750000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55240.750000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55240.750000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.750000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55240.750000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.750000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55240.750000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55240.750000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55240.750000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.750000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55240.750000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.750000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55240.750000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55240.750000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55240.750000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.750000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55240.750000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.750000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55240.750000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55240.750000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55240.750000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.750000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55240.750000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.750000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55240.750000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55240.750000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55240.750000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.750000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55240.750000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.750000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55240.750000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55240.750000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55240.750000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.750000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55240.760000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.760000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55240.760000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55240.760000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55240.760000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.760000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55240.760000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.760000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55240.760000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55240.760000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55240.760000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.760000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55240.760000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.760000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55240.760000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55240.760000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55240.760000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.760000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55240.760000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.760000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55240.760000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55240.760000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55240.760000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.760000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55240.760000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.760000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55240.760000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55240.760000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55240.760000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.760000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55240.760000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.760000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55240.760000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55240.760000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55240.760000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.760000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55240.760000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.760000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55240.760000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55240.760000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55240.760000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.760000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55240.760000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.760000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55240.760000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55240.760000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55240.760000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.760000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55240.760000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.760000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55240.760000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55240.760000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55240.760000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.760000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55240.760000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.760000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55240.760000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55240.760000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55240.760000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.760000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55240.760000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.770000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55240.770000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55240.770000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55240.770000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.770000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55240.770000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.770000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55240.770000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55240.770000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55240.770000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.770000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55240.770000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.770000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55240.770000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55240.770000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55240.770000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.770000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55240.770000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.770000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55240.770000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55240.770000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55240.770000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.770000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55240.770000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.770000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55240.770000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55240.770000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55240.770000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.770000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55240.770000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.770000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55240.770000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55240.770000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55240.770000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.770000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55240.770000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.770000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55240.770000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55240.770000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55240.770000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.770000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55240.770000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.770000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55240.770000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55240.770000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55240.770000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.770000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55240.780000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.780000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55240.780000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55240.780000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55240.780000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.780000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55240.780000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.780000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55240.780000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55240.780000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55240.780000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.780000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55240.780000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.780000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55240.780000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55240.780000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55240.780000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.780000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55240.780000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.780000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55240.780000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55240.780000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55240.780000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.780000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55240.780000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.780000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55240.780000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55240.780000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55240.780000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.780000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55240.780000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.780000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55240.780000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55240.780000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55240.780000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.780000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55240.780000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.780000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55240.780000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55240.780000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55240.780000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.780000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55240.780000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.780000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55240.780000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55240.780000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55240.780000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.780000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55240.780000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.780000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55240.780000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55240.780000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55240.780000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.780000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55240.780000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.780000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55240.780000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55240.780000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55240.780000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.780000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55240.790000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.790000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55240.790000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55240.790000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55240.790000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.790000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55240.790000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.790000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55240.790000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55240.790000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55240.790000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.790000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55240.800000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.800000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55240.800000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55240.800000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55240.800000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.800000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55240.800000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.800000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55240.800000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55240.800000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55240.800000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.800000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55240.800000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.800000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55240.800000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55240.800000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55240.800000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.800000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55240.800000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.800000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55240.800000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55240.800000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55240.800000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.800000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55240.800000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.800000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55240.800000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55240.800000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55240.800000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.800000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55240.800000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.800000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55240.800000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55240.800000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55240.800000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.800000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55240.800000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.800000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55240.800000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55240.800000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55240.800000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.800000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55240.800000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.800000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55240.800000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55240.800000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55240.800000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.800000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55240.800000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.810000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55240.810000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55240.810000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55240.810000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.810000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55240.810000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.810000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55240.810000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55240.810000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55240.810000] mxs-i2c mxs-i2c.0: Done with err=0
+[55240.810000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55240.810000] mxs-i2c mxs-i2c.0: Done with err=0
+[55241.920000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55241.920000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55241.920000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55241.920000] mxs-i2c mxs-i2c.0: Done with err=0
+[55241.920000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55241.920000] mxs-i2c mxs-i2c.0: Done with err=0
+[55241.920000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55241.920000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55241.920000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55241.920000] mxs-i2c mxs-i2c.0: Done with err=0
+[55241.920000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55241.920000] mxs-i2c mxs-i2c.0: Done with err=0
+[55241.920000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55241.920000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55241.920000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55241.920000] mxs-i2c mxs-i2c.0: Done with err=0
+[55241.920000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55241.920000] mxs-i2c mxs-i2c.0: Done with err=0
+[55241.920000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55241.920000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55241.920000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55241.930000] mxs-i2c mxs-i2c.0: Done with err=0
+[55241.930000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55241.930000] mxs-i2c mxs-i2c.0: Done with err=0
+[55241.930000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55241.930000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55241.930000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55241.930000] mxs-i2c mxs-i2c.0: Done with err=0
+[55241.930000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55241.930000] mxs-i2c mxs-i2c.0: Done with err=0
+[55241.930000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55241.930000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55241.930000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55241.930000] mxs-i2c mxs-i2c.0: Done with err=0
+[55241.930000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55241.930000] mxs-i2c mxs-i2c.0: Done with err=0
+[55243.060000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55243.060000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55243.060000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55243.060000] mxs-i2c mxs-i2c.0: Done with err=0
+[55243.060000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55243.060000] mxs-i2c mxs-i2c.0: Done with err=0
+[55243.060000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55243.060000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55243.060000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55243.060000] mxs-i2c mxs-i2c.0: Done with err=0
+[55243.060000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55243.060000] mxs-i2c mxs-i2c.0: Done with err=0
+[55243.060000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55243.060000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55243.060000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55243.060000] mxs-i2c mxs-i2c.0: Done with err=0
+[55243.060000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55243.060000] mxs-i2c mxs-i2c.0: Done with err=0
+[55243.060000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55243.060000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55243.060000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55243.060000] mxs-i2c mxs-i2c.0: Done with err=0
+[55243.060000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55243.060000] mxs-i2c mxs-i2c.0: Done with err=0
+[55243.060000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55243.060000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55243.060000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55243.060000] mxs-i2c mxs-i2c.0: Done with err=0
+[55243.060000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55243.060000] mxs-i2c mxs-i2c.0: Done with err=0
+[55243.060000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55243.060000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55243.060000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55243.060000] mxs-i2c mxs-i2c.0: Done with err=0
+[55243.060000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55243.060000] mxs-i2c mxs-i2c.0: Done with err=0
+[55243.060000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55243.060000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55243.060000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55243.070000] mxs-i2c mxs-i2c.0: Done with err=0
+[55243.070000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55243.070000] mxs-i2c mxs-i2c.0: Done with err=0
+[55243.070000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55243.070000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55243.070000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55243.070000] mxs-i2c mxs-i2c.0: Done with err=0
+[55243.070000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55243.070000] mxs-i2c mxs-i2c.0: Done with err=0
+[55243.070000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55243.070000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55243.070000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55243.070000] mxs-i2c mxs-i2c.0: Done with err=0
+[55243.070000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55243.070000] mxs-i2c mxs-i2c.0: Done with err=0
+[55243.070000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55243.070000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55243.070000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55243.070000] mxs-i2c mxs-i2c.0: Done with err=0
+[55243.070000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55243.070000] mxs-i2c mxs-i2c.0: Done with err=0
+[55243.070000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55243.070000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55243.070000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55243.070000] mxs-i2c mxs-i2c.0: Done with err=0
+[55243.070000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55243.070000] mxs-i2c mxs-i2c.0: Done with err=0
+[55243.070000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55243.070000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55243.070000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55243.070000] mxs-i2c mxs-i2c.0: Done with err=0
+[55243.070000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55243.070000] mxs-i2c mxs-i2c.0: Done with err=0
+[55243.070000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55243.070000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55243.070000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55243.070000] mxs-i2c mxs-i2c.0: Done with err=0
+[55243.070000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55243.070000] mxs-i2c mxs-i2c.0: Done with err=0
+[55243.070000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55243.070000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55243.070000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55243.070000] mxs-i2c mxs-i2c.0: Done with err=0
+[55243.070000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55243.070000] mxs-i2c mxs-i2c.0: Done with err=0
+[55243.070000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55243.070000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55243.070000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55243.070000] mxs-i2c mxs-i2c.0: Done with err=0
+[55243.070000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55243.070000] mxs-i2c mxs-i2c.0: Done with err=0
+[55243.070000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55243.070000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55243.070000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55243.070000] mxs-i2c mxs-i2c.0: Done with err=0
+[55243.070000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55243.070000] mxs-i2c mxs-i2c.0: Done with err=0
+[55243.070000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55243.070000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55243.070000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55243.080000] mxs-i2c mxs-i2c.0: Done with err=0
+[55243.080000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55243.080000] mxs-i2c mxs-i2c.0: Done with err=0
+[55243.080000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55243.080000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55243.080000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55243.080000] mxs-i2c mxs-i2c.0: Done with err=0
+[55243.080000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55243.080000] mxs-i2c mxs-i2c.0: Done with err=0
+[55243.120000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55243.120000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55243.120000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55243.120000] mxs-i2c mxs-i2c.0: Done with err=0
+[55243.120000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55243.120000] mxs-i2c mxs-i2c.0: Done with err=0
+[55243.120000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55243.120000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55243.120000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55243.120000] mxs-i2c mxs-i2c.0: Done with err=0
+[55243.120000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55243.120000] mxs-i2c mxs-i2c.0: Done with err=0
+[55243.120000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55243.120000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55243.120000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55243.120000] mxs-i2c mxs-i2c.0: Done with err=0
+[55243.120000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55243.120000] mxs-i2c mxs-i2c.0: Done with err=0
+[55243.120000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55243.120000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55243.120000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55243.120000] mxs-i2c mxs-i2c.0: Done with err=0
+[55243.120000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55243.120000] mxs-i2c mxs-i2c.0: Done with err=0
+[55243.120000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55243.120000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55243.120000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55243.120000] mxs-i2c mxs-i2c.0: Done with err=0
+[55243.120000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55243.120000] mxs-i2c mxs-i2c.0: Done with err=0
+[55243.120000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55243.120000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55243.120000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55243.120000] mxs-i2c mxs-i2c.0: Done with err=0
+[55243.120000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55243.130000] mxs-i2c mxs-i2c.0: Done with err=0
+[55244.360000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55244.360000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55244.360000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55244.360000] mxs-i2c mxs-i2c.0: Done with err=0
+[55244.360000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55244.360000] mxs-i2c mxs-i2c.0: Done with err=0
+[55244.360000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55244.360000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55244.360000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55244.360000] mxs-i2c mxs-i2c.0: Done with err=0
+[55244.360000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55244.360000] mxs-i2c mxs-i2c.0: Done with err=0
+[55244.360000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55244.360000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55244.360000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55244.360000] mxs-i2c mxs-i2c.0: Done with err=0
+[55244.360000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55244.360000] mxs-i2c mxs-i2c.0: Done with err=0
+[55244.360000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55244.360000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55244.360000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55244.360000] mxs-i2c mxs-i2c.0: Done with err=0
+[55244.360000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55244.360000] mxs-i2c mxs-i2c.0: Done with err=0
+[55244.360000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55244.360000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55244.360000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55244.360000] mxs-i2c mxs-i2c.0: Done with err=0
+[55244.360000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55244.360000] mxs-i2c mxs-i2c.0: Done with err=0
+[55244.360000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55244.360000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55244.360000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55244.360000] mxs-i2c mxs-i2c.0: Done with err=0
+[55244.360000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55244.360000] mxs-i2c mxs-i2c.0: Done with err=0
+[55245.510000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55245.510000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55245.510000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55245.510000] mxs-i2c mxs-i2c.0: Done with err=0
+[55245.510000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55245.510000] mxs-i2c mxs-i2c.0: Done with err=0
+[55245.510000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55245.510000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55245.510000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55245.510000] mxs-i2c mxs-i2c.0: Done with err=0
+[55245.510000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55245.510000] mxs-i2c mxs-i2c.0: Done with err=0
+[55245.510000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55245.510000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55245.510000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55245.510000] mxs-i2c mxs-i2c.0: Done with err=0
+[55245.510000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55245.510000] mxs-i2c mxs-i2c.0: Done with err=0
+[55245.520000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55245.520000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55245.520000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55245.520000] mxs-i2c mxs-i2c.0: Done with err=0
+[55245.520000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55245.520000] mxs-i2c mxs-i2c.0: Done with err=0
+[55245.520000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55245.520000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55245.520000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55245.520000] mxs-i2c mxs-i2c.0: Done with err=0
+[55245.520000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55245.520000] mxs-i2c mxs-i2c.0: Done with err=0
+[55245.520000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55245.520000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55245.520000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55245.520000] mxs-i2c mxs-i2c.0: Done with err=0
+[55245.520000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55245.520000] mxs-i2c mxs-i2c.0: Done with err=0
+[55246.650000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55246.650000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55246.650000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55246.650000] mxs-i2c mxs-i2c.0: Done with err=0
+[55246.650000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55246.650000] mxs-i2c mxs-i2c.0: Done with err=0
+[55246.650000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55246.650000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55246.650000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55246.650000] mxs-i2c mxs-i2c.0: Done with err=0
+[55246.650000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55246.650000] mxs-i2c mxs-i2c.0: Done with err=0
+[55246.650000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55246.650000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55246.650000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55246.650000] mxs-i2c mxs-i2c.0: Done with err=0
+[55246.650000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55246.650000] mxs-i2c mxs-i2c.0: Done with err=0
+[55246.650000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55246.650000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55246.650000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55246.650000] mxs-i2c mxs-i2c.0: Done with err=0
+[55246.650000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55246.650000] mxs-i2c mxs-i2c.0: Done with err=0
+[55246.650000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55246.650000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55246.650000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55246.650000] mxs-i2c mxs-i2c.0: Done with err=0
+[55246.650000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55246.650000] mxs-i2c mxs-i2c.0: Done with err=0
+[55246.650000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55246.650000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55246.650000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55246.650000] mxs-i2c mxs-i2c.0: Done with err=0
+[55246.650000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55246.650000] mxs-i2c mxs-i2c.0: Done with err=0
+[55247.840000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55247.840000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55247.840000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55247.840000] mxs-i2c mxs-i2c.0: Done with err=0
+[55247.840000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55247.840000] mxs-i2c mxs-i2c.0: Done with err=0
+[55247.840000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55247.840000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55247.840000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55247.840000] mxs-i2c mxs-i2c.0: Done with err=0
+[55247.840000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55247.840000] mxs-i2c mxs-i2c.0: Done with err=0
+[55247.840000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55247.840000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55247.840000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55247.840000] mxs-i2c mxs-i2c.0: Done with err=0
+[55247.840000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55247.840000] mxs-i2c mxs-i2c.0: Done with err=0
+[55247.840000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55247.840000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55247.840000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55247.840000] mxs-i2c mxs-i2c.0: Done with err=0
+[55247.840000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55247.840000] mxs-i2c mxs-i2c.0: Done with err=0
+[55247.840000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55247.840000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55247.840000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55247.840000] mxs-i2c mxs-i2c.0: Done with err=0
+[55247.840000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55247.840000] mxs-i2c mxs-i2c.0: Done with err=0
+[55247.840000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55247.840000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55247.840000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55247.840000] mxs-i2c mxs-i2c.0: Done with err=0
+[55247.840000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55247.840000] mxs-i2c mxs-i2c.0: Done with err=0
+[55249.020000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55249.020000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55249.020000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55249.020000] mxs-i2c mxs-i2c.0: Done with err=0
+[55249.020000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55249.020000] mxs-i2c mxs-i2c.0: Done with err=0
+[55249.020000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55249.020000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55249.020000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55249.020000] mxs-i2c mxs-i2c.0: Done with err=0
+[55249.020000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55249.020000] mxs-i2c mxs-i2c.0: Done with err=0
+[55249.020000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55249.020000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55249.020000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55249.020000] mxs-i2c mxs-i2c.0: Done with err=0
+[55249.020000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55249.020000] mxs-i2c mxs-i2c.0: Done with err=0
+[55249.020000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55249.020000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55249.020000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55249.020000] mxs-i2c mxs-i2c.0: Done with err=0
+[55249.020000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55249.030000] mxs-i2c mxs-i2c.0: Done with err=0
+[55249.030000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55249.030000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55249.030000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55249.030000] mxs-i2c mxs-i2c.0: Done with err=0
+[55249.030000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55249.030000] mxs-i2c mxs-i2c.0: Done with err=0
+[55249.030000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55249.030000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55249.030000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55249.030000] mxs-i2c mxs-i2c.0: Done with err=0
+[55249.030000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55249.030000] mxs-i2c mxs-i2c.0: Done with err=0
+[55250.170000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55250.170000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55250.170000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55250.170000] mxs-i2c mxs-i2c.0: Done with err=0
+[55250.170000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55250.170000] mxs-i2c mxs-i2c.0: Done with err=0
+[55250.170000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55250.170000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55250.170000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55250.170000] mxs-i2c mxs-i2c.0: Done with err=0
+[55250.170000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55250.170000] mxs-i2c mxs-i2c.0: Done with err=0
+[55250.170000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55250.170000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55250.170000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55250.170000] mxs-i2c mxs-i2c.0: Done with err=0
+[55250.170000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55250.170000] mxs-i2c mxs-i2c.0: Done with err=0
+[55250.170000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55250.170000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55250.170000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55250.170000] mxs-i2c mxs-i2c.0: Done with err=0
+[55250.170000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55250.170000] mxs-i2c mxs-i2c.0: Done with err=0
+[55250.170000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55250.170000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55250.170000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55250.170000] mxs-i2c mxs-i2c.0: Done with err=0
+[55250.170000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55250.170000] mxs-i2c mxs-i2c.0: Done with err=0
+[55250.170000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55250.170000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55250.170000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55250.170000] mxs-i2c mxs-i2c.0: Done with err=0
+[55250.170000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55250.170000] mxs-i2c mxs-i2c.0: Done with err=0
+[55250.170000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55250.170000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55250.170000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55250.180000] mxs-i2c mxs-i2c.0: Done with err=0
+[55250.180000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55250.180000] mxs-i2c mxs-i2c.0: Done with err=0
+[55250.180000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55250.180000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55250.180000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55250.180000] mxs-i2c mxs-i2c.0: Done with err=0
+[55250.180000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55250.180000] mxs-i2c mxs-i2c.0: Done with err=0
+[55250.180000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55250.180000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55250.180000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55250.180000] mxs-i2c mxs-i2c.0: Done with err=0
+[55250.180000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55250.180000] mxs-i2c mxs-i2c.0: Done with err=0
+[55250.180000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55250.180000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55250.180000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55250.180000] mxs-i2c mxs-i2c.0: Done with err=0
+[55250.180000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55250.180000] mxs-i2c mxs-i2c.0: Done with err=0
+[55250.180000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55250.180000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55250.180000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55250.180000] mxs-i2c mxs-i2c.0: Done with err=0
+[55250.180000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55250.180000] mxs-i2c mxs-i2c.0: Done with err=0
+[55250.180000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55250.180000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55250.180000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55250.180000] mxs-i2c mxs-i2c.0: Done with err=0
+[55250.180000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55250.180000] mxs-i2c mxs-i2c.0: Done with err=0
+[55250.180000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55250.180000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55250.180000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55250.180000] mxs-i2c mxs-i2c.0: Done with err=0
+[55250.180000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55250.180000] mxs-i2c mxs-i2c.0: Done with err=0
+[55250.180000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55250.180000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55250.180000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55250.180000] mxs-i2c mxs-i2c.0: Done with err=0
+[55250.180000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55250.180000] mxs-i2c mxs-i2c.0: Done with err=0
+[55250.180000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55250.180000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55250.180000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55250.180000] mxs-i2c mxs-i2c.0: Done with err=0
+[55250.180000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55250.180000] mxs-i2c mxs-i2c.0: Done with err=0
+[55250.180000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55250.180000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55250.180000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55250.180000] mxs-i2c mxs-i2c.0: Done with err=0
+[55250.180000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55250.180000] mxs-i2c mxs-i2c.0: Done with err=0
+[55250.180000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55250.180000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55250.180000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55250.190000] mxs-i2c mxs-i2c.0: Done with err=0
+[55250.190000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55250.190000] mxs-i2c mxs-i2c.0: Done with err=0
+[55250.190000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55250.190000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55250.190000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55250.190000] mxs-i2c mxs-i2c.0: Done with err=0
+[55250.190000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55250.190000] mxs-i2c mxs-i2c.0: Done with err=0
+[55250.190000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55250.190000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55250.190000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55250.190000] mxs-i2c mxs-i2c.0: Done with err=0
+[55250.190000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55250.190000] mxs-i2c mxs-i2c.0: Done with err=0
+[55250.190000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55250.190000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55250.190000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55250.190000] mxs-i2c mxs-i2c.0: Done with err=0
+[55250.190000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55250.190000] mxs-i2c mxs-i2c.0: Done with err=0
+[55250.190000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55250.190000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55250.190000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55250.190000] mxs-i2c mxs-i2c.0: Done with err=0
+[55250.190000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55250.190000] mxs-i2c mxs-i2c.0: Done with err=0
+[55250.190000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55250.190000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55250.190000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55250.190000] mxs-i2c mxs-i2c.0: Done with err=0
+[55250.190000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55250.190000] mxs-i2c mxs-i2c.0: Done with err=0
+[55250.190000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55250.190000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55250.190000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55250.190000] mxs-i2c mxs-i2c.0: Done with err=0
+[55250.190000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55250.190000] mxs-i2c mxs-i2c.0: Done with err=0
+[55250.190000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55250.190000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55250.190000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55250.190000] mxs-i2c mxs-i2c.0: Done with err=0
+[55250.190000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55250.190000] mxs-i2c mxs-i2c.0: Done with err=0
+[55250.190000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55250.190000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55250.190000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55250.200000] mxs-i2c mxs-i2c.0: Done with err=0
+[55250.200000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55250.200000] mxs-i2c mxs-i2c.0: Done with err=0
+[55250.200000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55250.200000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55250.200000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55250.200000] mxs-i2c mxs-i2c.0: Done with err=0
+[55250.200000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55250.200000] mxs-i2c mxs-i2c.0: Done with err=0
+[55250.200000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55250.200000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55250.200000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55250.200000] mxs-i2c mxs-i2c.0: Done with err=0
+[55250.200000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55250.200000] mxs-i2c mxs-i2c.0: Done with err=0
+[55250.200000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55250.200000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55250.200000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55250.200000] mxs-i2c mxs-i2c.0: Done with err=0
+[55250.200000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55250.200000] mxs-i2c mxs-i2c.0: Done with err=0
+[55250.200000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55250.200000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55250.200000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55250.200000] mxs-i2c mxs-i2c.0: Done with err=0
+[55250.200000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55250.200000] mxs-i2c mxs-i2c.0: Done with err=0
+[55250.200000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55250.200000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55250.200000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55250.200000] mxs-i2c mxs-i2c.0: Done with err=0
+[55250.200000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55250.200000] mxs-i2c mxs-i2c.0: Done with err=0
+[55250.200000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55250.200000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55250.200000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55250.200000] mxs-i2c mxs-i2c.0: Done with err=0
+[55250.200000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55250.200000] mxs-i2c mxs-i2c.0: Done with err=0
+[55250.200000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55250.200000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55250.200000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55250.200000] mxs-i2c mxs-i2c.0: Done with err=0
+[55250.200000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55250.200000] mxs-i2c mxs-i2c.0: Done with err=0
+[55250.200000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55250.200000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55250.200000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55250.200000] mxs-i2c mxs-i2c.0: Done with err=0
+[55250.200000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55250.200000] mxs-i2c mxs-i2c.0: Done with err=0
+[55250.200000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55250.200000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55250.200000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55250.200000] mxs-i2c mxs-i2c.0: Done with err=0
+[55250.200000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55250.200000] mxs-i2c mxs-i2c.0: Done with err=0
+[55250.200000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55250.200000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55250.200000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55250.210000] mxs-i2c mxs-i2c.0: Done with err=0
+[55250.210000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55250.210000] mxs-i2c mxs-i2c.0: Done with err=0
+[55250.210000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55250.210000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55250.210000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55250.210000] mxs-i2c mxs-i2c.0: Done with err=0
+[55250.210000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55250.210000] mxs-i2c mxs-i2c.0: Done with err=0
+[55250.210000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55250.210000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55250.210000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55250.210000] mxs-i2c mxs-i2c.0: Done with err=0
+[55250.210000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55250.210000] mxs-i2c mxs-i2c.0: Done with err=0
+[55250.210000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55250.210000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55250.210000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55250.210000] mxs-i2c mxs-i2c.0: Done with err=0
+[55250.210000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55250.210000] mxs-i2c mxs-i2c.0: Done with err=0
+[55250.210000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55250.210000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55250.210000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55250.210000] mxs-i2c mxs-i2c.0: Done with err=0
+[55250.210000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55250.210000] mxs-i2c mxs-i2c.0: Done with err=0
+[55250.210000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55250.210000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55250.210000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55250.210000] mxs-i2c mxs-i2c.0: Done with err=0
+[55250.210000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55250.210000] mxs-i2c mxs-i2c.0: Done with err=0
+[55250.210000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55250.210000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55250.210000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55250.210000] mxs-i2c mxs-i2c.0: Done with err=0
+[55250.210000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55250.210000] mxs-i2c mxs-i2c.0: Done with err=0
+[55250.210000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55250.210000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55250.210000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55250.210000] mxs-i2c mxs-i2c.0: Done with err=0
+[55250.210000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55250.210000] mxs-i2c mxs-i2c.0: Done with err=0
+[55251.380000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55251.380000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55251.380000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55251.380000] mxs-i2c mxs-i2c.0: Done with err=0
+[55251.380000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55251.380000] mxs-i2c mxs-i2c.0: Done with err=0
+[55251.380000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55251.380000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55251.380000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55251.380000] mxs-i2c mxs-i2c.0: Done with err=0
+[55251.380000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55251.380000] mxs-i2c mxs-i2c.0: Done with err=0
+[55251.380000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55251.380000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55251.380000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55251.380000] mxs-i2c mxs-i2c.0: Done with err=0
+[55251.380000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55251.390000] mxs-i2c mxs-i2c.0: Done with err=0
+[55251.390000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55251.390000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55251.390000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55251.390000] mxs-i2c mxs-i2c.0: Done with err=0
+[55251.390000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55251.390000] mxs-i2c mxs-i2c.0: Done with err=0
+[55251.390000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55251.390000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55251.390000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55251.390000] mxs-i2c mxs-i2c.0: Done with err=0
+[55251.390000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55251.390000] mxs-i2c mxs-i2c.0: Done with err=0
+[55251.390000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55251.390000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55251.390000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55251.390000] mxs-i2c mxs-i2c.0: Done with err=0
+[55251.390000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55251.390000] mxs-i2c mxs-i2c.0: Done with err=0
+[55251.390000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55251.390000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55251.390000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55251.390000] mxs-i2c mxs-i2c.0: Done with err=0
+[55251.390000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55251.390000] mxs-i2c mxs-i2c.0: Done with err=0
+[55251.390000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55251.390000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55251.390000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55251.390000] mxs-i2c mxs-i2c.0: Done with err=0
+[55251.390000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55251.390000] mxs-i2c mxs-i2c.0: Done with err=0
+[55251.390000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55251.390000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55251.390000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55251.390000] mxs-i2c mxs-i2c.0: Done with err=0
+[55251.390000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55251.390000] mxs-i2c mxs-i2c.0: Done with err=0
+[55251.390000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55251.390000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55251.390000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55251.390000] mxs-i2c mxs-i2c.0: Done with err=0
+[55251.390000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55251.390000] mxs-i2c mxs-i2c.0: Done with err=0
+[55251.390000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55251.390000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55251.390000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55251.390000] mxs-i2c mxs-i2c.0: Done with err=0
+[55251.390000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55251.390000] mxs-i2c mxs-i2c.0: Done with err=0
+[55251.390000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55251.390000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55251.390000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55251.390000] mxs-i2c mxs-i2c.0: Done with err=0
+[55251.390000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55251.390000] mxs-i2c mxs-i2c.0: Done with err=0
+[55251.400000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55251.400000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55251.400000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55251.400000] mxs-i2c mxs-i2c.0: Done with err=0
+[55251.400000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55251.400000] mxs-i2c mxs-i2c.0: Done with err=0
+[55251.400000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55251.400000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55251.400000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55251.400000] mxs-i2c mxs-i2c.0: Done with err=0
+[55251.400000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55251.400000] mxs-i2c mxs-i2c.0: Done with err=0
+[55251.400000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55251.400000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55251.400000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55251.400000] mxs-i2c mxs-i2c.0: Done with err=0
+[55251.400000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55251.400000] mxs-i2c mxs-i2c.0: Done with err=0
+[55251.400000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55251.400000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55251.400000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55251.400000] mxs-i2c mxs-i2c.0: Done with err=0
+[55251.400000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55251.400000] mxs-i2c mxs-i2c.0: Done with err=0
+[55251.400000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55251.400000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55251.400000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55251.400000] mxs-i2c mxs-i2c.0: Done with err=0
+[55251.400000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55251.400000] mxs-i2c mxs-i2c.0: Done with err=0
+[55251.400000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55251.400000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55251.400000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55251.400000] mxs-i2c mxs-i2c.0: Done with err=0
+[55251.400000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55251.400000] mxs-i2c mxs-i2c.0: Done with err=0
+[55251.400000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55251.400000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55251.400000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55251.400000] mxs-i2c mxs-i2c.0: Done with err=0
+[55251.400000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55251.400000] mxs-i2c mxs-i2c.0: Done with err=0
+[55251.400000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55251.400000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55251.400000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55251.400000] mxs-i2c mxs-i2c.0: Done with err=0
+[55251.400000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55251.400000] mxs-i2c mxs-i2c.0: Done with err=0
+[55251.400000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55251.400000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55251.400000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55251.410000] mxs-i2c mxs-i2c.0: Done with err=0
+[55251.410000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55251.410000] mxs-i2c mxs-i2c.0: Done with err=0
+[55251.410000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55251.410000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55251.410000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55251.410000] mxs-i2c mxs-i2c.0: Done with err=0
+[55251.410000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55251.410000] mxs-i2c mxs-i2c.0: Done with err=0
+[55251.410000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55251.410000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55251.410000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55251.410000] mxs-i2c mxs-i2c.0: Done with err=0
+[55251.410000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55251.410000] mxs-i2c mxs-i2c.0: Done with err=0
+[55251.410000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55251.410000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55251.410000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55251.410000] mxs-i2c mxs-i2c.0: Done with err=0
+[55251.410000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55251.410000] mxs-i2c mxs-i2c.0: Done with err=0
+[55252.540000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55252.540000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55252.540000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55252.540000] mxs-i2c mxs-i2c.0: Done with err=0
+[55252.540000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55252.540000] mxs-i2c mxs-i2c.0: Done with err=0
+[55252.540000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55252.540000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55252.540000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55252.540000] mxs-i2c mxs-i2c.0: Done with err=0
+[55252.540000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55252.540000] mxs-i2c mxs-i2c.0: Done with err=0
+[55252.540000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55252.540000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55252.540000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55252.540000] mxs-i2c mxs-i2c.0: Done with err=0
+[55252.540000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55252.540000] mxs-i2c mxs-i2c.0: Done with err=0
+[55252.540000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55252.540000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55252.540000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55252.540000] mxs-i2c mxs-i2c.0: Done with err=0
+[55252.540000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55252.540000] mxs-i2c mxs-i2c.0: Done with err=0
+[55252.540000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55252.540000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55252.540000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55252.540000] mxs-i2c mxs-i2c.0: Done with err=0
+[55252.540000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55252.540000] mxs-i2c mxs-i2c.0: Done with err=0
+[55252.540000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55252.540000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55252.540000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55252.540000] mxs-i2c mxs-i2c.0: Done with err=0
+[55252.540000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55252.540000] mxs-i2c mxs-i2c.0: Done with err=0
+[55252.550000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55252.550000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55252.550000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55252.550000] mxs-i2c mxs-i2c.0: Done with err=0
+[55252.550000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55252.550000] mxs-i2c mxs-i2c.0: Done with err=0
+[55252.550000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55252.550000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55252.550000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55252.550000] mxs-i2c mxs-i2c.0: Done with err=0
+[55252.550000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55252.550000] mxs-i2c mxs-i2c.0: Done with err=0
+[55252.550000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55252.550000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55252.550000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55252.550000] mxs-i2c mxs-i2c.0: Done with err=0
+[55252.550000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55252.550000] mxs-i2c mxs-i2c.0: Done with err=0
+[55252.550000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55252.550000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55252.550000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55252.550000] mxs-i2c mxs-i2c.0: Done with err=0
+[55252.550000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55252.550000] mxs-i2c mxs-i2c.0: Done with err=0
+[55252.550000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55252.550000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55252.550000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55252.550000] mxs-i2c mxs-i2c.0: Done with err=0
+[55252.550000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55252.550000] mxs-i2c mxs-i2c.0: Done with err=0
+[55252.550000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55252.550000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55252.550000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55252.550000] mxs-i2c mxs-i2c.0: Done with err=0
+[55252.550000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55252.550000] mxs-i2c mxs-i2c.0: Done with err=0
+[55252.550000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55252.550000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55252.550000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55252.550000] mxs-i2c mxs-i2c.0: Done with err=0
+[55252.550000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55252.550000] mxs-i2c mxs-i2c.0: Done with err=0
+[55252.550000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55252.550000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55252.550000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55252.550000] mxs-i2c mxs-i2c.0: Done with err=0
+[55252.550000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55252.550000] mxs-i2c mxs-i2c.0: Done with err=0
+[55252.550000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55252.550000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55252.550000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55252.560000] mxs-i2c mxs-i2c.0: Done with err=0
+[55252.560000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55252.560000] mxs-i2c mxs-i2c.0: Done with err=0
+[55252.560000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55252.560000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55252.560000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55252.560000] mxs-i2c mxs-i2c.0: Done with err=0
+[55252.560000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55252.560000] mxs-i2c mxs-i2c.0: Done with err=0
+[55252.560000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55252.560000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55252.560000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55252.560000] mxs-i2c mxs-i2c.0: Done with err=0
+[55252.560000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55252.560000] mxs-i2c mxs-i2c.0: Done with err=0
+[55252.560000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55252.560000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55252.560000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55252.560000] mxs-i2c mxs-i2c.0: Done with err=0
+[55252.560000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55252.560000] mxs-i2c mxs-i2c.0: Done with err=0
+[55252.560000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55252.560000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55252.560000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55252.560000] mxs-i2c mxs-i2c.0: Done with err=0
+[55252.560000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55252.560000] mxs-i2c mxs-i2c.0: Done with err=0
+[55252.560000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55252.560000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55252.560000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55252.560000] mxs-i2c mxs-i2c.0: Done with err=0
+[55252.560000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55252.560000] mxs-i2c mxs-i2c.0: Done with err=0
+[55252.560000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55252.560000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55252.560000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55252.560000] mxs-i2c mxs-i2c.0: Done with err=0
+[55252.560000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55252.560000] mxs-i2c mxs-i2c.0: Done with err=0
+[55252.560000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55252.560000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55252.560000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55252.560000] mxs-i2c mxs-i2c.0: Done with err=0
+[55252.560000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55252.560000] mxs-i2c mxs-i2c.0: Done with err=0
+[55252.560000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55252.560000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55252.560000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55252.560000] mxs-i2c mxs-i2c.0: Done with err=0
+[55252.560000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55252.570000] mxs-i2c mxs-i2c.0: Done with err=0
+[55252.570000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55252.570000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55252.570000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55252.570000] mxs-i2c mxs-i2c.0: Done with err=0
+[55252.570000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55252.570000] mxs-i2c mxs-i2c.0: Done with err=0
+[55252.570000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55252.570000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55252.570000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55252.570000] mxs-i2c mxs-i2c.0: Done with err=0
+[55252.570000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55252.570000] mxs-i2c mxs-i2c.0: Done with err=0
+[55252.570000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55252.570000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55252.570000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55252.570000] mxs-i2c mxs-i2c.0: Done with err=0
+[55252.570000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55252.570000] mxs-i2c mxs-i2c.0: Done with err=0
+[55252.570000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55252.570000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55252.570000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55252.570000] mxs-i2c mxs-i2c.0: Done with err=0
+[55252.570000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55252.570000] mxs-i2c mxs-i2c.0: Done with err=0
+[55252.580000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55252.580000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55252.580000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55252.580000] mxs-i2c mxs-i2c.0: Done with err=0
+[55252.580000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55252.580000] mxs-i2c mxs-i2c.0: Done with err=0
+[55252.580000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55252.580000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55252.580000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55252.580000] mxs-i2c mxs-i2c.0: Done with err=0
+[55252.580000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55252.580000] mxs-i2c mxs-i2c.0: Done with err=0
+[55252.580000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55252.580000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55252.580000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55252.580000] mxs-i2c mxs-i2c.0: Done with err=0
+[55252.580000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55252.580000] mxs-i2c mxs-i2c.0: Done with err=0
+[55253.740000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55253.740000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55253.740000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55253.740000] mxs-i2c mxs-i2c.0: Done with err=0
+[55253.740000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55253.740000] mxs-i2c mxs-i2c.0: Done with err=0
+[55253.740000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55253.740000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55253.740000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55253.740000] mxs-i2c mxs-i2c.0: Done with err=0
+[55253.740000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55253.740000] mxs-i2c mxs-i2c.0: Done with err=0
+[55253.740000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55253.740000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55253.740000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55253.740000] mxs-i2c mxs-i2c.0: Done with err=0
+[55253.740000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55253.740000] mxs-i2c mxs-i2c.0: Done with err=0
+[55253.740000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55253.740000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55253.740000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55253.740000] mxs-i2c mxs-i2c.0: Done with err=0
+[55253.740000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55253.740000] mxs-i2c mxs-i2c.0: Done with err=0
+[55253.740000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55253.740000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55253.740000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55253.740000] mxs-i2c mxs-i2c.0: Done with err=0
+[55253.740000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55253.740000] mxs-i2c mxs-i2c.0: Done with err=0
+[55253.740000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55253.740000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55253.740000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55253.740000] mxs-i2c mxs-i2c.0: Done with err=0
+[55253.740000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55253.740000] mxs-i2c mxs-i2c.0: Done with err=0
+[55254.930000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55254.930000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55254.930000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55254.930000] mxs-i2c mxs-i2c.0: Done with err=0
+[55254.930000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55254.930000] mxs-i2c mxs-i2c.0: Done with err=0
+[55254.930000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55254.930000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55254.930000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55254.930000] mxs-i2c mxs-i2c.0: Done with err=0
+[55254.930000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55254.930000] mxs-i2c mxs-i2c.0: Done with err=0
+[55254.930000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55254.930000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55254.930000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55254.930000] mxs-i2c mxs-i2c.0: Done with err=0
+[55254.930000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55254.930000] mxs-i2c mxs-i2c.0: Done with err=0
+[55254.930000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55254.930000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55254.930000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55254.930000] mxs-i2c mxs-i2c.0: Done with err=0
+[55254.930000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55254.930000] mxs-i2c mxs-i2c.0: Done with err=0
+[55254.930000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55254.930000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55254.930000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55254.930000] mxs-i2c mxs-i2c.0: Done with err=0
+[55254.930000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55254.930000] mxs-i2c mxs-i2c.0: Done with err=0
+[55254.930000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55254.930000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55254.930000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55254.930000] mxs-i2c mxs-i2c.0: Done with err=0
+[55254.930000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55254.930000] mxs-i2c mxs-i2c.0: Done with err=0
+[55254.930000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55254.930000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55254.930000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55254.940000] mxs-i2c mxs-i2c.0: Done with err=0
+[55254.940000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55254.940000] mxs-i2c mxs-i2c.0: Done with err=0
+[55254.940000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55254.940000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55254.940000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55254.940000] mxs-i2c mxs-i2c.0: Done with err=0
+[55254.940000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55254.940000] mxs-i2c mxs-i2c.0: Done with err=0
+[55254.940000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55254.940000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55254.940000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55254.940000] mxs-i2c mxs-i2c.0: Done with err=0
+[55254.940000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55254.940000] mxs-i2c mxs-i2c.0: Done with err=0
+[55254.940000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55254.940000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55254.940000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55254.940000] mxs-i2c mxs-i2c.0: Done with err=0
+[55254.940000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55254.940000] mxs-i2c mxs-i2c.0: Done with err=0
+[55254.940000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55254.940000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55254.940000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55254.940000] mxs-i2c mxs-i2c.0: Done with err=0
+[55254.940000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55254.940000] mxs-i2c mxs-i2c.0: Done with err=0
+[55254.940000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55254.940000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55254.940000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55254.940000] mxs-i2c mxs-i2c.0: Done with err=0
+[55254.940000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55254.940000] mxs-i2c mxs-i2c.0: Done with err=0
+[55256.080000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55256.080000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55256.080000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55256.080000] mxs-i2c mxs-i2c.0: Done with err=0
+[55256.080000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55256.080000] mxs-i2c mxs-i2c.0: Done with err=0
+[55256.080000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55256.080000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55256.080000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55256.080000] mxs-i2c mxs-i2c.0: Done with err=0
+[55256.080000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55256.080000] mxs-i2c mxs-i2c.0: Done with err=0
+[55256.080000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55256.080000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55256.080000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55256.080000] mxs-i2c mxs-i2c.0: Done with err=0
+[55256.080000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55256.080000] mxs-i2c mxs-i2c.0: Done with err=0
+[55256.080000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55256.080000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55256.080000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55256.080000] mxs-i2c mxs-i2c.0: Done with err=0
+[55256.080000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55256.080000] mxs-i2c mxs-i2c.0: Done with err=0
+[55256.080000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55256.080000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55256.080000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55256.080000] mxs-i2c mxs-i2c.0: Done with err=0
+[55256.080000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55256.080000] mxs-i2c mxs-i2c.0: Done with err=0
+[55256.080000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55256.080000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55256.080000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55256.080000] mxs-i2c mxs-i2c.0: Done with err=0
+[55256.080000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55256.080000] mxs-i2c mxs-i2c.0: Done with err=0
+[55257.220000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55257.220000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55257.220000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55257.220000] mxs-i2c mxs-i2c.0: Done with err=0
+[55257.220000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55257.220000] mxs-i2c mxs-i2c.0: Done with err=0
+[55257.220000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55257.220000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55257.220000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55257.220000] mxs-i2c mxs-i2c.0: Done with err=0
+[55257.220000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55257.220000] mxs-i2c mxs-i2c.0: Done with err=0
+[55257.220000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55257.220000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55257.220000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55257.220000] mxs-i2c mxs-i2c.0: Done with err=0
+[55257.220000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55257.220000] mxs-i2c mxs-i2c.0: Done with err=0
+[55257.220000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55257.220000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55257.220000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55257.220000] mxs-i2c mxs-i2c.0: Done with err=0
+[55257.220000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55257.220000] mxs-i2c mxs-i2c.0: Done with err=0
+[55257.220000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55257.220000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55257.220000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55257.220000] mxs-i2c mxs-i2c.0: Done with err=0
+[55257.220000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55257.230000] mxs-i2c mxs-i2c.0: Done with err=0
+[55257.230000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55257.230000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55257.230000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55257.230000] mxs-i2c mxs-i2c.0: Done with err=0
+[55257.230000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55257.230000] mxs-i2c mxs-i2c.0: Done with err=0
+[55257.230000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55257.230000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55257.230000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55257.230000] mxs-i2c mxs-i2c.0: Done with err=0
+[55257.230000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55257.230000] mxs-i2c mxs-i2c.0: Done with err=0
+[55257.230000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55257.230000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55257.230000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55257.230000] mxs-i2c mxs-i2c.0: Done with err=0
+[55257.230000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55257.230000] mxs-i2c mxs-i2c.0: Done with err=0
+[55257.230000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55257.230000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55257.230000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55257.230000] mxs-i2c mxs-i2c.0: Done with err=0
+[55257.230000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55257.230000] mxs-i2c mxs-i2c.0: Done with err=0
+[55257.230000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55257.230000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55257.230000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55257.230000] mxs-i2c mxs-i2c.0: Done with err=0
+[55257.230000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55257.230000] mxs-i2c mxs-i2c.0: Done with err=0
+[55257.230000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55257.230000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55257.230000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55257.230000] mxs-i2c mxs-i2c.0: Done with err=0
+[55257.230000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55257.230000] mxs-i2c mxs-i2c.0: Done with err=0
+[55257.230000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55257.230000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55257.230000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55257.230000] mxs-i2c mxs-i2c.0: Done with err=0
+[55257.230000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55257.230000] mxs-i2c mxs-i2c.0: Done with err=0
+[55257.230000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55257.230000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55257.230000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55257.230000] mxs-i2c mxs-i2c.0: Done with err=0
+[55257.230000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55257.240000] mxs-i2c mxs-i2c.0: Done with err=0
+[55257.240000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55257.240000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55257.240000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55257.240000] mxs-i2c mxs-i2c.0: Done with err=0
+[55257.240000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55257.240000] mxs-i2c mxs-i2c.0: Done with err=0
+[55257.240000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55257.240000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55257.240000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55257.240000] mxs-i2c mxs-i2c.0: Done with err=0
+[55257.240000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55257.240000] mxs-i2c mxs-i2c.0: Done with err=0
+[55257.240000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55257.240000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55257.240000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55257.240000] mxs-i2c mxs-i2c.0: Done with err=0
+[55257.240000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55257.240000] mxs-i2c mxs-i2c.0: Done with err=0
+[55257.240000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55257.240000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55257.240000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55257.240000] mxs-i2c mxs-i2c.0: Done with err=0
+[55257.240000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55257.240000] mxs-i2c mxs-i2c.0: Done with err=0
+[55257.240000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55257.240000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55257.240000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55257.240000] mxs-i2c mxs-i2c.0: Done with err=0
+[55257.240000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55257.240000] mxs-i2c mxs-i2c.0: Done with err=0
+[55257.240000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55257.240000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55257.240000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55257.240000] mxs-i2c mxs-i2c.0: Done with err=0
+[55257.240000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55257.240000] mxs-i2c mxs-i2c.0: Done with err=0
+[55257.240000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55257.240000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55257.240000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55257.240000] mxs-i2c mxs-i2c.0: Done with err=0
+[55257.240000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55257.240000] mxs-i2c mxs-i2c.0: Done with err=0
+[55257.240000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55257.240000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55257.240000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55257.240000] mxs-i2c mxs-i2c.0: Done with err=0
+[55257.240000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55257.240000] mxs-i2c mxs-i2c.0: Done with err=0
+[55257.240000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55257.240000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55257.240000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55257.240000] mxs-i2c mxs-i2c.0: Done with err=0
+[55257.240000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55257.240000] mxs-i2c mxs-i2c.0: Done with err=0
+[55257.240000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55257.240000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55257.240000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55257.240000] mxs-i2c mxs-i2c.0: Done with err=0
+[55257.240000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55257.250000] mxs-i2c mxs-i2c.0: Done with err=0
+[55257.250000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55257.250000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55257.250000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55257.250000] mxs-i2c mxs-i2c.0: Done with err=0
+[55257.250000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55257.250000] mxs-i2c mxs-i2c.0: Done with err=0
+[55257.250000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55257.250000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55257.250000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55257.250000] mxs-i2c mxs-i2c.0: Done with err=0
+[55257.250000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55257.250000] mxs-i2c mxs-i2c.0: Done with err=0
+[55257.250000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55257.250000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55257.250000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55257.250000] mxs-i2c mxs-i2c.0: Done with err=0
+[55257.250000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55257.250000] mxs-i2c mxs-i2c.0: Done with err=0
+[55257.250000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55257.250000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55257.250000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55257.250000] mxs-i2c mxs-i2c.0: Done with err=0
+[55257.250000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55257.250000] mxs-i2c mxs-i2c.0: Done with err=0
+[55257.250000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55257.250000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55257.250000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55257.250000] mxs-i2c mxs-i2c.0: Done with err=0
+[55257.250000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55257.250000] mxs-i2c mxs-i2c.0: Done with err=0
+[55257.250000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55257.250000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55257.250000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55257.250000] mxs-i2c mxs-i2c.0: Done with err=0
+[55257.250000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55257.250000] mxs-i2c mxs-i2c.0: Done with err=0
+[55257.250000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55257.250000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55257.250000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55257.250000] mxs-i2c mxs-i2c.0: Done with err=0
+[55257.250000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55257.250000] mxs-i2c mxs-i2c.0: Done with err=0
+[55258.430000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55258.430000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55258.430000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55258.430000] mxs-i2c mxs-i2c.0: Done with err=0
+[55258.430000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55258.430000] mxs-i2c mxs-i2c.0: Done with err=0
+[55258.430000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55258.430000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55258.430000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55258.430000] mxs-i2c mxs-i2c.0: Done with err=0
+[55258.430000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55258.430000] mxs-i2c mxs-i2c.0: Done with err=0
+[55258.430000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55258.430000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55258.430000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55258.430000] mxs-i2c mxs-i2c.0: Done with err=0
+[55258.430000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55258.430000] mxs-i2c mxs-i2c.0: Done with err=0
+[55258.430000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55258.430000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55258.430000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55258.430000] mxs-i2c mxs-i2c.0: Done with err=0
+[55258.430000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55258.430000] mxs-i2c mxs-i2c.0: Done with err=0
+[55258.430000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55258.430000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55258.430000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55258.430000] mxs-i2c mxs-i2c.0: Done with err=0
+[55258.430000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55258.430000] mxs-i2c mxs-i2c.0: Done with err=0
+[55258.430000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55258.430000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55258.430000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55258.430000] mxs-i2c mxs-i2c.0: Done with err=0
+[55258.430000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55258.430000] mxs-i2c mxs-i2c.0: Done with err=0
+[55259.580000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55259.580000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55259.580000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55259.580000] mxs-i2c mxs-i2c.0: Done with err=0
+[55259.580000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55259.580000] mxs-i2c mxs-i2c.0: Done with err=0
+[55259.580000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55259.580000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55259.580000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55259.580000] mxs-i2c mxs-i2c.0: Done with err=0
+[55259.580000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55259.580000] mxs-i2c mxs-i2c.0: Done with err=0
+[55259.580000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55259.580000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55259.580000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55259.580000] mxs-i2c mxs-i2c.0: Done with err=0
+[55259.580000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55259.580000] mxs-i2c mxs-i2c.0: Done with err=0
+[55259.580000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55259.580000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55259.580000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55259.580000] mxs-i2c mxs-i2c.0: Done with err=0
+[55259.580000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55259.580000] mxs-i2c mxs-i2c.0: Done with err=0
+[55259.580000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55259.580000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55259.580000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55259.580000] mxs-i2c mxs-i2c.0: Done with err=0
+[55259.580000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55259.580000] mxs-i2c mxs-i2c.0: Done with err=0
+[55259.580000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55259.580000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55259.580000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55259.580000] mxs-i2c mxs-i2c.0: Done with err=0
+[55259.580000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55259.580000] mxs-i2c mxs-i2c.0: Done with err=0
+[55259.590000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55259.590000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55259.590000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55259.590000] mxs-i2c mxs-i2c.0: Done with err=0
+[55259.590000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55259.590000] mxs-i2c mxs-i2c.0: Done with err=0
+[55259.590000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55259.590000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55259.590000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55259.590000] mxs-i2c mxs-i2c.0: Done with err=0
+[55259.590000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55259.590000] mxs-i2c mxs-i2c.0: Done with err=0
+[55259.590000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55259.590000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55259.590000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55259.600000] mxs-i2c mxs-i2c.0: Done with err=0
+[55259.600000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55259.600000] mxs-i2c mxs-i2c.0: Done with err=0
+[55259.600000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55259.600000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55259.600000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55259.600000] mxs-i2c mxs-i2c.0: Done with err=0
+[55259.600000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55259.600000] mxs-i2c mxs-i2c.0: Done with err=0
+[55259.600000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55259.600000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55259.600000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55259.600000] mxs-i2c mxs-i2c.0: Done with err=0
+[55259.600000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55259.600000] mxs-i2c mxs-i2c.0: Done with err=0
+[55259.600000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55259.600000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55259.600000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55259.600000] mxs-i2c mxs-i2c.0: Done with err=0
+[55259.600000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55259.600000] mxs-i2c mxs-i2c.0: Done with err=0
+[55260.750000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55260.750000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55260.750000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55260.750000] mxs-i2c mxs-i2c.0: Done with err=0
+[55260.750000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55260.750000] mxs-i2c mxs-i2c.0: Done with err=0
+[55260.750000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55260.750000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55260.750000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55260.750000] mxs-i2c mxs-i2c.0: Done with err=0
+[55260.750000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55260.750000] mxs-i2c mxs-i2c.0: Done with err=0
+[55260.750000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55260.750000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55260.750000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55260.750000] mxs-i2c mxs-i2c.0: Done with err=0
+[55260.750000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55260.750000] mxs-i2c mxs-i2c.0: Done with err=0
+[55260.750000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55260.750000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55260.750000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55260.750000] mxs-i2c mxs-i2c.0: Done with err=0
+[55260.750000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55260.750000] mxs-i2c mxs-i2c.0: Done with err=0
+[55260.750000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55260.750000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55260.750000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55260.750000] mxs-i2c mxs-i2c.0: Done with err=0
+[55260.750000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55260.750000] mxs-i2c mxs-i2c.0: Done with err=0
+[55260.750000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55260.750000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55260.750000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55260.750000] mxs-i2c mxs-i2c.0: Done with err=0
+[55260.750000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55260.750000] mxs-i2c mxs-i2c.0: Done with err=0
+[55260.750000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55260.750000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55260.750000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55260.760000] mxs-i2c mxs-i2c.0: Done with err=0
+[55260.760000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55260.760000] mxs-i2c mxs-i2c.0: Done with err=0
+[55260.760000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55260.760000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55260.760000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55260.760000] mxs-i2c mxs-i2c.0: Done with err=0
+[55260.760000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55260.760000] mxs-i2c mxs-i2c.0: Done with err=0
+[55260.760000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55260.760000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55260.760000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55260.760000] mxs-i2c mxs-i2c.0: Done with err=0
+[55260.760000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55260.760000] mxs-i2c mxs-i2c.0: Done with err=0
+[55260.760000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55260.760000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55260.760000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55260.760000] mxs-i2c mxs-i2c.0: Done with err=0
+[55260.760000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55260.760000] mxs-i2c mxs-i2c.0: Done with err=0
+[55260.760000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55260.760000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55260.760000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55260.760000] mxs-i2c mxs-i2c.0: Done with err=0
+[55260.760000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55260.760000] mxs-i2c mxs-i2c.0: Done with err=0
+[55260.760000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[55260.760000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[55260.760000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[55260.760000] mxs-i2c mxs-i2c.0: Done with err=0
+[55260.760000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x1, stop: 1
+[55260.760000] mxs-i2c mxs-i2c.0: Done with err=0
+HW eth:
+eth0      Link encap:Ethernet  HWaddr 00:04:47:AC:0B:1A  
+          inet addr:192.168.1.122  Bcast:192.168.1.255  Mask:255.255.255.0
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:359357 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:317259 errors:1 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:63261661 (60.3 MiB)  TX bytes:67390440 (64.2 MiB)
+          Base address:0x8000 
+
+lo        Link encap:Local Loopback  
+          inet addr:127.0.0.1  Mask:255.0.0.0
+          UP LOOPBACK RUNNING  MTU:16436  Metric:1
+          RX packets:345 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:345 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:0 
+          RX bytes:30904 (30.1 KiB)  TX bytes:30904 (30.1 KiB)
+
+wlan0     Link encap:Ethernet  HWaddr 00:19:94:2F:E9:12  
+          inet addr:192.168.2.200  Bcast:192.168.2.255  Mask:255.255.255.0
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:0 (0.0 B)  TX bytes:0 (0.0 B)
+
+HW dev:
+lrwxrwxrwx    1 root     root            4 Jan  4 08:26 XOR -> null
+crw-rw----    1 root     root      10,  63 Jan  4 08:26 ashmem
+crw-rw----    1 root     root      10, 235 Jan  4 08:26 autofs
+drwxr-xr-x    3 root     root           60 Jan  4 08:26 bus
+crw-------    1 root     root       5,   1 Jan  4 08:26 console
+crw-rw----    1 root     root      10,  58 Jan  4 08:26 cpu_dma_latency
+crw-rw----    1 root     root      10,  62 Jan  4 08:26 cuse
+crw-rw----    1 root     root      10,  59 Jan  4 08:26 dcpboot
+lrwxrwxrwx    1 root     root            3 Jan  4 08:26 fb -> fb0
+crw-rw-rw-    1 root     root      29,   0 Jan  4 08:26 fb0
+crw-rw-rw-    1 root     root       1,   7 Jan  4 08:26 full
+crw-rw-rw-    1 root     root      10, 229 Jan  4 08:26 fuse
+drwxr-xr-x    3 root     root          160 Jan  4 08:26 input
+crw-r-----    1 root     kmem       1,   2 Jan  4 08:26 kmem
+crw-rw----    1 root     root       1,  11 Jan  4 08:26 kmsg
+brw-r-----    1 root     disk       7,   0 Jan  4 08:26 loop0
+brw-r-----    1 root     disk       7,   1 Jan  4 08:26 loop1
+brw-r-----    1 root     disk       7,   2 Jan  4 08:26 loop2
+brw-r-----    1 root     disk       7,   3 Jan  4 08:26 loop3
+brw-r-----    1 root     disk       7,   4 Jan  4 08:26 loop4
+brw-r-----    1 root     disk       7,   5 Jan  4 08:26 loop5
+brw-r-----    1 root     disk       7,   6 Jan  4 08:26 loop6
+brw-r-----    1 root     disk       7,   7 Jan  4 08:26 loop7
+crw-r-----    1 root     kmem       1,   1 Jan  4 08:26 mem
+crw-rw----    1 root     root      90,   0 Jan  4 08:26 mtd0
+crw-rw----    1 root     root      90,   1 Jan  4 08:26 mtd0ro
+crw-rw----    1 root     root      90,   2 Jan  4 08:26 mtd1
+crw-rw----    1 root     root      90,   3 Jan  4 08:26 mtd1ro
+brw-r-----    1 root     disk      31,   0 Jan  4 08:26 mtdblock0
+brw-r-----    1 root     disk      31,   1 Jan  4 08:26 mtdblock1
+lrwxrwxrwx    1 root     root            8 Jan  4 08:26 mxc_mem -> mxs_viim
+cr--r--r--    1 root     root      10,  61 Jan  4 08:26 mxs_viim
+brw-r-----    1 root     disk      43,   0 Jan  4 08:26 nbd0
+brw-r-----    1 root     disk      43,   1 Jan  4 08:26 nbd1
+brw-r-----    1 root     disk      43,  10 Jan  4 08:26 nbd10
+brw-r-----    1 root     disk      43,  11 Jan  4 08:26 nbd11
+brw-r-----    1 root     disk      43,  12 Jan  4 08:26 nbd12
+brw-r-----    1 root     disk      43,  13 Jan  4 08:26 nbd13
+brw-r-----    1 root     disk      43,  14 Jan  4 08:26 nbd14
+brw-r-----    1 root     disk      43,  15 Jan  4 08:26 nbd15
+brw-r-----    1 root     disk      43,   2 Jan  4 08:26 nbd2
+brw-r-----    1 root     disk      43,   3 Jan  4 08:26 nbd3
+brw-r-----    1 root     disk      43,   4 Jan  4 08:26 nbd4
+brw-r-----    1 root     disk      43,   5 Jan  4 08:26 nbd5
+brw-r-----    1 root     disk      43,   6 Jan  4 08:26 nbd6
+brw-r-----    1 root     disk      43,   7 Jan  4 08:26 nbd7
+brw-r-----    1 root     disk      43,   8 Jan  4 08:26 nbd8
+brw-r-----    1 root     disk      43,   9 Jan  4 08:26 nbd9
+drwxr-xr-x    2 root     root           60 Jan  4 08:26 net
+crw-rw----    1 root     root      10,  57 Jan  4 08:26 network_latency
+crw-rw----    1 root     root      10,  56 Jan  4 08:26 network_throughput
+crw-rw-rw-    1 root     root       1,   3 Jan  4 08:26 null
+crw-rw-rw-    1 root     tty        5,   2 Jan  4 08:26 ptmx
+drwxr-xr-x    2 root     root            0 Jan  1 00:00 pts
+crw-rw----    1 root     tty        2,   0 Jan  4 08:26 ptyp0
+crw-rw----    1 root     tty        2,   1 Jan  4 08:26 ptyp1
+lrwxrwxrwx    1 root     root            4 Jan  4 08:26 ram -> ram1
+brw-r-----    1 root     disk       1,   0 Jan  4 08:26 ram0
+brw-r-----    1 root     disk       1,   1 Jan  4 08:26 ram1
+brw-r-----    1 root     disk       1,   2 Jan  4 08:26 ram2
+brw-r-----    1 root     disk       1,   3 Jan  4 08:26 ram3
+lrwxrwxrwx    1 root     root            4 Jan  4 08:26 ramdisk -> ram0
+crw-rw-rw-    1 root     root       1,   8 Jan  4 08:26 random
+lrwxrwxrwx    1 root     root            4 Jan  4 08:26 rtc -> rtc0
+crw-r--r--    1 root     root     254,   0 Jan  4 08:26 rtc0
+drwxrwxrwt    2 root     root           60 Jan  4 08:26 shm
+crw-rw-rw-    1 root     tty        5,   0 Jan  4 08:26 tty
+crw--w----    1 root     tty        4,   0 Jan  4 08:26 tty0
+crw--w----    1 root     tty        4,   1 Jan  4 08:26 tty1
+crw--w----    1 root     tty        4,  10 Jan  4 08:26 tty10
+crw--w----    1 root     tty        4,  11 Jan  4 08:26 tty11
+crw--w----    1 root     tty        4,  12 Jan  4 08:26 tty12
+crw--w----    1 root     tty        4,  13 Jan  4 08:26 tty13
+crw--w----    1 root     tty        4,  14 Jan  4 08:26 tty14
+crw--w----    1 root     tty        4,  15 Jan  4 08:26 tty15
+crw--w----    1 root     tty        4,  16 Jan  4 08:26 tty16
+crw--w----    1 root     tty        4,  17 Jan  4 08:26 tty17
+crw--w----    1 root     tty        4,  18 Jan  4 08:26 tty18
+crw--w----    1 root     tty        4,  19 Jan  4 08:26 tty19
+crw--w----    1 root     tty        4,   2 Jan  4 08:26 tty2
+crw--w----    1 root     tty        4,  20 Jan  4 08:26 tty20
+crw--w----    1 root     tty        4,  21 Jan  4 08:26 tty21
+crw--w----    1 root     tty        4,  22 Jan  4 08:26 tty22
+crw--w----    1 root     tty        4,  23 Jan  4 08:26 tty23
+crw--w----    1 root     tty        4,  24 Jan  4 08:26 tty24
+crw--w----    1 root     tty        4,  25 Jan  4 08:26 tty25
+crw--w----    1 root     tty        4,  26 Jan  4 08:26 tty26
+crw--w----    1 root     tty        4,  27 Jan  4 08:26 tty27
+crw--w----    1 root     tty        4,  28 Jan  4 08:26 tty28
+crw--w----    1 root     tty        4,  29 Jan  4 08:26 tty29
+crw--w----    1 root     tty        4,   3 Jan  4 08:26 tty3
+crw--w----    1 root     tty        4,  30 Jan  4 08:26 tty30
+crw--w----    1 root     tty        4,  31 Jan  4 08:26 tty31
+crw--w----    1 root     tty        4,  32 Jan  4 08:26 tty32
+crw--w----    1 root     tty        4,  33 Jan  4 08:26 tty33
+crw--w----    1 root     tty        4,  34 Jan  4 08:26 tty34
+crw--w----    1 root     tty        4,  35 Jan  4 08:26 tty35
+crw--w----    1 root     tty        4,  36 Jan  4 08:26 tty36
+crw--w----    1 root     tty        4,  37 Jan  4 08:26 tty37
+crw--w----    1 root     tty        4,  38 Jan  4 08:26 tty38
+crw--w----    1 root     tty        4,  39 Jan  4 08:26 tty39
+crw--w----    1 root     tty        4,   4 Jan  4 08:26 tty4
+crw--w----    1 root     tty        4,  40 Jan  4 08:26 tty40
+crw--w----    1 root     tty        4,  41 Jan  4 08:26 tty41
+crw--w----    1 root     tty        4,  42 Jan  4 08:26 tty42
+crw--w----    1 root     tty        4,  43 Jan  4 08:26 tty43
+crw--w----    1 root     tty        4,  44 Jan  4 08:26 tty44
+crw--w----    1 root     tty        4,  45 Jan  4 08:26 tty45
+crw--w----    1 root     tty        4,  46 Jan  4 08:26 tty46
+crw--w----    1 root     tty        4,  47 Jan  4 08:26 tty47
+crw--w----    1 root     tty        4,  48 Jan  4 08:26 tty48
+crw--w----    1 root     tty        4,  49 Jan  4 08:26 tty49
+crw--w----    1 root     tty        4,   5 Jan  4 08:26 tty5
+crw--w----    1 root     tty        4,  50 Jan  4 08:26 tty50
+crw--w----    1 root     tty        4,  51 Jan  4 08:26 tty51
+crw--w----    1 root     tty        4,  52 Jan  4 08:26 tty52
+crw--w----    1 root     tty        4,  53 Jan  4 08:26 tty53
+crw--w----    1 root     tty        4,  54 Jan  4 08:26 tty54
+crw--w----    1 root     tty        4,  55 Jan  4 08:26 tty55
+crw--w----    1 root     tty        4,  56 Jan  4 08:26 tty56
+crw--w----    1 root     tty        4,  57 Jan  4 08:26 tty57
+crw--w----    1 root     tty        4,  58 Jan  4 08:26 tty58
+crw--w----    1 root     tty        4,  59 Jan  4 08:26 tty59
+crw--w----    1 root     tty        4,   6 Jan  4 08:26 tty6
+crw--w----    1 root     tty        4,  60 Jan  4 08:26 tty60
+crw--w----    1 root     tty        4,  61 Jan  4 08:26 tty61
+crw--w----    1 root     tty        4,  62 Jan  4 08:26 tty62
+crw--w----    1 root     tty        4,  63 Jan  4 08:26 tty63
+crw--w----    1 root     tty        4,   7 Jan  4 08:26 tty7
+crw--w----    1 root     tty        4,   8 Jan  4 08:26 tty8
+crw--w----    1 root     tty        4,   9 Jan  4 08:26 tty9
+crw--w----    1 root     root     204,  16 Jan  4 08:28 ttyAM0
+crw-rw----    1 root     uucp     250,   0 Jan  4 08:26 ttyGS0
+crw-rw----    1 root     uucp     242,   0 Jan  4 08:26 ttySP0
+crw-rw----    1 root     tty        3,   0 Jan  4 08:26 ttyp0
+crw-rw----    1 root     tty        3,   1 Jan  4 08:26 ttyp1
+crw-rw----    1 root     root     251,   0 Jan  4 08:26 ubi0
+crw-rw----    1 root     root     251,   1 Jan  4 08:26 ubi0_0
+crw-rw----    1 root     root      10,  60 Jan  4 08:26 ubi_ctrl
+brw-r-----    1 root     disk     254,   0 Jan  4 08:26 ubiblka
+crw-rw-rw-    1 root     root       1,   9 Jan  4 08:26 urandom
+crw-rw----    1 root     root     189,   0 Jan  4 08:26 usbdev1.1
+crw-rw----    1 root     root     189, 128 Jan  4 08:26 usbdev2.1
+crw-rw----    1 root     root     189, 129 Jan  4 08:26 usbdev2.2
+crw-rw----    1 root     tty        7,   0 Jan  4 08:26 vcs
+crw-rw----    1 root     tty        7,   1 Jan  4 08:26 vcs1
+crw-rw----    1 root     tty        7, 128 Jan  4 08:26 vcsa
+crw-rw----    1 root     tty        7, 129 Jan  4 08:26 vcsa1
+crw-rw----    1 root     root      10, 130 Jan  4 08:26 watchdog
+crw-rw-rw-    1 root     root       1,   5 Jan  4 08:26 zero
+HW sys:
+drwxr-xr-x    2 root     root            0 Jan  4 08:26 block
+drwxr-xr-x    9 root     root            0 Jan  4 08:26 bus
+drwxr-xr-x   30 root     root            0 Jan  4 08:26 class
+drwxr-xr-x    4 root     root            0 Jan  4 08:26 dev
+drwxr-xr-x    5 root     root            0 Jan  4 08:26 devices
+drwxr-xr-x    2 root     root            0 Jan  4 08:26 firmware
+drwxr-xr-x    4 root     root            0 Jan  4 08:26 fs
+drwxr-xr-x    5 root     root            0 Jan  4 08:26 kernel
+drwxr-xr-x   29 root     root            0 Jan  4 08:26 module
+drwxr-xr-x    2 root     root            0 Jan  4 08:26 power
+HW /sys/class:
+drwxr-xr-x    2 root     root            0 Jan  4 08:26 backlight
+drwxr-xr-x    2 root     root            0 Jan  4 08:26 bdi
+drwxr-xr-x    2 root     root            0 Jan  4 08:26 block
+drwxr-xr-x    2 root     root            0 Jan  4 08:26 bsg
+drwxr-xr-x    2 root     root            0 Jan  4 08:26 cuse
+drwxr-xr-x    2 root     root            0 Jan  4 08:26 display
+drwxr-xr-x    2 root     root            0 Jan  4 08:26 dma
+drwxr-xr-x    2 root     root            0 Jan  4 08:26 firmware
+drwxr-xr-x    2 root     root            0 Jan  4 08:26 gpio
+drwxr-xr-x    2 root     root            0 Jan  4 08:26 graphics
+drwxr-xr-x    2 root     root            0 Jan  4 08:26 hwmon
+drwxr-xr-x    2 root     root            0 Jan  4 08:26 ieee80211
+drwxr-xr-x    2 root     root            0 Jan  4 08:26 input
+drwxr-xr-x    2 root     root            0 Jan  4 08:26 leds
+drwxr-xr-x    2 root     root            0 Jan  4 08:26 mdio_bus
+drwxr-xr-x    2 root     root            0 Jan  4 08:26 mem
+drwxr-xr-x    2 root     root            0 Jan  4 08:26 misc
+drwxr-xr-x    2 root     root            0 Jan  4 08:26 mtd
+drwxr-xr-x    2 root     root            0 Jan  4 08:26 net
+drwxr-xr-x    2 root     root            0 Jan  4 08:26 regulator
+drwxr-xr-x    2 root     root            0 Jan  4 08:26 rtc
+drwxr-xr-x    2 root     root            0 Jan  4 08:26 scsi_device
+drwxr-xr-x    2 root     root            0 Jan  4 08:26 scsi_host
+drwxr-xr-x    2 root     root            0 Jan  4 08:26 tty
+drwxr-xr-x    2 root     root            0 Jan  4 08:26 ubi
+drwxr-xr-x    2 root     root            0 Jan  4 08:26 usb_device
+drwxr-xr-x    2 root     root            0 Jan  4 08:26 vc
+drwxr-xr-x    2 root     root            0 Jan  4 08:26 vtconsole
+HW /sys/class/gpio:
+--w-------    1 root     root         4096 Jan  4 08:26 export
+lrwxrwxrwx    1 root     root            0 Jan  4 08:26 gpio100 -> ../../devices/virtual/gpio/gpio100
+lrwxrwxrwx    1 root     root            0 Jan  4 08:26 gpio101 -> ../../devices/virtual/gpio/gpio101
+lrwxrwxrwx    1 root     root            0 Jan  4 08:26 gpio21 -> ../../devices/virtual/gpio/gpio21
+lrwxrwxrwx    1 root     root            0 Jan  4 08:26 gpiochip0 -> ../../devices/virtual/gpio/gpiochip0
+lrwxrwxrwx    1 root     root            0 Jan  4 08:26 gpiochip128 -> ../../devices/virtual/gpio/gpiochip128
+lrwxrwxrwx    1 root     root            0 Jan  4 08:26 gpiochip32 -> ../../devices/virtual/gpio/gpiochip32
+lrwxrwxrwx    1 root     root            0 Jan  4 08:26 gpiochip64 -> ../../devices/virtual/gpio/gpiochip64
+lrwxrwxrwx    1 root     root            0 Jan  4 08:26 gpiochip96 -> ../../devices/virtual/gpio/gpiochip96
+--w-------    1 root     root         4096 Jan  4 08:26 unexport
+DRIVERS linux - KERNEL INFO:
+LOADED DRIVERS linux - KERNEL INFO:
+Module                  Size  Used by
+OS SYSTEM INFORMATION:
+Filesystem                Size      Used Available Use% Mounted on
+ubi0:rootfs              93.6M     48.1M     40.8M  54% /
+devtmpfs                 60.6M     40.0K     60.5M   0% /dev
+tmpfs                    60.6M     40.0K     60.5M   0% /dev
+shm                      60.6M      4.0K     60.6M   0% /dev/shm
+rwfs                    512.0K         0    512.0K   0% /mnt/rwfs
+Process info:
+  PID USER       VSZ STAT COMMAND
+    1 root      2168 S    init       
+    2 root         0 SW   [kthreadd]
+    3 root         0 SW   [ksoftirqd/0]
+    4 root         0 SW   [events/0]
+    5 root         0 SW   [khelper]
+    8 root         0 SW   [async/mgr]
+   59 root         0 DW   [usb_wakeup thre]
+  155 root         0 SW   [sync_supers]
+  157 root         0 SW   [bdi-default]
+  158 root         0 SW   [kintegrityd/0]
+  160 root         0 SW   [kblockd/0]
+  169 root         0 SW   [otg_switch/0]
+  175 root         0 SW   [khubd]
+  178 root         0 SW   [kseriod]
+  190 root         0 SW   [cfg80211]
+  193 root         0 SW<  [kslowd000]
+  194 root         0 SW<  [kslowd001]
+  210 root         0 DW   [usb_wakeup thre]
+  236 root         0 SW   [kswapd0]
+  289 root         0 SW   [aio/0]
+  313 root         0 SW   [crypto/0]
+  479 root         0 SW   [mtdblock0]
+  484 root         0 SW   [mtdblock1]
+  493 root         0 SW   [ubi_bgt0d]
+  494 root         0 SW   [ubiblk1]
+  522 root         0 SW   [usb_gadget_work]
+  526 root         0 SW   [file-storage]
+  539 root         0 SW   [kondemand/0]
+  540 root         0 SW   [kconservative/0]
+  555 root         0 SW   [usbhid_resumer]
+  559 root         0 SW   [pswitch]
+  565 root         0 SW   [ubifs_bgt0_0]
+  575 root      1780 S <  udevd --daemon 
+  960 root         0 SW   [phy0]
+ 1003 root      3928 S    /usr/sbin/sshd 
+ 1013 root      1612 S    /usr/bin/timecl_arm 192.168.1.121 
+ 1014 root      2168 S    /bin/sh /usr/bin/watchdog.sh mono SDK.UI.Linux.exe 
+ 1016 root     58936 S    mono SDK.UI.Linux.exe 
+ 1374 root      2172 S    /sbin/getty -L ttyAM0 115200 vt100 
+ 6674 root      6488 S    sshd: root@notty  
+ 6682 root      2168 S    sh -c /mnt/software/bin/test_wagon 
+ 6683 root      2172 S    /bin/sh /mnt/software/bin/test_wagon 
+ 6702 root      2172 R    ps aux 
+TOP info:
+Mem: 46792K used, 77280K free, 0K shrd, 0K buff, 10300K cached
+CPU:   0% usr  25% sys   0% nic  75% idle   0% io   0% irq   0% sirq
+Load average: 2.63 2.50 2.45 1/57 6704
+  PID  PPID USER     STAT   VSZ %MEM %CPU COMMAND
+ 6703  6683 root     R     2168   2%  17% top -b -n 2 -d 2 
+ 1016  1014 root     S    58936  47%   8% mono SDK.UI.Linux.exe 
+ 6674  1003 root     S     6488   5%   0% sshd: root@notty  
+ 1003     1 root     S     3928   3%   0% /usr/sbin/sshd 
+ 6683  6682 root     S     2172   2%   0% /bin/sh /mnt/software/bin/test_wagon 
+ 1374     1 root     S     2172   2%   0% /sbin/getty -L ttyAM0 115200 vt100 
+    1     0 root     S     2168   2%   0% init       
+ 6682  6674 root     S     2168   2%   0% sh -c /mnt/software/bin/test_wagon 
+ 1014     1 root     S     2168   2%   0% /bin/sh /usr/bin/watchdog.sh mono SDK.
+  575     1 root     S <   1780   1%   0% udevd --daemon 
+ 1013     1 root     S     1612   1%   0% /usr/bin/timecl_arm 192.168.1.121 
+    3     2 root     SW       0   0%   0% [ksoftirqd/0]
+    4     2 root     SW       0   0%   0% [events/0]
+  960     2 root     SW       0   0%   0% [phy0]
+  175     2 root     SW       0   0%   0% [khubd]
+    5     2 root     SW       0   0%   0% [khelper]
+    2     0 root     SW       0   0%   0% [kthreadd]
+    8     2 root     SW       0   0%   0% [async/mgr]
+   59     2 root     DW       0   0%   0% [usb_wakeup thre]
+  155     2 root     SW       0   0%   0% [sync_supers]
+  157     2 root     SW       0   0%   0% [bdi-default]
+  158     2 root     SW       0   0%   0% [kintegrityd/0]
+  160     2 root     SW       0   0%   0% [kblockd/0]
+  169     2 root     SW       0   0%   0% [otg_switch/0]
+  178     2 root     SW       0   0%   0% [kseriod]
+  190     2 root     SW       0   0%   0% [cfg80211]
+  193     2 root     SW<      0   0%   0% [kslowd000]
+  194     2 root     SW<      0   0%   0% [kslowd001]
+  210     2 root     DW       0   0%   0% [usb_wakeup thre]
+  236     2 root     SW       0   0%   0% [kswapd0]
+  289     2 root     SW       0   0%   0% [aio/0]
+  313     2 root     SW       0   0%   0% [crypto/0]
+  479     2 root     SW       0   0%   0% [mtdblock0]
+  484     2 root     SW       0   0%   0% [mtdblock1]
+  493     2 root     SW       0   0%   0% [ubi_bgt0d]
+  494     2 root     SW       0   0%   0% [ubiblk1]
+  522     2 root     SW       0   0%   0% [usb_gadget_work]
+  526     2 root     SW       0   0%   0% [file-storage]
+  539     2 root     SW       0   0%   0% [kondemand/0]
+  540     2 root     SW       0   0%   0% [kconservative/0]
+  555     2 root     SW       0   0%   0% [usbhid_resumer]
+  559     2 root     SW       0   0%   0% [pswitch]
+  565     2 root     SW       0   0%   0% [ubifs_bgt0_0]
+Mem: 46800K used, 77272K free, 0K shrd, 0K buff, 10304K cached
+CPU:   4% usr   6% sys   0% nic  88% idle   0% io   0% irq   0% sirq
+Load average: 2.63 2.50 2.45 1/58 6714
+  PID  PPID USER     STAT   VSZ %MEM %CPU COMMAND
+ 1016  1014 root     S    58936  47%   7% mono SDK.UI.Linux.exe 
+  575     1 root     S <   1780   1%   2% udevd --daemon 
+ 6703  6683 root     R     2172   2%   1% top -b -n 2 -d 2 
+ 6674  1003 root     S     6488   5%   0% sshd: root@notty  
+ 1003     1 root     S     3928   3%   0% /usr/sbin/sshd 
+ 6683  6682 root     S     2172   2%   0% /bin/sh /mnt/software/bin/test_wagon 
+ 1374     1 root     S     2172   2%   0% /sbin/getty -L ttyAM0 115200 vt100 
+    1     0 root     S     2168   2%   0% init       
+ 6682  6674 root     S     2168   2%   0% sh -c /mnt/software/bin/test_wagon 
+ 1014     1 root     S     2168   2%   0% /bin/sh /usr/bin/watchdog.sh mono SDK.
+ 1013     1 root     S     1612   1%   0% /usr/bin/timecl_arm 192.168.1.121 
+    3     2 root     SW       0   0%   0% [ksoftirqd/0]
+    4     2 root     SW       0   0%   0% [events/0]
+  960     2 root     SW       0   0%   0% [phy0]
+  175     2 root     SW       0   0%   0% [khubd]
+    5     2 root     SW       0   0%   0% [khelper]
+    2     0 root     SW       0   0%   0% [kthreadd]
+    8     2 root     SW       0   0%   0% [async/mgr]
+   59     2 root     DW       0   0%   0% [usb_wakeup thre]
+  155     2 root     SW       0   0%   0% [sync_supers]
+  157     2 root     SW       0   0%   0% [bdi-default]
+  158     2 root     SW       0   0%   0% [kintegrityd/0]
+  160     2 root     SW       0   0%   0% [kblockd/0]
+  169     2 root     SW       0   0%   0% [otg_switch/0]
+  178     2 root     SW       0   0%   0% [kseriod]
+  190     2 root     SW       0   0%   0% [cfg80211]
+  193     2 root     SW<      0   0%   0% [kslowd000]
+  194     2 root     SW<      0   0%   0% [kslowd001]
+  210     2 root     DW       0   0%   0% [usb_wakeup thre]
+  236     2 root     SW       0   0%   0% [kswapd0]
+  289     2 root     SW       0   0%   0% [aio/0]
+  313     2 root     SW       0   0%   0% [crypto/0]
+  479     2 root     SW       0   0%   0% [mtdblock0]
+  484     2 root     SW       0   0%   0% [mtdblock1]
+  493     2 root     SW       0   0%   0% [ubi_bgt0d]
+  494     2 root     SW       0   0%   0% [ubiblk1]
+  522     2 root     SW       0   0%   0% [usb_gadget_work]
+  526     2 root     SW       0   0%   0% [file-storage]
+  539     2 root     SW       0   0%   0% [kondemand/0]
+  540     2 root     SW       0   0%   0% [kconservative/0]
+  555     2 root     SW       0   0%   0% [usbhid_resumer]
+  559     2 root     SW       0   0%   0% [pswitch]
+  565     2 root     SW       0   0%   0% [ubifs_bgt0_0]
+ 6705     2 root     SW       0   0%   0% [flush-ubifs_0_0]
+
+ls / info:
+drwxr-xr-x    2 root     root         4376 Jan 21  1970 bin
+drwxr-xr-x    8 root     root         3060 Jan  4 08:26 dev
+drwxr-xr-x    7 root     root         3136 Jan  4 08:26 etc
+drwxr-xr-x    7 messageb messageb      480 Jan 21  1970 framework
+drwxr-xr-x    3 root     root          224 Jan 21  1970 home
+drwxr-xr-x    5 root     root         4240 Jan 21  1970 lib
+drwxr-xr-x    9 root     root          616 Jan  1 05:26 mnt
+drwxr-xr-x    2 root     root          160 Jan 21  1970 opt
+-rw-r--r--    1 root     root        49276 Jan  4 08:28 panel43_wagon.log
+dr-xr-xr-x   55 root     root            0 Jan  1 00:00 proc
+drwxr-xr-x    3 root     root          440 Jan  1 04:01 root
+drwxr-xr-x    2 root     root         2968 Jan 21  1970 sbin
+drwxr-xr-x   12 root     root            0 Jan  4 08:26 sys
+drwxr-xr-t    3 root     root          224 Jan  4 08:26 tmp
+drwxr-xr-x   10 root     root          672 Jan 21  1970 usr
+drwxr-xr-x   13 root     root          864 Jan 21  1970 var
+ls /mnt/software info:
+drwxrwxr-x    3 root     root         1768 Jan  1 05:27 bin
+ls /mnt/software/bin info:
+-rwxrwxr-x    1 root     root        69632 Jan  4 06:01 Nini.dll
+-rwxrwxr-x    1 root     root         1420 Jan  4 06:01 README.txt
+-rwxrwxr-x    1 root     root        86016 Jan  4 06:01 SDK.Common.dll
+-rwxrwxr-x    1 root     root         7680 Jan  4 06:01 SDK.Interfaces.dll
+-rwxrwxr-x    1 root     root        82944 Jan  4 06:01 SDK.NModbus.dll
+-rwxrwxr-x    1 root     root        72704 Jan  4 06:01 SDK.NetworksServices.dll
+-rwxrwxr-x    1 root     root        25088 Jan  4 06:01 SDK.Prospero.Hardware.dll
+-rwxrwxr-x    1 root     root        56832 Jan  4 06:01 SDK.SignalsFactory.dll
+-rwxrwxr-x    1 root     root         6144 Jan  4 06:01 SDK.UI.Linux.exe
+-rwxrwxr-x    1 root     root        54784 Jan  4 06:01 SDK.UI.SmartApp.dll
+-rwxrwxr-x    1 root     root        26112 Jan  4 06:01 SDK.UI.SmartApp_old.dll
+-rwxrwxr-x    1 root     root        86528 Jan  4 06:01 SDK.UI.Style.dll
+-rwxrwxr-x    1 root     root       453120 Jan  4 06:01 SDK.UI.dll
+-rwxrwxr-x    1 root     root         7168 Jan  4 06:01 SDK.Watchdog.exe
+-rwxrwxr-x    1 root     root        52224 Jan  4 06:01 Sensors.dll
+-rwxrwxr-x    1 root     root        21504 Jan  4 06:01 Unme.Common.dll
+-rwxrwxr-x    1 root     root       299008 Jan  4 06:01 log4net.dll
+-rwxrwxr-x    1 root     root       197632 Jan  4 06:01 protobuf-net.dll
+drwxrwxr-x    2 root     root          848 Jan  1 05:27 resources
+-rwxrwxr-x    1 root     root         1982 Jan  4 23:47 test_wagon
+-rwxrwxr-x    1 root     root         8791 Jan  1 05:27 timecl_arm
+LINK STATISTICS
+PCproc link:
+PING 192.168.1.121 (192.168.1.121): 56 data bytes
+64 bytes from 192.168.1.121: seq=0 ttl=64 time=0.875 ms
+64 bytes from 192.168.1.121: seq=1 ttl=64 time=1.250 ms
+64 bytes from 192.168.1.121: seq=2 ttl=64 time=0.750 ms
+64 bytes from 192.168.1.121: seq=3 ttl=64 time=2.031 ms
+64 bytes from 192.168.1.121: seq=4 ttl=64 time=0.813 ms
+64 bytes from 192.168.1.121: seq=5 ttl=64 time=0.781 ms
+64 bytes from 192.168.1.121: seq=6 ttl=64 time=0.781 ms
+64 bytes from 192.168.1.121: seq=7 ttl=64 time=0.781 ms
+64 bytes from 192.168.1.121: seq=8 ttl=64 time=0.781 ms
+64 bytes from 192.168.1.121: seq=9 ttl=64 time=0.782 ms
+
+--- 192.168.1.121 ping statistics ---
+10 packets transmitted, 10 packets received, 0% packet loss
+round-trip min/avg/max = 0.750/0.962/2.031 ms
+Panel 4.3 link:
+PING 192.168.1.122 (192.168.1.122): 56 data bytes
+64 bytes from 192.168.1.122: seq=0 ttl=64 time=0.625 ms
+64 bytes from 192.168.1.122: seq=1 ttl=64 time=0.375 ms
+64 bytes from 192.168.1.122: seq=2 ttl=64 time=0.406 ms
+64 bytes from 192.168.1.122: seq=3 ttl=64 time=0.406 ms
+64 bytes from 192.168.1.122: seq=4 ttl=64 time=0.813 ms
+64 bytes from 192.168.1.122: seq=5 ttl=64 time=0.375 ms
+64 bytes from 192.168.1.122: seq=6 ttl=64 time=0.406 ms
+64 bytes from 192.168.1.122: seq=7 ttl=64 time=0.375 ms
+64 bytes from 192.168.1.122: seq=8 ttl=64 time=0.406 ms
+64 bytes from 192.168.1.122: seq=9 ttl=64 time=0.406 ms
+
+--- 192.168.1.122 ping statistics ---
+10 packets transmitted, 10 packets received, 0% packet loss
+round-trip min/avg/max = 0.375/0.459/0.813 ms
+WAGO link:
+PING 192.168.1.111 (192.168.1.111): 56 data bytes
+64 bytes from 192.168.1.111: seq=0 ttl=64 time=1.875 ms
+64 bytes from 192.168.1.111: seq=1 ttl=64 time=0.750 ms
+64 bytes from 192.168.1.111: seq=2 ttl=64 time=0.968 ms
+64 bytes from 192.168.1.111: seq=3 ttl=64 time=3.469 ms
+64 bytes from 192.168.1.111: seq=4 ttl=64 time=0.781 ms
+64 bytes from 192.168.1.111: seq=5 ttl=64 time=0.750 ms
+64 bytes from 192.168.1.111: seq=6 ttl=64 time=0.781 ms
+64 bytes from 192.168.1.111: seq=7 ttl=64 time=0.813 ms
+64 bytes from 192.168.1.111: seq=8 ttl=64 time=0.781 ms
+64 bytes from 192.168.1.111: seq=9 ttl=64 time=0.750 ms
+
+--- 192.168.1.111 ping statistics ---
+10 packets transmitted, 10 packets received, 0% packet loss
+round-trip min/avg/max = 0.750/1.171/3.469 ms
+Panel 10 link:
+PING 192.168.1.131 (192.168.1.131): 56 data bytes
+64 bytes from 192.168.1.131: seq=0 ttl=64 time=2.250 ms
+64 bytes from 192.168.1.131: seq=1 ttl=64 time=0.688 ms
+64 bytes from 192.168.1.131: seq=2 ttl=64 time=0.812 ms
+64 bytes from 192.168.1.131: seq=3 ttl=64 time=0.687 ms
+64 bytes from 192.168.1.131: seq=4 ttl=64 time=0.687 ms
+64 bytes from 192.168.1.131: seq=5 ttl=64 time=0.782 ms
+64 bytes from 192.168.1.131: seq=6 ttl=64 time=0.719 ms
+64 bytes from 192.168.1.131: seq=7 ttl=64 time=0.812 ms
+64 bytes from 192.168.1.131: seq=8 ttl=64 time=0.781 ms
+64 bytes from 192.168.1.131: seq=9 ttl=64 time=0.688 ms
+
+--- 192.168.1.131 ping statistics ---
+10 packets transmitted, 10 packets received, 0% packet loss
+round-trip min/avg/max = 0.687/0.890/2.250 ms
+STM32 link:
+PING 192.168.1.141 (192.168.1.141): 56 data bytes
+64 bytes from 192.168.1.141: seq=0 ttl=255 time=10.250 ms
+64 bytes from 192.168.1.141: seq=1 ttl=255 time=0.657 ms
+64 bytes from 192.168.1.141: seq=2 ttl=255 time=0.687 ms
+64 bytes from 192.168.1.141: seq=3 ttl=255 time=0.718 ms
+64 bytes from 192.168.1.141: seq=4 ttl=255 time=0.688 ms
+64 bytes from 192.168.1.141: seq=5 ttl=255 time=0.719 ms
+64 bytes from 192.168.1.141: seq=6 ttl=255 time=0.687 ms
+64 bytes from 192.168.1.141: seq=7 ttl=255 time=0.687 ms
+64 bytes from 192.168.1.141: seq=8 ttl=255 time=0.656 ms
+64 bytes from 192.168.1.141: seq=9 ttl=255 time=0.875 ms
+
+--- 192.168.1.141 ping statistics ---
+10 packets transmitted, 10 packets received, 0% packet loss
+round-trip min/avg/max = 0.656/1.662/10.250 ms
+Cam1 link:
+PING 192.168.1.101 (192.168.1.101): 56 data bytes
+
+--- 192.168.1.101 ping statistics ---
+10 packets transmitted, 0 packets received, 100% packet loss
+Cam2 link:
+PING 192.168.1.102 (192.168.1.102): 56 data bytes
+
+--- 192.168.1.102 ping statistics ---
+10 packets transmitted, 0 packets received, 100% packet loss

@@ -1,0 +1,38 @@
+#!/bin/sh
+
+export MONO_PATH=/framework/lib/mono/4.0
+export PATH=$PATH:/framework/bin
+
+echo 100 > /sys/class/gpio/export
+echo 101 > /sys/class/gpio/export
+echo out > /sys/class/gpio/gpio100/direction
+echo out > /sys/class/gpio/gpio101/direction
+echo 1 > /sys/class/gpio/gpio100/value
+echo 1 > /sys/class/gpio/gpio101/value
+
+/bin/mknod /dev/input/gpio-keys c 13 64
+/bin/mknod /dev/input/accelerometer c 13 66
+
+if [ ! -x /framework/bin/mono ]
+then
+    echo "No mono framework detected"
+    exit 1
+fi
+if [ ! -x /mnt/software/bin/$FIRMWARE_EXE ]
+then
+    echo "No firmware found"
+    exit 1
+fi
+
+if [ "$1" = "stop" -o "$1" = "restart" ]
+then
+    killall mono
+    killall timecl_arm
+fi
+if [ "$1" = "start" -o "$1" = "restart" ]
+then
+    echo Starting firmware
+    ethtool -s eth0 duplex half speed 10 autoneg off
+    /usr/bin/timecl_arm 192.168.1.121 &
+    cd /mnt/software/bin && LD_LIBRARY_PATH=/framework/lib watchdog.sh mono $FIRMWARE_EXE &  
+fi

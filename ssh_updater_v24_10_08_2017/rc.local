@@ -1,0 +1,1 @@
+ethtool -s eth0 duplex half speed 10 autoneg off

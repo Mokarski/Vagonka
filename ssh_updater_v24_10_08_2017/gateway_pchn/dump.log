@@ -1,0 +1,481 @@
+SQLite3 v3008005
+01:09:20.006: Set Init by Initialization
+01:09:20.288: invertor #1 init
+01:09:20.295: invertor #2 init
+01:09:20.300: invertor #3 init
+01:09:20.303: invertor #4 init
+01:09:20.353: SystemControl started
+01:09:20.390: Invertors service started
+01:09:20.442: Modbus database started at 127.0.0.1:5000
+01:09:20.462: Set Ready by ReadyToUse
+system.code: 2
+01:09:20.524: Wago coupler started
+01:09:20.546: uz.2: set freq: 200
+01:09:20.550: uz.3: set freq: 200
+01:09:20.551: uz.4: set freq: 200
+01:09:20.551: uz.5: set freq: 200
+01:09:20.590: Signals factory started
+01:09:23.161: uz.2 set stopped
+01:09:23.231: uz.3 set stopped
+01:09:23.331: uz.4 set stopped
+01:09:23.451: uz.5 set stopped
+01:10:04.503: relay relay.kv4 on
+01:10:06.009: relay relay.kv4 off
+01:10:06.079: relay relay.kv11 on
+01:10:07.242: relay relay.kv1 on
+01:10:07.574: invertors service set state: Ready
+01:11:23.305: speed up: Conveyor:1
+01:11:25.382: speed up: Conveyor:2
+01:15:43.398: Set Active by ConveyorMode
+system.code: 3
+01:15:43.452: relay relay.kv9 on
+01:15:44.012: invertors service set state: Active
+01:15:44.324: uz.4: set freq: 7000
+01:15:44.891: uz.4 set activated
+01:16:00.463: speed down: Conveyor:1
+01:16:00.677: uz.4: set freq: 5000
+01:16:05.237: speed down: Conveyor:0
+01:16:05.247: uz.4: set freq: 3000
+01:16:09.117: speed up: Conveyor:1
+01:16:09.217: uz.4: set freq: 5000
+01:16:12.702: speed up: Conveyor:2
+01:16:12.946: uz.4: set freq: 7000
+01:16:15.984: Set Ready by ReadyToUse
+system.code: 2
+01:16:16.152: invertors service set state: Ready
+01:16:16.497: uz.4: set freq: 200
+01:16:16.991: uz.4 set stopped
+01:16:17.111: relay relay.kv9 off
+01:16:26.160: Set Active by ConveyorMode
+system.code: 3
+01:16:26.238: relay relay.kv9 on
+01:16:26.841: invertors service set state: Active
+01:16:27.121: uz.4: set freq: 7000
+01:16:27.739: uz.4 set activated
+01:17:02.639: speed down: Conveyor:1
+01:17:02.697: uz.4: set freq: 5000
+01:17:09.201: speed down: Conveyor:0
+01:17:09.357: uz.4: set freq: 3000
+01:17:40.894: speed up: Conveyor:1
+01:17:41.107: uz.4: set freq: 5000
+01:17:50.162: speed up: Conveyor:2
+01:17:50.198: uz.4: set freq: 7000
+01:18:21.266: speed down: Conveyor:1
+01:18:21.447: uz.4: set freq: 5000
+01:18:32.924: speed down: Conveyor:0
+01:18:32.937: uz.4: set freq: 3000
+01:18:56.247: speed up: Conveyor:1
+01:18:56.297: uz.4: set freq: 5000
+01:19:04.617: speed up: Conveyor:2
+01:19:04.647: uz.4: set freq: 7000
+01:19:15.371: Set Ready by ReadyToUse
+system.code: 2
+01:19:15.499: invertors service set state: Ready
+01:19:15.691: uz.4 set stopped
+01:19:15.820: uz.4: set freq: 200
+01:19:15.823: relay relay.kv9 off
+01:19:22.553: Set Active by ConveyorMode
+system.code: 3
+01:19:22.641: relay relay.kv9 on
+01:19:23.191: invertors service set state: Active
+01:19:23.521: uz.4: set freq: 7000
+01:19:24.091: uz.4 set activated
+01:19:39.001: speed down: Conveyor:1
+01:19:39.107: uz.4: set freq: 5000
+01:19:43.186: Set Ready by ReadyToUse
+system.code: 2
+01:19:43.370: invertors service set state: Ready
+01:19:43.571: uz.4 set stopped
+01:19:43.701: uz.4: set freq: 200
+01:19:43.703: relay relay.kv9 off
+01:19:48.867: Set Active by ConveyorMode
+system.code: 3
+01:19:48.939: relay relay.kv9 on
+01:19:49.552: invertors service set state: Active
+01:19:49.841: uz.4: set freq: 5000
+01:19:50.427: uz.4 set activated
+01:19:58.424: speed up: Conveyor:2
+01:19:58.498: uz.4: set freq: 7000
+01:20:04.404: speed down: Conveyor:1
+01:20:04.668: uz.4: set freq: 5000
+01:20:08.895: speed down: Conveyor:0
+01:20:09.007: uz.4: set freq: 3000
+01:20:13.373: Set Ready by ReadyToUse
+system.code: 2
+01:20:13.479: invertors service set state: Ready
+01:20:13.640: uz.4 set stopped
+01:20:13.801: uz.4: set freq: 200
+01:20:13.802: relay relay.kv9 off
+01:20:16.066: speed up: Conveyor:1
+01:20:18.764: speed up: Conveyor:2
+01:20:21.450: Set Active by ConveyorMode
+system.code: 3
+01:20:21.481: relay relay.kv9 on
+01:20:22.132: invertors service set state: Active
+01:20:22.411: uz.4: set freq: 7000
+01:20:22.959: uz.4 set activated
+01:20:35.501: speed down: Conveyor:1
+01:20:35.657: uz.4: set freq: 5000
+01:20:38.490: Set Ready by ReadyToUse
+system.code: 2
+01:20:38.528: invertors service set state: Ready
+01:20:38.856: uz.4: set freq: 200
+01:20:39.341: uz.4 set stopped
+01:20:39.461: relay relay.kv9 off
+01:20:43.898: Set Active by ConveyorMode
+system.code: 3
+01:20:44.132: relay relay.kv9 on
+01:20:44.752: invertors service set state: Active
+01:20:45.031: uz.4: set freq: 5000
+01:20:45.621: uz.4 set activated
+01:20:52.568: speed up: Conveyor:2
+01:20:52.827: uz.4: set freq: 7000
+01:21:00.312: speed down: Conveyor:1
+01:21:00.567: uz.4: set freq: 5000
+01:21:02.457: speed down: Conveyor:0
+01:21:02.517: uz.4: set freq: 3000
+01:21:06.900: Set Ready by ReadyToUse
+system.code: 2
+01:21:06.984: invertors service set state: Ready
+01:21:07.151: uz.4 set stopped
+01:21:07.311: uz.4: set freq: 200
+01:21:07.312: relay relay.kv9 off
+01:21:10.485: Set Active by MotionMode
+system.code: 1
+01:21:10.802: Set 3 in Motion to 0
+01:21:10.822: :: success
+01:21:10.834: relay relay.kv8 on
+01:21:11.472: invertors service set state: Active
+01:21:13.393: uz.2: set freq: 700
+01:21:13.394: uz.3: set freq: 700
+01:21:13.396: uz.4: set freq: 700
+01:21:13.397: uz.5: set freq: 700
+01:21:13.921: uz.2 set activated
+01:21:13.991: uz.3 set activated
+01:21:14.051: uz.4 set activated
+01:21:14.131: uz.5 set activated
+01:21:17.654: speed up: Motion:1
+01:21:17.801: uz.2: set freq: 2500
+01:21:17.802: uz.3: set freq: 2500
+01:21:17.803: uz.4: set freq: 2500
+01:21:17.806: uz.5: set freq: 2500
+01:21:18.859: speed up: Motion:2
+01:21:19.059: uz.2: set freq: 5000
+01:21:19.060: uz.3: set freq: 5000
+01:21:19.062: uz.4: set freq: 5000
+01:21:19.063: uz.5: set freq: 5000
+01:21:23.932: speed up: Motion:3
+01:21:24.169: uz.2: set freq: 7500
+01:21:24.171: uz.3: set freq: 7500
+01:21:24.173: uz.4: set freq: 7500
+01:21:24.174: uz.5: set freq: 7500
+01:21:42.599: uz.2: set freq: 200
+01:21:42.600: uz.3: set freq: 200
+01:21:42.602: uz.4: set freq: 200
+01:21:42.603: uz.5: set freq: 200
+01:21:45.607: ResetMotionSpeedToMin
+01:21:50.131: uz.2 set stopped
+01:21:50.191: uz.3 set stopped
+01:21:50.251: uz.4 set stopped
+01:21:50.321: uz.5 set stopped
+01:22:13.581: uz.2: set freq: 700
+01:22:13.581: uz.3: set freq: 700
+01:22:13.582: uz.4: set freq: 700
+01:22:13.582: uz.5: set freq: 700
+01:22:14.061: uz.2 set activated
+01:22:14.121: uz.3 set activated
+01:22:14.202: uz.4 set activated
+01:22:14.271: uz.5 set activated
+01:22:26.141: speed up: Motion:1
+01:22:26.289: uz.2: set freq: 2500
+01:22:26.290: uz.3: set freq: 2500
+01:22:26.292: uz.4: set freq: 2500
+01:22:26.293: uz.5: set freq: 2500
+01:22:33.299: speed up: Motion:2
+01:22:33.305: uz.2: set freq: 5000
+01:22:33.307: uz.3: set freq: 5000
+01:22:33.308: uz.4: set freq: 5000
+01:22:33.309: uz.5: set freq: 5000
+01:22:36.904: uz.2: set freq: 200
+01:22:36.904: uz.3: set freq: 200
+01:22:36.905: uz.4: set freq: 200
+01:22:36.908: uz.5: set freq: 200
+01:22:38.941: uz.3 set failure: code 13
+01:22:38.949: invertors service set state: Failure
+01:22:38.969: Set Failure by Uz3Error
+system.code: 2021
+01:22:39.221: uz.2 set stopped
+01:22:39.391: uz.4 set stopped
+01:22:39.451: uz.5 set stopped
+01:22:39.910: ResetMotionSpeedToMin
+01:22:45.254: Reset fault from state: Failure
+01:22:45.261: Set Init by Initialization
+system.code: 0
+01:22:45.277: Set Ready by ReadyToUse
+system.code: 2
+01:22:45.431: relay relay.rectifierreset on
+01:22:45.938: relay relay.rectifierreset off
+01:22:47.291: uz.3 set stopped
+01:22:47.465: invertors service set state: Init
+01:22:47.831: invertors service set state: Ready
+01:22:48.131: relay relay.kv8 off
+01:22:51.533: Set Active by MotionMode
+system.code: 1
+01:22:51.621: relay relay.kv8 on
+01:22:52.265: invertors service set state: Active
+01:22:55.041: uz.2: set freq: 700
+01:22:55.042: uz.3: set freq: 700
+01:22:55.043: uz.4: set freq: 700
+01:22:55.044: uz.5: set freq: 700
+01:22:55.531: uz.2 set activated
+01:22:55.600: uz.3 set activated
+01:22:55.661: uz.4 set activated
+01:22:55.721: uz.5 set activated
+01:22:56.616: speed up: Motion:1
+01:22:56.633: uz.2: set freq: 2500
+01:22:56.634: uz.3: set freq: 2500
+01:22:56.635: uz.4: set freq: 2500
+01:22:56.636: uz.5: set freq: 2500
+01:22:58.712: speed up: Motion:2
+01:22:58.900: uz.2: set freq: 5000
+01:22:58.900: uz.3: set freq: 5000
+01:22:58.901: uz.4: set freq: 5000
+01:22:58.901: uz.5: set freq: 5000
+01:23:01.401: speed up: Motion:3
+01:23:01.707: uz.2: set freq: 7500
+01:23:01.708: uz.3: set freq: 7500
+01:23:01.709: uz.4: set freq: 7500
+01:23:01.711: uz.5: set freq: 7500
+01:23:08.769: uz.2: set freq: 200
+01:23:08.770: uz.3: set freq: 200
+01:23:08.770: uz.4: set freq: 200
+01:23:08.771: uz.5: set freq: 200
+01:23:10.481: uz.2 set failure: code 13
+01:23:10.483: invertors service set state: Failure
+01:23:10.484: Set Failure by Uz2Error
+system.code: 2020
+01:23:10.551: uz.3 set failure: code 13
+01:23:10.553: Set Failure by Uz3Error
+system.code: 2021
+01:23:10.711: uz.5 set failure: code 13
+01:23:10.713: Set Failure by Uz5Error
+system.code: 2023
+01:23:10.966: uz.4 set stopped
+01:23:11.772: ResetMotionSpeedToMin
+01:23:33.390: Reset fault from state: Failure
+01:23:33.391: Set Init by Initialization
+system.code: 0
+01:23:33.400: relay relay.rectifierreset on
+01:23:33.409: Set Ready by ReadyToUse
+system.code: 2
+01:23:33.901: relay relay.rectifierreset off
+01:23:35.272: uz.2 set stopped
+01:23:35.341: uz.3 set stopped
+01:23:35.461: uz.5 set stopped
+01:23:35.529: invertors service set state: Init
+01:23:35.811: invertors service set state: Ready
+01:23:36.141: relay relay.kv8 off
+01:24:21.834: Set Active by MotionMode
+system.code: 1
+01:24:22.191: relay relay.kv8 on
+01:24:22.812: invertors service set state: Active
+01:24:24.051: uz.2: set freq: 700
+01:24:24.052: uz.3: set freq: 700
+01:24:24.054: uz.4: set freq: 700
+01:24:24.055: uz.5: set freq: 700
+01:24:24.571: uz.2 set activated
+01:24:24.671: uz.3 set activated
+01:24:24.741: uz.4 set activated
+01:24:24.801: uz.5 set activated
+01:24:27.212: speed up: Motion:1
+01:24:27.523: uz.2: set freq: 2500
+01:24:27.524: uz.3: set freq: 2500
+01:24:27.524: uz.4: set freq: 2500
+01:24:27.525: uz.5: set freq: 2500
+01:24:30.794: speed up: Motion:2
+01:24:30.917: uz.2: set freq: 5000
+01:24:30.918: uz.3: set freq: 5000
+01:24:30.919: uz.4: set freq: 5000
+01:24:30.921: uz.5: set freq: 5000
+01:24:34.681: speed up: Motion:3
+01:24:34.770: uz.2: set freq: 7500
+01:24:34.770: uz.3: set freq: 7500
+01:24:34.771: uz.4: set freq: 7500
+01:24:34.771: uz.5: set freq: 7500
+01:24:44.233: uz.2: set freq: 200
+01:24:44.234: uz.3: set freq: 200
+01:24:44.234: uz.4: set freq: 200
+01:24:44.235: uz.5: set freq: 200
+01:24:47.253: ResetMotionSpeedToMin
+01:24:51.571: uz.2 set stopped
+01:24:51.641: uz.3 set stopped
+01:24:51.700: uz.4 set stopped
+01:24:51.771: uz.5 set stopped
+01:24:54.961: uz.2: set freq: 700
+01:24:54.962: uz.3: set freq: 700
+01:24:54.962: uz.4: set freq: 700
+01:24:54.963: uz.5: set freq: 700
+01:24:55.481: uz.2 set activated
+01:24:55.541: uz.3 set activated
+01:24:55.601: uz.4 set activated
+01:24:55.701: uz.5 set activated
+01:25:09.063: speed up: Motion:1
+01:25:09.172: uz.2: set freq: 2500
+01:25:09.173: uz.3: set freq: 2500
+01:25:09.174: uz.4: set freq: 2500
+01:25:09.177: uz.5: set freq: 2500
+01:25:10.877: speed up: Motion:2
+01:25:11.029: uz.2: set freq: 5000
+01:25:11.031: uz.3: set freq: 5000
+01:25:11.032: uz.4: set freq: 5000
+01:25:11.033: uz.5: set freq: 5000
+01:25:12.963: speed up: Motion:3
+01:25:13.169: uz.2: set freq: 7500
+01:25:13.170: uz.3: set freq: 7500
+01:25:13.170: uz.4: set freq: 7500
+01:25:13.171: uz.5: set freq: 7500
+01:25:31.803: uz.2: set freq: 200
+01:25:31.804: uz.3: set freq: 200
+01:25:31.804: uz.4: set freq: 200
+01:25:31.805: uz.5: set freq: 200
+01:25:34.816: ResetMotionSpeedToMin
+01:25:34.938: uz.2: set freq: 700
+01:25:34.939: uz.3: set freq: 700
+01:25:34.940: uz.4: set freq: 700
+01:25:34.942: uz.5: set freq: 700
+01:25:44.457: uz.2: set freq: 200
+01:25:44.458: uz.3: set freq: 200
+01:25:44.459: uz.4: set freq: 200
+01:25:44.461: uz.5: set freq: 200
+01:25:45.781: uz.2 set stopped
+01:25:45.841: uz.3 set stopped
+01:25:45.909: uz.4 set stopped
+01:25:45.981: uz.5 set stopped
+01:25:46.062: uz.2: set freq: 700
+01:25:46.063: uz.3: set freq: 700
+01:25:46.064: uz.4: set freq: 700
+01:25:46.066: uz.5: set freq: 700
+01:25:46.561: uz.2 set activated
+01:25:46.621: uz.3 set activated
+01:25:46.681: uz.4 set activated
+01:25:46.758: uz.5 set activated
+01:25:47.044: speed up: Motion:1
+01:25:47.089: uz.2: set freq: 2500
+01:25:47.091: uz.3: set freq: 2500
+01:25:47.092: uz.4: set freq: 2500
+01:25:47.093: uz.5: set freq: 2500
+01:25:48.535: speed up: Motion:2
+01:25:48.707: uz.2: set freq: 5000
+01:25:48.708: uz.3: set freq: 5000
+01:25:48.709: uz.4: set freq: 5000
+01:25:48.710: uz.5: set freq: 5000
+01:25:50.322: speed up: Motion:3
+01:25:50.599: uz.2: set freq: 7500
+01:25:50.600: uz.3: set freq: 7500
+01:25:50.601: uz.4: set freq: 7500
+01:25:50.601: uz.5: set freq: 7500
+01:26:00.520: uz.2: set freq: 200
+01:26:00.521: uz.3: set freq: 200
+01:26:00.521: uz.4: set freq: 200
+01:26:00.522: uz.5: set freq: 200
+01:26:03.526: ResetMotionSpeedToMin
+01:26:07.970: uz.2 set stopped
+01:26:08.038: uz.3 set stopped
+01:26:08.101: uz.4 set stopped
+01:26:08.161: uz.5 set stopped
+01:26:08.221: uz.2: set freq: 700
+01:26:08.223: uz.3: set freq: 700
+01:26:08.224: uz.4: set freq: 700
+01:26:08.226: uz.5: set freq: 700
+01:26:08.731: uz.2 set activated
+01:26:08.801: uz.3 set activated
+01:26:08.870: uz.4 set activated
+01:26:08.931: uz.5 set activated
+01:26:13.344: speed up: Motion:1
+01:26:13.358: uz.2: set freq: 2500
+01:26:13.359: uz.3: set freq: 2500
+01:26:13.359: uz.4: set freq: 2500
+01:26:13.360: uz.5: set freq: 2500
+01:26:14.850: speed up: Motion:2
+01:26:14.930: uz.2: set freq: 5000
+01:26:14.930: uz.3: set freq: 5000
+01:26:14.931: uz.4: set freq: 5000
+01:26:14.931: uz.5: set freq: 5000
+01:26:16.634: speed up: Motion:3
+01:26:16.800: uz.2: set freq: 7500
+01:26:16.801: uz.3: set freq: 7500
+01:26:16.802: uz.4: set freq: 7500
+01:26:16.803: uz.5: set freq: 7500
+01:26:24.627: uz.2: set freq: 200
+01:26:24.628: uz.3: set freq: 200
+01:26:24.630: uz.4: set freq: 200
+01:26:24.631: uz.5: set freq: 200
+01:26:27.633: ResetMotionSpeedToMin
+01:26:28.009: Set Ready by ReadyToUse
+system.code: 2
+01:26:28.265: invertors service set state: Ready
+01:26:28.941: uz.2 set stopped
+01:26:29.001: uz.3 set stopped
+01:26:29.061: uz.4 set stopped
+01:26:29.121: uz.5 set stopped
+01:26:29.181: relay relay.kv8 off
+01:26:30.692: Set Active by ConveyorMode
+system.code: 3
+01:26:30.701: Set 3 in Conveyor to 5
+01:26:30.722: :: success
+01:26:30.722: relay relay.kv9 on
+01:26:31.372: invertors service set state: Active
+01:26:31.661: uz.4: set freq: 3000
+01:26:32.251: uz.4 set activated
+01:26:38.465: speed up: Conveyor:1
+01:26:38.677: uz.4: set freq: 5000
+01:26:39.654: speed up: Conveyor:2
+01:26:39.768: uz.4: set freq: 7000
+01:26:44.139: Set Ready by ReadyToUse
+system.code: 2
+01:26:44.338: invertors service set state: Ready
+01:26:44.626: uz.4: set freq: 200
+01:26:45.111: uz.4 set stopped
+01:26:45.241: relay relay.kv9 off
+01:26:48.922: Set Active by MotionMode
+system.code: 1
+01:26:48.971: Set 3 in Motion to 0
+01:26:48.992: :: success
+01:26:48.993: relay relay.kv8 on
+01:26:49.591: invertors service set state: Active
+01:26:50.851: uz.2: set freq: 700
+01:26:50.853: uz.3: set freq: 700
+01:26:50.854: uz.4: set freq: 700
+01:26:50.856: uz.5: set freq: 700
+01:26:51.381: uz.2 set activated
+01:26:51.441: uz.3 set activated
+01:26:51.543: uz.4 set activated
+01:26:51.619: uz.5 set activated
+01:26:52.819: speed up: Motion:1
+01:26:53.079: uz.2: set freq: 2500
+01:26:53.080: uz.3: set freq: 2500
+01:26:53.080: uz.4: set freq: 2500
+01:26:53.081: uz.5: set freq: 2500
+01:26:55.211: speed up: Motion:2
+01:26:55.470: uz.2: set freq: 5000
+01:26:55.471: uz.3: set freq: 5000
+01:26:55.472: uz.4: set freq: 5000
+01:26:55.473: uz.5: set freq: 5000
+01:27:03.738: uz.2: set freq: 200
+01:27:03.739: uz.3: set freq: 200
+01:27:03.739: uz.4: set freq: 200
+01:27:03.740: uz.5: set freq: 200
+01:27:06.741: ResetMotionSpeedToMin
+01:27:08.601: uz.2 set stopped
+01:27:08.666: uz.3 set stopped
+01:27:08.722: uz.4 set stopped
+01:27:08.802: uz.5 set stopped
+01:27:13.450: Set Init by Initialization
+system.code: 0
+01:27:13.462: relay relay.kv11 off
+01:27:13.491: Set Ready by ReadyToUse
+system.code: 2
+01:27:13.499: invertors service set state: Ready
+01:27:13.821: relay relay.kv8 off
+01:27:14.171: invertors service set state: Init
+01:27:14.461: relay relay.kv1 off

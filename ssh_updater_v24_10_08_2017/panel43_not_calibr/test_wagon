@@ -1,0 +1,91 @@
+#!/bin/sh
+testip="192.168.1.121"
+panelip="192.168.1.122"
+ip=`ifconfig | grep $testip | cut -d ":" -f2  | cut -d "B" -f1`
+localip=$testip
+filename="1"
+#echo $ip
+#echo $localip
+
+if [ $ip  = $localip ]; then
+filename="pcproc_wagon.log"
+#echo $filename
+else
+  #if [ $ip = $panelip ]; then
+     filename="panel43_wagon.log"
+     #echo $filename
+  #fi
+fi
+
+echo "START DIAGNOSTICS ..."
+uname -a > $filename
+echo "HARDWARE INFORMATION:" >> $filename
+dmesg >> $filename
+
+echo "HW eth:" >> $filename
+ifconfig >> $filename
+
+echo "HW dev:" >> $filename
+ls -l /dev >> $filename
+
+echo "HW sys:" >> $filename
+ls -l /sys >> $filename
+
+echo "HW /sys/class:" >> $filename
+ls -l /sys/class >> $filename
+
+echo "HW /sys/class/gpio:" >> $filename
+ls -l /sys/class/gpio >> $filename
+
+echo "DRIVERS linux - KERNEL INFO:" >> $filename
+find /lib/modules/`uname -r` -name ‘*.ko’  >> $filename
+
+echo "LOADED DRIVERS linux - KERNEL INFO:" >> $filename
+lsmod >> $filename
+
+echo "OS SYSTEM INFORMATION:" >> $filename
+df -h >> $filename
+
+echo "Process info:" >> $filename
+ps aux >> $filename
+
+echo "TOP info:" >> $filename
+top -b -n 2 -d 2 >> $filename
+
+echo "ls / info:" >> $filename
+ls -l / >> $filename
+
+echo "ls /mnt/software info:" >> $filename
+ls -l /mnt/software >> $filename
+
+echo "ls /mnt/software/bin info:" >> $filename
+ls -l /mnt/software/bin >> $filename
+
+echo "Link TEST..."
+echo "LINK STATISTICS" >> $filename
+
+echo "PCproc link:" >> $filename
+ping -c 10 192.168.1.121 >> $filename
+
+echo "Panel 4.3 link:" >> $filename
+ping -c 10 192.168.1.122 >> $filename
+
+echo "WAGO link:" >> $filename
+ping -c 10 192.168.1.111 >> $filename
+
+echo "Panel 10 link:" >> $filename
+ping -c 10 192.168.1.131 >> $filename
+
+echo "STM32 link:" >> $filename
+ping -c 10 192.168.1.141 >> $filename
+
+echo "Cam1 link:" >> $filename
+ping -c 10 192.168.1.101 >> $filename
+
+echo "Cam2 link:" >> $filename
+ping -c 10 192.168.1.102 >> $filename
+
+# local test
+# ping -c 10 192.168.67.131 >> $filename
+echo "DIAGNOSTIC COMPLETE"
+

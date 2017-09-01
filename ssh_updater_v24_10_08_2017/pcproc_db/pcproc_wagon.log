@@ -1,0 +1,748 @@
+Linux panel 2.6.35.3-571-gcca29a0 #808 Fri Sep 2 20:43:16 NOVST 2016 armv5tejl GNU/Linux
+HARDWARE INFORMATION:
+[    0.000000] Linux version 2.6.35.3-571-gcca29a0 (opc@SQX28x) (gcc version 4.4.4 (4.4.4_09.06.2010) ) #808 Fri Sep 2 20:43:16 NOVST 2016
+[    0.000000] CPU: ARM926EJ-S [41069265] revision 5 (ARMv5TEJ), cr=00053177
+[    0.000000] CPU: VIVT data cache, VIVT instruction cache
+[    0.000000] Machine ID: 3093
+[    0.000000] Machine: Spark board
+[    0.000000] Ignoring unrecognised tag 0x54410009
+[    0.000000] Memory policy: ECC disabled, Data cache writeback
+[    0.000000] On node 0 totalpages: 32768
+[    0.000000] free_area_init_node: node 0, pgdat c061f8d4, node_mem_map c064f000
+[    0.000000]   DMA zone: 32 pages used for memmap
+[    0.000000]   DMA zone: 0 pages reserved
+[    0.000000]   DMA zone: 4064 pages, LIFO batch:0
+[    0.000000]   Normal zone: 224 pages used for memmap
+[    0.000000]   Normal zone: 28448 pages, LIFO batch:7
+[    0.000000] Built 1 zonelists in Zone order, mobility grouping on.  Total pages: 32512
+[    0.000000] Kernel command line: console=ttyAM0,115200 rw gpmi ubi.mtd=1 root=ubi0:rootfs rootfstype=ubifs
+[    0.000000] PID hash table entries: 512 (order: -1, 2048 bytes)
+[    0.000000] Dentry cache hash table entries: 16384 (order: 4, 65536 bytes)
+[    0.000000] Inode-cache hash table entries: 8192 (order: 3, 32768 bytes)
+[    0.000000] Memory: 128MB = 128MB total
+[    0.000000] Memory: 123488k/123488k available, 7584k reserved, 0K highmem
+[    0.000000] Virtual kernel memory layout:
+[    0.000000]     vector  : 0xffff0000 - 0xffff1000   (   4 kB)
+[    0.000000]     fixmap  : 0xfff00000 - 0xfffe0000   ( 896 kB)
+[    0.000000]     DMA     : 0xfde00000 - 0xffe00000   (  32 MB)
+[    0.000000]     vmalloc : 0xc8800000 - 0xf0000000   ( 632 MB)
+[    0.000000]     lowmem  : 0xc0000000 - 0xc8000000   ( 128 MB)
+[    0.000000]     modules : 0xbf000000 - 0xc0000000   (  16 MB)
+[    0.000000]       .init : 0xc0008000 - 0xc008a000   ( 520 kB)
+[    0.000000]       .text : 0xc008a000 - 0xc05f0000   (5528 kB)
+[    0.000000]       .data : 0xc05f0000 - 0xc06202c0   ( 193 kB)
+[    0.000000] SLUB: Genslabs=11, HWalign=32, Order=0-3, MinObjects=0, CPUs=1, Nodes=1
+[    0.000000] NR_IRQS:288
+[    0.000000] Console: colour dummy device 80x30
+[    0.000000] console [ttyAM0] enabled
+[    0.010000] Calibrating delay loop... 226.09 BogoMIPS (lpj=1130496)
+[    0.250000] pid_max: default: 32768 minimum: 301
+[    0.250000] Mount-cache hash table entries: 512
+[    0.260000] CPU: Testing write buffer coherency: ok
+[    0.260000] devtmpfs: initialized
+[    0.270000] regulator: core version 0.5
+[    0.270000] NET: Registered protocol family 16
+[    0.280000] regulator: vddd: 800 <--> 1575 mV at 1500 mV fast normal 
+[    0.290000] regulator: vdddbo: 800 <--> 1575 mV fast normal 
+[    0.290000] regulator: vdda: 1500 <--> 2275 mV at 1800 mV fast normal 
+[    0.300000] vddio = 3380000, val=10
+[    0.300000] regulator: vddio: 2880 <--> 3680 mV at 3380 mV fast normal 
+[    0.310000] regulator: overall_current: fast normal 
+[    0.310000] regulator: vbus5v: 
+[    0.320000] regulator: mxs-duart-1: fast normal 
+[    0.320000] regulator: mxs-bl-1: fast normal 
+[    0.330000] regulator: mxs-i2c-1: fast normal 
+[    0.330000] regulator: mmc_ssp-1: fast normal 
+[    0.340000] regulator: mmc_ssp-2: fast normal 
+[    0.340000] regulator: charger-1: fast normal 
+[    0.350000] regulator: power-test-1: fast normal 
+[    0.350000] regulator: cpufreq-1: fast normal 
+[    0.360000] i2c-core: driver [dummy] registered
+[    0.360000] i.MX IRAM pool: 120 KB@0xc8820000
+[    0.370000] usb DR wakeup device is registered
+[    0.370000] IMX usb wakeup probe
+[    0.380000] the wakeup pdata is 0xc05f7f94
+[    0.420000] audit: cannot initialize inotify handle
+[    0.430000] bio: create slab <bio-0> at 0
+[    0.430000] SCSI subsystem initialized
+[    0.440000] Freescale USB OTG Driver loaded, $Revision: 1.55 $
+[    0.450000] usbcore: registered new interface driver usbfs
+[    0.460000] usbcore: registered new interface driver hub
+[    0.460000] usbcore: registered new device driver usb
+[    0.470000] cfg80211: Calling CRDA to update world regulatory domain
+[    0.480000] Switching to clocksource mxs clock source
+[    0.480000] Slow work thread pool: Starting up
+[    0.490000] Slow work thread pool: Ready
+[    0.490000] FS-Cache: Loaded
+[    0.490000] NET: Registered protocol family 2
+[    0.500000] IP route cache hash table entries: 1024 (order: 0, 4096 bytes)
+[    0.510000] TCP established hash table entries: 4096 (order: 3, 32768 bytes)
+[    0.510000] TCP bind hash table entries: 4096 (order: 2, 16384 bytes)
+[    0.520000] TCP: Hash tables configured (established 4096 bind 4096)
+[    0.530000] TCP reno registered
+[    0.530000] UDP hash table entries: 256 (order: 0, 4096 bytes)
+[    0.540000] UDP-Lite hash table entries: 256 (order: 0, 4096 bytes)
+[    0.540000] NET: Registered protocol family 1
+[    0.550000] Bus freq driver module loaded
+[    0.550000] IMX usb wakeup probe
+[    0.560000] the wakeup pdata is 0xc05f8354
+[    0.560000] usb h1 wakeup device is registered
+[    0.570000] i2c i2c-0: adapter [MXS I2C adapter] registered
+[    0.570000] i2c 0-0068: uevent
+[    0.570000] i2c i2c-0: client [ds1374] registered with bus id 0-0068
+[    0.570000] i2c 0-001d: uevent
+[    0.570000] i2c i2c-0: client [lis3lv02d] registered with bus id 0-001d
+[    0.570000] mxs_cpu_init: cur_freq_table_size = 3 
+[    0.580000] mxs_cpu_init: cpufreq init finished
+[    0.590000] audit: initializing netlink socket (disabled)
+[    0.600000] type=2000 audit(0.600:1): initialized
+[    0.600000] ashmem: initialized
+[    0.670000] NTFS driver 2.1.29 [Flags: R/W].
+[    0.680000] fuse init (API version 7.14)
+[    0.690000] msgmni has been set to 241
+[    0.700000] alg: No test for stdrng (krng)
+[    0.710000] Block layer SCSI generic (bsg) driver version 0.4 loaded (major 253)
+[    0.710000] io scheduler noop registered
+[    0.720000] io scheduler cfq registered (default)
+[    0.730000] TODO: mxs_init_lcdif 
+[    0.850000] seeker: splash init (w: 272, h: 480)
+[    0.870000] splash success
+[    0.930000] gsm_init: loaded as 252,0.
+[    0.940000] mxs-duart.0: ttyAM0 at MMIO 0x80074000 (irq = 47) is a DebugUART
+[    0.950000] mxs-auart.0: ttySP0 at MMIO 0x8006a000 (irq = 112) is a mxs-auart.0
+[    0.960000] Found APPUART 3.1.0
+[    0.970000] brd: module loaded
+[    0.990000] loop: module loaded
+[    0.990000] nbd: registered device at major 43
+[    1.030000] usbcore: registered new interface driver ub
+[    1.040000] mtdoops: mtd device (mtddev=name/number) must be supplied
+[    1.040000] i.MX GPMI NFC
+[    1.050000] NFC: Version 1, 8-chip GPMI and BCH
+[    1.050000] seeker: drivers/mtd/nand/gpmi-nfc/gpmi-nfc-hal-v1.c:init, 24000000
+[    1.060000] Boot ROM: Version 1, Single-chip boot area, block mark swapping supported
+[    1.070000] Scanning for NAND Flash chips...
+[    1.070000] NAND device: Manufacturer ID: 0x2c, Chip ID: 0xa1 (Micron NAND 128MiB 1,8V 8-bit)
+[    1.080000] Scanning device for bad blocks
+[    1.280000] Boot area protection is enabled.
+[    1.280000] Creating 2 MTD partitions on "gpmi-nfc-main":
+[    1.290000] 0x000000000000-0x000001400000 : "gpmi-nfc-0-boot"
+[    1.300000] 0x000001400000-0x000008000000 : "gpmi-nfc-general-use"
+[    1.310000] UBI: attaching mtd1 to ubi0
+[    1.310000] UBI: physical eraseblock size:   131072 bytes (128 KiB)
+[    1.320000] UBI: logical eraseblock size:    126976 bytes
+[    1.320000] UBI: smallest flash I/O unit:    2048
+[    1.330000] UBI: VID header offset:          2048 (aligned 2048)
+[    1.340000] UBI: data offset:                4096
+[    2.360000] UBI: attached mtd1 to ubi0
+[    2.370000] UBI: MTD device name:            "gpmi-nfc-general-use"
+[    2.370000] UBI: MTD device size:            108 MiB
+[    2.380000] UBI: number of good PEBs:        864
+[    2.380000] UBI: number of bad PEBs:         0
+[    2.390000] UBI: max. allowed volumes:       128
+[    2.390000] UBI: wear-leveling threshold:    4096
+[    2.400000] UBI: number of internal volumes: 1
+[    2.400000] UBI: number of user volumes:     1
+[    2.410000] UBI: available PEBs:             0
+[    2.410000] UBI: total number of reserved PEBs: 864
+[    2.420000] UBI: number of PEBs reserved for bad PEB handling: 8
+[    2.420000] UBI: max/mean erase counter: 299/79
+[    2.430000] UBI: image sequence number: 0
+[    2.430000] UBI: background thread "ubi_bgt0d" started, PID 498
+[    2.440000]  ubiblka: unknown partition table
+[    2.450000] FEC Ethernet Driver
+[    2.450000] mx28_enet_gpio_init
+[    2.530000] fec_enet_mii_bus: probed
+[    2.540000] tun: Universal TUN/TAP device driver, 1.6
+[    2.550000] tun: (C) 1999-2004 Max Krasnyansky <maxk@qualcomm.com>
+[    2.550000] usbcore: registered new interface driver cdc_ether
+[    2.560000] usbcore: registered new interface driver rndis_host
+[    2.570000] usbcore: registered new interface driver zaurus
+[    2.570000] usbcore: registered new interface driver rndis_wlan
+[    2.580000] usbcore: registered new interface driver rt2800usb
+[    2.590000] ehci_hcd: USB 2.0 'Enhanced' Host Controller (EHCI) Driver
+[    2.590000] fsl-ehci fsl-ehci: Freescale On-Chip EHCI Host Controller
+[    2.600000] fsl-ehci fsl-ehci: new USB bus registered, assigned bus number 1
+[    2.640000] fsl-ehci fsl-ehci: irq 93, io base 0x80080000
+[    2.660000] fsl-ehci fsl-ehci: USB 2.0 started, EHCI 1.00
+[    2.660000] usb usb1: New USB device found, idVendor=1d6b, idProduct=0002
+[    2.670000] usb usb1: New USB device strings: Mfr=3, Product=2, SerialNumber=1
+[    2.670000] usb usb1: Product: Freescale On-Chip EHCI Host Controller
+[    2.680000] usb usb1: Manufacturer: Linux 2.6.35.3-571-gcca29a0 ehci_hcd
+[    2.690000] usb usb1: SerialNumber: fsl-ehci
+[    2.690000] hub 1-0:1.0: USB hub found
+[    2.700000] hub 1-0:1.0: 1 port detected
+[    2.710000] fsl-ehci fsl-ehci.0: Freescale On-Chip EHCI Host Controller
+[    2.720000] fsl-ehci fsl-ehci.0: new USB bus registered, assigned bus number 2
+[    2.760000] fsl-ehci fsl-ehci.0: irq 92, io base 0x80090000
+[    2.780000] fsl-ehci fsl-ehci.0: USB 2.0 started, EHCI 1.00
+[    2.780000] usb usb2: New USB device found, idVendor=1d6b, idProduct=0002
+[    2.790000] usb usb2: New USB device strings: Mfr=3, Product=2, SerialNumber=1
+[    2.800000] usb usb2: Product: Freescale On-Chip EHCI Host Controller
+[    2.800000] usb usb2: Manufacturer: Linux 2.6.35.3-571-gcca29a0 ehci_hcd
+[    2.810000] usb usb2: SerialNumber: fsl-ehci.0
+[    2.820000] hub 2-0:1.0: USB hub found
+[    2.820000] hub 2-0:1.0: 1 port detected
+[    2.830000] Initializing USB Mass Storage driver...
+[    2.830000] usbcore: registered new interface driver usb-storage
+[    2.840000] USB Mass Storage support registered.
+[    2.840000] ARC USBOTG Device Controller driver (1 August 2005)
+[    2.850000] g_multi gadget: using random self ethernet address
+[    2.860000] g_multi gadget: using random host ethernet address
+[    2.860000] usb0: MAC 0a:de:18:c0:04:f1
+[    2.870000] usb0: HOST MAC 96:8f:fa:fd:fd:2a
+[    2.870000] g_multi gadget: Mass Storage Function, version: 2009/09/11
+[    2.880000] g_multi gadget: Number of LUNs=1
+[    2.880000]  lun0: LUN: removable file: (no medium)
+[    2.890000] g_multi gadget: Multifunction Composite Gadget, version: 2009/07/21
+[    2.900000] g_multi gadget: g_multi ready
+[    2.900000] Suspend udc for OTG auto detect
+[    2.900000] USB Host suspend begins
+[    2.900000] will suspend roothub and its children
+[    2.900000] ehci_fsl_bus_suspend, DR
+[    2.900000] host suspend ends
+[    2.900000] USB Gadget resume begins
+[    2.900000] dr_controller_run: udc out low power mode
+[    2.900000] USB Gadget resume ends
+[    2.900000] fsl-usb2-udc: bind to driver g_multi 
+[    2.910000] rtc-ds1374 0-0068: probe
+[    2.910000] i2c i2c-0: master_xfer[0] W, addr=0x68, len=1
+[    2.910000] i2c i2c-0: master_xfer[1] R, addr=0x68, len=1
+[    2.910000] mxs-i2c mxs-i2c.0: addr: 0x0068, len: 1, flags: 0x0, stop: 0
+[    2.910000] mxs-i2c mxs-i2c.0: Done with err=0
+[    2.910000] mxs-i2c mxs-i2c.0: addr: 0x0068, len: 1, flags: 0x1, stop: 1
+[    2.910000] mxs-i2c mxs-i2c.0: Done with err=0
+[    2.910000] i2c i2c-0: master_xfer[0] W, addr=0x68, len=2
+[    2.910000] mxs-i2c mxs-i2c.0: addr: 0x0068, len: 2, flags: 0x0, stop: 1
+[    2.910000] mxs-i2c mxs-i2c.0: Done with err=0
+[    2.910000] i2c i2c-0: master_xfer[0] W, addr=0x68, len=1
+[    2.910000] i2c i2c-0: master_xfer[1] R, addr=0x68, len=1
+[    2.910000] mxs-i2c mxs-i2c.0: addr: 0x0068, len: 1, flags: 0x0, stop: 0
+[    2.910000] mxs-i2c mxs-i2c.0: Done with err=0
+[    2.910000] mxs-i2c mxs-i2c.0: addr: 0x0068, len: 1, flags: 0x1, stop: 1
+[    2.910000] mxs-i2c mxs-i2c.0: Done with err=0
+[    2.910000] i2c i2c-0: master_xfer[0] W, addr=0x68, len=2
+[    2.910000] mxs-i2c mxs-i2c.0: addr: 0x0068, len: 2, flags: 0x0, stop: 1
+[    2.910000] mxs-i2c mxs-i2c.0: Done with err=0
+[    2.910000] ds1374: dev (254:0)
+[    2.910000] rtc-ds1374 0-0068: rtc core: registered ds1374 as rtc0
+[    2.920000] i2c-core: driver [rtc-ds1374] registered
+[    2.920000] lis3lv02d_i2c 0-001d: probe
+[    2.920000] i2c i2c-0: master_xfer[0] W, addr=0x1d, len=1
+[    2.920000] i2c i2c-0: master_xfer[1] R, addr=0x1d, len=1
+[    2.920000] mxs-i2c mxs-i2c.0: addr: 0x001d, len: 1, flags: 0x0, stop: 0
+[    2.920000] mxs-i2c mxs-i2c.0: Done with err=-121
+[    2.920000] lis3lv02d: unknown sensor type 0x87
+[    2.930000] lis3lv02d_i2c: probe of 0-001d failed with error -22
+[    2.930000] i2c-core: driver [lis3lv02d_i2c] registered
+[    2.930000] mxs watchdog: initialized, heartbeat 19 sec
+[    2.940000] cpuidle: using governor ladder
+[    2.940000] cpuidle: using governor menu
+[    2.950000] mxs-mmc: MXS SSP Controller MMC Interface driver
+[    3.060000] mxs-mmc mxs-mmc.0: mmc0: MXS SSP MMC DMAIRQ 82 ERRIRQ 96 
+[    3.070000] dcp dcp.0: DCP crypto enabled.!
+[    3.080000] usbcore: registered new interface driver usbhid
+[    3.080000] usbhid: USB HID core driver
+[    3.090000] TCP cubic registered
+[    3.090000] lib80211: common routines for IEEE802.11 drivers
+[    3.100000] lib80211_crypt: registered algorithm 'NULL'
+[    3.100000] lib80211_crypt: registered algorithm 'WEP'
+[    3.100000] lib80211_crypt: registered algorithm 'CCMP'
+[    3.100000] lib80211_crypt: registered algorithm 'TKIP'
+[    3.110000] i2c i2c-0: master_xfer[0] W, addr=0x68, len=1
+[    3.110000] i2c i2c-0: master_xfer[1] R, addr=0x68, len=4
+[    3.110000] mxs-i2c mxs-i2c.0: addr: 0x0068, len: 1, flags: 0x0, stop: 0
+[    3.110000] mxs-i2c mxs-i2c.0: Done with err=0
+[    3.110000] mxs-i2c mxs-i2c.0: addr: 0x0068, len: 4, flags: 0x1, stop: 1
+[    3.110000] mxs-i2c mxs-i2c.0: Done with err=0
+[    3.110000] rtc-ds1374 0-0068: setting system clock to 2017-01-13 15:14:35 UTC (1484320475)
+[    3.310000] UBIFS: mounted UBI device 0, volume 0, name "rootfs"
+[    3.310000] UBIFS: file system size:   106913792 bytes (104408 KiB, 101 MiB, 842 LEBs)
+[    3.320000] UBIFS: journal size:       5332992 bytes (5208 KiB, 5 MiB, 42 LEBs)
+[    3.330000] UBIFS: media format:       w4/r0 (latest is w4/r0)
+[    3.330000] UBIFS: default compressor: lzo
+[    3.340000] UBIFS: reserved for root:  4952683 bytes (4836 KiB)
+[    3.350000] VFS: Mounted root (ubifs filesystem) on device 0:13.
+[    3.360000] devtmpfs: mounted
+[    3.360000] Freeing init memory: 520K
+[    3.700000] USB Gadget resume begins
+[    4.710000] i2c 0-001d: uevent
+[    4.710000] rtc-ds1374 0-0068: uevent
+[    7.530000] eth0: Freescale FEC PHY driver [Generic PHY] (mii_bus:phy_addr=0:00, irq=-1)
+[    9.530000] PHY: 0:00 - Link is Up - 100/Full
+HW eth:
+eth0      Link encap:Ethernet  HWaddr 00:04:47:AC:0B:1B  
+          inet addr:192.168.1.121  Bcast:192.168.1.255  Mask:255.255.255.0
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:13289887 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:14154204 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:2448183289 (2.2 GiB)  TX bytes:2347531337 (2.1 GiB)
+          Base address:0x8000 
+
+lo        Link encap:Local Loopback  
+          inet addr:127.0.0.1  Mask:255.0.0.0
+          UP LOOPBACK RUNNING  MTU:16436  Metric:1
+          RX packets:4 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:4 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:0 
+          RX bytes:320 (320.0 B)  TX bytes:320 (320.0 B)
+
+HW dev:
+lrwxrwxrwx    1 root     root            4 Jan 13 15:14 XOR -> null
+crw-rw----    1 root     root      10,  63 Jan 13 15:14 ashmem
+crw-rw----    1 root     root      10, 235 Jan 13 15:14 autofs
+drwxr-xr-x    3 root     root           60 Jan 13 15:14 bus
+crw-------    1 root     root       5,   1 Jan 13 15:14 console
+crw-rw----    1 root     root      10,  58 Jan 13 15:14 cpu_dma_latency
+crw-rw----    1 root     root      10,  62 Jan 13 15:14 cuse
+crw-rw----    1 root     root      10,  59 Jan 13 15:14 dcpboot
+lrwxrwxrwx    1 root     root            3 Jan 13 15:14 fb -> fb0
+crw-rw-rw-    1 root     root      29,   0 Jan 13 15:14 fb0
+crw-rw-rw-    1 root     root       1,   7 Jan 13 15:14 full
+crw-rw-rw-    1 root     root      10, 229 Jan 13 15:14 fuse
+drwxr-xr-x    2 root     root          100 Jan 13 15:14 input
+crw-r-----    1 root     kmem       1,   2 Jan 13 15:14 kmem
+crw-rw----    1 root     root       1,  11 Jan 13 15:14 kmsg
+brw-r-----    1 root     disk       7,   0 Jan 13 15:14 loop0
+brw-r-----    1 root     disk       7,   1 Jan 13 15:14 loop1
+brw-r-----    1 root     disk       7,   2 Jan 13 15:14 loop2
+brw-r-----    1 root     disk       7,   3 Jan 13 15:14 loop3
+brw-r-----    1 root     disk       7,   4 Jan 13 15:14 loop4
+brw-r-----    1 root     disk       7,   5 Jan 13 15:14 loop5
+brw-r-----    1 root     disk       7,   6 Jan 13 15:14 loop6
+brw-r-----    1 root     disk       7,   7 Jan 13 15:14 loop7
+crw-r-----    1 root     kmem       1,   1 Jan 13 15:14 mem
+crw-rw----    1 root     root      90,   0 Jan 13 15:14 mtd0
+crw-rw----    1 root     root      90,   1 Jan 13 15:14 mtd0ro
+crw-rw----    1 root     root      90,   2 Jan 13 15:14 mtd1
+crw-rw----    1 root     root      90,   3 Jan 13 15:14 mtd1ro
+brw-r-----    1 root     disk      31,   0 Jan 13 15:14 mtdblock0
+brw-r-----    1 root     disk      31,   1 Jan 13 15:14 mtdblock1
+lrwxrwxrwx    1 root     root            8 Jan 13 15:14 mxc_mem -> mxs_viim
+cr--r--r--    1 root     root      10,  61 Jan 13 15:14 mxs_viim
+brw-r-----    1 root     disk      43,   0 Jan 13 15:14 nbd0
+brw-r-----    1 root     disk      43,   1 Jan 13 15:14 nbd1
+brw-r-----    1 root     disk      43,  10 Jan 13 15:14 nbd10
+brw-r-----    1 root     disk      43,  11 Jan 13 15:14 nbd11
+brw-r-----    1 root     disk      43,  12 Jan 13 15:14 nbd12
+brw-r-----    1 root     disk      43,  13 Jan 13 15:14 nbd13
+brw-r-----    1 root     disk      43,  14 Jan 13 15:14 nbd14
+brw-r-----    1 root     disk      43,  15 Jan 13 15:14 nbd15
+brw-r-----    1 root     disk      43,   2 Jan 13 15:14 nbd2
+brw-r-----    1 root     disk      43,   3 Jan 13 15:14 nbd3
+brw-r-----    1 root     disk      43,   4 Jan 13 15:14 nbd4
+brw-r-----    1 root     disk      43,   5 Jan 13 15:14 nbd5
+brw-r-----    1 root     disk      43,   6 Jan 13 15:14 nbd6
+brw-r-----    1 root     disk      43,   7 Jan 13 15:14 nbd7
+brw-r-----    1 root     disk      43,   8 Jan 13 15:14 nbd8
+brw-r-----    1 root     disk      43,   9 Jan 13 15:14 nbd9
+drwxr-xr-x    2 root     root           60 Jan 13 15:14 net
+crw-rw----    1 root     root      10,  57 Jan 13 15:14 network_latency
+crw-rw----    1 root     root      10,  56 Jan 13 15:14 network_throughput
+crw-rw-rw-    1 root     root       1,   3 Jan 13 15:14 null
+crw-rw-rw-    1 root     tty        5,   2 Jan 23 18:46 ptmx
+drwxr-xr-x    2 root     root            0 Jan  1  1970 pts
+crw-rw----    1 root     tty        2,   0 Jan 13 15:14 ptyp0
+crw-rw----    1 root     tty        2,   1 Jan 13 15:14 ptyp1
+lrwxrwxrwx    1 root     root            4 Jan 13 15:14 ram -> ram1
+brw-r-----    1 root     disk       1,   0 Jan 13 15:14 ram0
+brw-r-----    1 root     disk       1,   1 Jan 13 15:14 ram1
+brw-r-----    1 root     disk       1,   2 Jan 13 15:14 ram2
+brw-r-----    1 root     disk       1,   3 Jan 13 15:14 ram3
+lrwxrwxrwx    1 root     root            4 Jan 13 15:14 ramdisk -> ram0
+crw-rw-rw-    1 root     root       1,   8 Jan 13 15:14 random
+lrwxrwxrwx    1 root     root            4 Jan 13 15:14 rtc -> rtc0
+crw-r--r--    1 root     root     254,   0 Jan 13 15:14 rtc0
+drwxrwxrwt    2 root     root           60 Jan 24 11:23 shm
+crw-rw-rw-    1 root     tty        5,   0 Jan 13 15:14 tty
+crw--w----    1 root     tty        4,   0 Jan 13 15:14 tty0
+crw--w----    1 root     tty        4,   1 Jan 13 15:14 tty1
+crw--w----    1 root     tty        4,  10 Jan 13 15:14 tty10
+crw--w----    1 root     tty        4,  11 Jan 13 15:14 tty11
+crw--w----    1 root     tty        4,  12 Jan 13 15:14 tty12
+crw--w----    1 root     tty        4,  13 Jan 13 15:14 tty13
+crw--w----    1 root     tty        4,  14 Jan 13 15:14 tty14
+crw--w----    1 root     tty        4,  15 Jan 13 15:14 tty15
+crw--w----    1 root     tty        4,  16 Jan 13 15:14 tty16
+crw--w----    1 root     tty        4,  17 Jan 13 15:14 tty17
+crw--w----    1 root     tty        4,  18 Jan 13 15:14 tty18
+crw--w----    1 root     tty        4,  19 Jan 13 15:14 tty19
+crw--w----    1 root     tty        4,   2 Jan 13 15:14 tty2
+crw--w----    1 root     tty        4,  20 Jan 13 15:14 tty20
+crw--w----    1 root     tty        4,  21 Jan 13 15:14 tty21
+crw--w----    1 root     tty        4,  22 Jan 13 15:14 tty22
+crw--w----    1 root     tty        4,  23 Jan 13 15:14 tty23
+crw--w----    1 root     tty        4,  24 Jan 13 15:14 tty24
+crw--w----    1 root     tty        4,  25 Jan 13 15:14 tty25
+crw--w----    1 root     tty        4,  26 Jan 13 15:14 tty26
+crw--w----    1 root     tty        4,  27 Jan 13 15:14 tty27
+crw--w----    1 root     tty        4,  28 Jan 13 15:14 tty28
+crw--w----    1 root     tty        4,  29 Jan 13 15:14 tty29
+crw--w----    1 root     tty        4,   3 Jan 13 15:14 tty3
+crw--w----    1 root     tty        4,  30 Jan 13 15:14 tty30
+crw--w----    1 root     tty        4,  31 Jan 13 15:14 tty31
+crw--w----    1 root     tty        4,  32 Jan 13 15:14 tty32
+crw--w----    1 root     tty        4,  33 Jan 13 15:14 tty33
+crw--w----    1 root     tty        4,  34 Jan 13 15:14 tty34
+crw--w----    1 root     tty        4,  35 Jan 13 15:14 tty35
+crw--w----    1 root     tty        4,  36 Jan 13 15:14 tty36
+crw--w----    1 root     tty        4,  37 Jan 13 15:14 tty37
+crw--w----    1 root     tty        4,  38 Jan 13 15:14 tty38
+crw--w----    1 root     tty        4,  39 Jan 13 15:14 tty39
+crw--w----    1 root     tty        4,   4 Jan 13 15:14 tty4
+crw--w----    1 root     tty        4,  40 Jan 13 15:14 tty40
+crw--w----    1 root     tty        4,  41 Jan 13 15:14 tty41
+crw--w----    1 root     tty        4,  42 Jan 13 15:14 tty42
+crw--w----    1 root     tty        4,  43 Jan 13 15:14 tty43
+crw--w----    1 root     tty        4,  44 Jan 13 15:14 tty44
+crw--w----    1 root     tty        4,  45 Jan 13 15:14 tty45
+crw--w----    1 root     tty        4,  46 Jan 13 15:14 tty46
+crw--w----    1 root     tty        4,  47 Jan 13 15:14 tty47
+crw--w----    1 root     tty        4,  48 Jan 13 15:14 tty48
+crw--w----    1 root     tty        4,  49 Jan 13 15:14 tty49
+crw--w----    1 root     tty        4,   5 Jan 13 15:14 tty5
+crw--w----    1 root     tty        4,  50 Jan 13 15:14 tty50
+crw--w----    1 root     tty        4,  51 Jan 13 15:14 tty51
+crw--w----    1 root     tty        4,  52 Jan 13 15:14 tty52
+crw--w----    1 root     tty        4,  53 Jan 13 15:14 tty53
+crw--w----    1 root     tty        4,  54 Jan 13 15:14 tty54
+crw--w----    1 root     tty        4,  55 Jan 13 15:14 tty55
+crw--w----    1 root     tty        4,  56 Jan 13 15:14 tty56
+crw--w----    1 root     tty        4,  57 Jan 13 15:14 tty57
+crw--w----    1 root     tty        4,  58 Jan 13 15:14 tty58
+crw--w----    1 root     tty        4,  59 Jan 13 15:14 tty59
+crw--w----    1 root     tty        4,   6 Jan 13 15:14 tty6
+crw--w----    1 root     tty        4,  60 Jan 13 15:14 tty60
+crw--w----    1 root     tty        4,  61 Jan 13 15:14 tty61
+crw--w----    1 root     tty        4,  62 Jan 13 15:14 tty62
+crw--w----    1 root     tty        4,  63 Jan 13 15:14 tty63
+crw--w----    1 root     tty        4,   7 Jan 13 15:14 tty7
+crw--w----    1 root     tty        4,   8 Jan 13 15:14 tty8
+crw--w----    1 root     tty        4,   9 Jan 13 15:14 tty9
+crw--w----    1 root     root     204,  16 Jan 13 15:14 ttyAM0
+crw-rw----    1 root     uucp     250,   0 Jan 13 15:14 ttyGS0
+crw-rw----    1 root     uucp     242,   0 Jan 24 11:23 ttySP0
+crw-rw----    1 root     tty        3,   0 Jan 13 15:14 ttyp0
+crw-rw----    1 root     tty        3,   1 Jan 13 15:14 ttyp1
+crw-rw----    1 root     root     251,   0 Jan 13 15:14 ubi0
+crw-rw----    1 root     root     251,   1 Jan 13 15:14 ubi0_0
+crw-rw----    1 root     root      10,  60 Jan 13 15:14 ubi_ctrl
+brw-r-----    1 root     disk     254,   0 Jan 13 15:14 ubiblka
+crw-rw-rw-    1 root     root       1,   9 Jan 13 15:14 urandom
+crw-rw----    1 root     root     189,   0 Jan 13 15:14 usbdev1.1
+crw-rw----    1 root     root     189, 128 Jan 13 15:14 usbdev2.1
+crw-rw----    1 root     tty        7,   0 Jan 13 15:14 vcs
+crw-rw----    1 root     tty        7,   1 Jan 13 15:14 vcs1
+crw-rw----    1 root     tty        7, 128 Jan 13 15:14 vcsa
+crw-rw----    1 root     tty        7, 129 Jan 13 15:14 vcsa1
+crw-rw----    1 root     root      10, 130 Jan 13 15:14 watchdog
+crw-rw-rw-    1 root     root       1,   5 Jan 13 15:14 zero
+HW sys:
+drwxr-xr-x    2 root     root            0 Jan 24 13:57 block
+drwxr-xr-x   11 root     root            0 Jan 13 15:14 bus
+drwxr-xr-x   31 root     root            0 Jan 13 15:14 class
+drwxr-xr-x    4 root     root            0 Jan 24 13:57 dev
+drwxr-xr-x    5 root     root            0 Jan 13 15:14 devices
+drwxr-xr-x    2 root     root            0 Jan 24 13:57 firmware
+drwxr-xr-x    4 root     root            0 Jan 24 13:57 fs
+drwxr-xr-x    5 root     root            0 Jan 13 15:14 kernel
+drwxr-xr-x   30 root     root            0 Jan 24 13:57 module
+drwxr-xr-x    2 root     root            0 Jan 24 13:57 power
+HW /sys/class:
+drwxr-xr-x    2 root     root            0 Jan 13 15:14 backlight
+drwxr-xr-x    2 root     root            0 Jan 13 15:14 bdi
+drwxr-xr-x    2 root     root            0 Jan 13 15:14 block
+drwxr-xr-x    2 root     root            0 Jan 13 15:14 bsg
+drwxr-xr-x    2 root     root            0 Jan 13 15:14 cuse
+drwxr-xr-x    2 root     root            0 Jan 13 15:14 display
+drwxr-xr-x    2 root     root            0 Jan 13 15:14 dma
+drwxr-xr-x    2 root     root            0 Jan 13 15:14 firmware
+drwxr-xr-x    2 root     root            0 Jan 13 15:14 gpio
+drwxr-xr-x    2 root     root            0 Jan 13 15:14 graphics
+drwxr-xr-x    2 root     root            0 Jan 13 15:14 hwmon
+drwxr-xr-x    2 root     root            0 Jan 13 15:14 ieee80211
+drwxr-xr-x    2 root     root            0 Jan 13 15:14 input
+drwxr-xr-x    2 root     root            0 Jan 13 15:14 leds
+drwxr-xr-x    2 root     root            0 Jan 13 15:14 mdio_bus
+drwxr-xr-x    2 root     root            0 Jan 13 15:14 mem
+drwxr-xr-x    2 root     root            0 Jan 13 15:14 misc
+drwxr-xr-x    2 root     root            0 Jan 13 15:14 mmc_host
+drwxr-xr-x    2 root     root            0 Jan 13 15:14 mtd
+drwxr-xr-x    2 root     root            0 Jan 13 15:14 net
+drwxr-xr-x    2 root     root            0 Jan 13 15:14 regulator
+drwxr-xr-x    2 root     root            0 Jan 13 15:14 rtc
+drwxr-xr-x    2 root     root            0 Jan 13 15:14 scsi_device
+drwxr-xr-x    2 root     root            0 Jan 13 15:14 scsi_host
+drwxr-xr-x    2 root     root            0 Jan 13 15:14 tty
+drwxr-xr-x    2 root     root            0 Jan 13 15:14 ubi
+drwxr-xr-x    2 root     root            0 Jan 13 15:14 usb_device
+drwxr-xr-x    2 root     root            0 Jan 13 15:14 vc
+drwxr-xr-x    2 root     root            0 Jan 13 15:14 vtconsole
+HW /sys/class/gpio:
+--w-------    1 root     root         4096 Jan 13 15:14 export
+lrwxrwxrwx    1 root     root            0 Jan 13 15:14 gpio100 -> ../../devices/virtual/gpio/gpio100
+lrwxrwxrwx    1 root     root            0 Jan 13 15:14 gpio101 -> ../../devices/virtual/gpio/gpio101
+lrwxrwxrwx    1 root     root            0 Jan 13 15:14 gpio21 -> ../../devices/virtual/gpio/gpio21
+lrwxrwxrwx    1 root     root            0 Jan 13 15:14 gpiochip0 -> ../../devices/virtual/gpio/gpiochip0
+lrwxrwxrwx    1 root     root            0 Jan 13 15:14 gpiochip128 -> ../../devices/virtual/gpio/gpiochip128
+lrwxrwxrwx    1 root     root            0 Jan 13 15:14 gpiochip32 -> ../../devices/virtual/gpio/gpiochip32
+lrwxrwxrwx    1 root     root            0 Jan 13 15:14 gpiochip64 -> ../../devices/virtual/gpio/gpiochip64
+lrwxrwxrwx    1 root     root            0 Jan 13 15:14 gpiochip96 -> ../../devices/virtual/gpio/gpiochip96
+--w-------    1 root     root         4096 Jan 13 15:14 unexport
+DRIVERS linux - KERNEL INFO:
+LOADED DRIVERS linux - KERNEL INFO:
+Module                  Size  Used by
+OS SYSTEM INFORMATION:
+Filesystem                Size      Used Available Use% Mounted on
+ubi0:rootfs              93.6M     48.7M     40.2M  55% /
+devtmpfs                 60.6M     32.0K     60.5M   0% /dev
+tmpfs                    60.6M     32.0K     60.5M   0% /dev
+shm                      60.6M      4.0K     60.5M   0% /dev/shm
+rwfs                    512.0K         0    512.0K   0% /mnt/rwfs
+Process info:
+  PID USER       VSZ STAT COMMAND
+    1 root      2168 S    init       
+    2 root         0 SW   [kthreadd]
+    3 root         0 SW   [ksoftirqd/0]
+    4 root         0 SW   [events/0]
+    5 root         0 SW   [khelper]
+    8 root         0 SW   [async/mgr]
+   58 root         0 DW   [usb_wakeup thre]
+  155 root         0 SW   [sync_supers]
+  157 root         0 SW   [bdi-default]
+  158 root         0 SW   [kintegrityd/0]
+  160 root         0 SW   [kblockd/0]
+  169 root         0 SW   [otg_switch/0]
+  175 root         0 SW   [khubd]
+  178 root         0 SW   [kseriod]
+  183 root         0 SW   [kmmcd]
+  194 root         0 SW   [cfg80211]
+  197 root         0 SW<  [kslowd000]
+  198 root         0 SW<  [kslowd001]
+  214 root         0 DW   [usb_wakeup thre]
+  241 root         0 SW   [kswapd0]
+  294 root         0 SW   [aio/0]
+  318 root         0 SW   [crypto/0]
+  484 root         0 SW   [mtdblock0]
+  489 root         0 SW   [mtdblock1]
+  498 root         0 SW   [ubi_bgt0d]
+  499 root         0 SW   [ubiblk1]
+  581 root         0 SW   [usb_gadget_work]
+  585 root         0 SW   [file-storage]
+  593 root         0 SW   [kondemand/0]
+  594 root         0 SW   [kconservative/0]
+  612 root         0 SW   [usbhid_resumer]
+  616 root         0 SW   [pswitch]
+  622 root         0 SW   [ubifs_bgt0_0]
+  632 root      1780 S <  udevd --daemon 
+ 1046 root      3928 S    /usr/sbin/sshd 
+ 1055 root      1616 S    /usr/bin/timesrv_arm 
+ 1067 root      2172 S    /sbin/getty -L ttyAM0 115200 vt100 
+ 7529 root      2168 S    sh -c /mnt/software/bin/debug.sh start --trace=N:SDK.
+ 7530 root      2172 S    /bin/sh /mnt/software/bin/debug.sh start --trace=N:SD
+ 7531 root     28424 S    mono --trace=N:SDK.SignalsFactory Gateway.exe 
+ 9509 root         0 SW   [flush-ubifs_0_0]
+ 9516 root      6488 S    sshd: root@notty  
+ 9520 root      2168 S    sh -c /mnt/software/bin/test_wagon 
+ 9521 root      2172 S    /bin/sh /mnt/software/bin/test_wagon 
+ 9538 root      2172 R    ps aux 
+TOP info:
+Mem: 24600K used, 99408K free, 0K shrd, 0K buff, 10564K cached
+CPU:   0% usr  33% sys   0% nic  66% idle   0% io   0% irq   0% sirq
+Load average: 3.03 2.91 2.89 1/50 9539
+  PID  PPID USER     STAT   VSZ %MEM %CPU COMMAND
+ 7531  7530 root     S    28424  23%  17% mono --trace=N:SDK.SignalsFactory Gate
+ 9539  9521 root     R     2168   2%  17% top -b -n 2 -d 2 
+ 9516  1046 root     S     6488   5%   0% sshd: root@notty  
+ 1046     1 root     S     3928   3%   0% /usr/sbin/sshd 
+ 1067     1 root     S     2172   2%   0% /sbin/getty -L ttyAM0 115200 vt100 
+ 9521  9520 root     S     2172   2%   0% /bin/sh /mnt/software/bin/test_wagon 
+ 7530  7529 root     S     2172   2%   0% /bin/sh /mnt/software/bin/debug.sh sta
+    1     0 root     S     2168   2%   0% init       
+ 9520  9516 root     S     2168   2%   0% sh -c /mnt/software/bin/test_wagon 
+ 7529     1 root     S     2168   2%   0% sh -c /mnt/software/bin/debug.sh start
+  632     1 root     S <   1780   1%   0% udevd --daemon 
+ 1055     1 root     S     1616   1%   0% /usr/bin/timesrv_arm 
+    3     2 root     SW       0   0%   0% [ksoftirqd/0]
+    4     2 root     SW       0   0%   0% [events/0]
+    5     2 root     SW       0   0%   0% [khelper]
+  155     2 root     SW       0   0%   0% [sync_supers]
+  157     2 root     SW       0   0%   0% [bdi-default]
+  183     2 root     SW       0   0%   0% [kmmcd]
+  498     2 root     SW       0   0%   0% [ubi_bgt0d]
+  622     2 root     SW       0   0%   0% [ubifs_bgt0_0]
+    2     0 root     SW       0   0%   0% [kthreadd]
+    8     2 root     SW       0   0%   0% [async/mgr]
+   58     2 root     DW       0   0%   0% [usb_wakeup thre]
+  158     2 root     SW       0   0%   0% [kintegrityd/0]
+  160     2 root     SW       0   0%   0% [kblockd/0]
+  169     2 root     SW       0   0%   0% [otg_switch/0]
+  175     2 root     SW       0   0%   0% [khubd]
+  178     2 root     SW       0   0%   0% [kseriod]
+  194     2 root     SW       0   0%   0% [cfg80211]
+  197     2 root     SW<      0   0%   0% [kslowd000]
+  198     2 root     SW<      0   0%   0% [kslowd001]
+  214     2 root     DW       0   0%   0% [usb_wakeup thre]
+  241     2 root     SW       0   0%   0% [kswapd0]
+  294     2 root     SW       0   0%   0% [aio/0]
+  318     2 root     SW       0   0%   0% [crypto/0]
+  484     2 root     SW       0   0%   0% [mtdblock0]
+  489     2 root     SW       0   0%   0% [mtdblock1]
+  499     2 root     SW       0   0%   0% [ubiblk1]
+  581     2 root     SW       0   0%   0% [usb_gadget_work]
+  585     2 root     SW       0   0%   0% [file-storage]
+  593     2 root     SW       0   0%   0% [kondemand/0]
+  594     2 root     SW       0   0%   0% [kconservative/0]
+  612     2 root     SW       0   0%   0% [usbhid_resumer]
+  616     2 root     SW       0   0%   0% [pswitch]
+ 9509     2 root     SW       0   0%   0% [flush-ubifs_0_0]
+Mem: 24628K used, 99380K free, 0K shrd, 0K buff, 10568K cached
+CPU:  43% usr   2% sys   0% nic  54% idle   0% io   0% irq   0% sirq
+Load average: 3.03 2.91 2.89 2/50 9539
+  PID  PPID USER     STAT   VSZ %MEM %CPU COMMAND
+ 7531  7530 root     S    28424  23%  45% mono --trace=N:SDK.SignalsFactory Gate
+ 9539  9521 root     R     2172   2%   1% top -b -n 2 -d 2 
+ 9516  1046 root     S     6488   5%   0% sshd: root@notty  
+ 1046     1 root     S     3928   3%   0% /usr/sbin/sshd 
+ 1067     1 root     S     2172   2%   0% /sbin/getty -L ttyAM0 115200 vt100 
+ 9521  9520 root     S     2172   2%   0% /bin/sh /mnt/software/bin/test_wagon 
+ 7530  7529 root     S     2172   2%   0% /bin/sh /mnt/software/bin/debug.sh sta
+    1     0 root     S     2168   2%   0% init       
+ 9520  9516 root     S     2168   2%   0% sh -c /mnt/software/bin/test_wagon 
+ 7529     1 root     S     2168   2%   0% sh -c /mnt/software/bin/debug.sh start
+  632     1 root     S <   1780   1%   0% udevd --daemon 
+ 1055     1 root     S     1616   1%   0% /usr/bin/timesrv_arm 
+    3     2 root     SW       0   0%   0% [ksoftirqd/0]
+    4     2 root     SW       0   0%   0% [events/0]
+    5     2 root     SW       0   0%   0% [khelper]
+  155     2 root     SW       0   0%   0% [sync_supers]
+  157     2 root     SW       0   0%   0% [bdi-default]
+  183     2 root     SW       0   0%   0% [kmmcd]
+  498     2 root     SW       0   0%   0% [ubi_bgt0d]
+  622     2 root     SW       0   0%   0% [ubifs_bgt0_0]
+    2     0 root     SW       0   0%   0% [kthreadd]
+    8     2 root     SW       0   0%   0% [async/mgr]
+   58     2 root     DW       0   0%   0% [usb_wakeup thre]
+  158     2 root     SW       0   0%   0% [kintegrityd/0]
+  160     2 root     SW       0   0%   0% [kblockd/0]
+  169     2 root     SW       0   0%   0% [otg_switch/0]
+  175     2 root     SW       0   0%   0% [khubd]
+  178     2 root     SW       0   0%   0% [kseriod]
+  194     2 root     SW       0   0%   0% [cfg80211]
+  197     2 root     SW<      0   0%   0% [kslowd000]
+  198     2 root     SW<      0   0%   0% [kslowd001]
+  214     2 root     DW       0   0%   0% [usb_wakeup thre]
+  241     2 root     SW       0   0%   0% [kswapd0]
+  294     2 root     SW       0   0%   0% [aio/0]
+  318     2 root     SW       0   0%   0% [crypto/0]
+  484     2 root     SW       0   0%   0% [mtdblock0]
+  489     2 root     SW       0   0%   0% [mtdblock1]
+  499     2 root     SW       0   0%   0% [ubiblk1]
+  581     2 root     SW       0   0%   0% [usb_gadget_work]
+  585     2 root     SW       0   0%   0% [file-storage]
+  593     2 root     SW       0   0%   0% [kondemand/0]
+  594     2 root     SW       0   0%   0% [kconservative/0]
+  612     2 root     SW       0   0%   0% [usbhid_resumer]
+  616     2 root     SW       0   0%   0% [pswitch]
+ 9509     2 root     SW       0   0%   0% [flush-ubifs_0_0]
+
+ls / info:
+drwxr-xr-x    2 root     root         4376 Nov 14 11:17 bin
+drwxr-xr-x    8 root     root         3040 Jan 13 15:14 dev
+drwxr-xr-x    7 root     root         3136 Jan 13 15:14 etc
+drwxr-xr-x    7 messageb messageb      480 Nov 14 11:18 framework
+drwxr-xr-x    3 root     root          224 Nov 14 11:18 home
+drwxr-xr-x    5 root     root         4240 Nov 14 11:19 lib
+drwxr-xr-x    9 root     root          616 Jan 13 15:13 mnt
+drwxr-xr-x    2 root     root          160 Nov 14 11:19 opt
+dr-xr-xr-x   56 root     root            0 Jan  1  1970 proc
+drwxr-xr-x    2 root     root          312 Jan 24 13:57 root
+drwxr-xr-x    2 root     root         2968 Nov 14 11:19 sbin
+drwxr-xr-x   12 root     root            0 Jan 13 15:14 sys
+drwxr-xr-t    3 root     root          224 Jan 13 15:14 tmp
+drwxr-xr-x    9 root     root          608 Nov 14 11:19 usr
+drwxr-xr-x   13 root     root          864 Nov 14 11:19 var
+ls /mnt/software info:
+drwxrwxr-x    2 root     root         1880 Jan 24 13:57 bin
+ls /mnt/software/bin info:
+-rwxrwxr-x    1 root     root        50688 Jan 13 15:13 EasyModbus.dll
+-rwxrwxr-x    1 root     root        22528 Jan 13 15:13 Gateway.exe
+-rwxrwxr-x    1 root     root        69632 Jan 13 15:13 Nini.dll
+-rwxrwxr-x    1 root     root        86016 Jan 13 15:13 SDK.Common.dll
+-rwxrwxr-x    1 root     root         7680 Jan 13 15:13 SDK.Interfaces.dll
+-rwxrwxr-x    1 root     root        82944 Jan 13 15:13 SDK.NModbus.dll
+-rwxrwxr-x    1 root     root        72704 Jan 13 15:13 SDK.NetworksServices.dll
+-rwxrwxr-x    1 root     root        57856 Jan 13 15:14 SDK.SignalsFactory.dll
+-rwxrwxr-x    1 root     root         7168 Jan 13 15:14 SDK.Watchdog.exe
+-rwxrwxr-x    1 root     root        55296 Jan 13 15:14 Sensors.dll
+-rwxrwxr-x    1 root     root       116224 Jan 13 15:14 Sensors.pdb
+-rwxrwxr-x    1 root     root        14848 Jan 13 15:14 SignalsNamespace.dll
+-rwxrwxr-x    1 root     root        21504 Jan 13 15:14 Unme.Common.dll
+-rwxr-xr-x    1 root     root          556 Jan 23 18:42 debug.sh
+-rwxrwxr-x    1 root     root       108544 Jan 24 11:22 journals.db
+-rwxrwxr-x    1 root     root      2076509 Jan 13 15:13 libsqlite3.so.0
+-rwxrwxr-x    1 root     root      2076509 Jan 13 15:13 libsqlite3.so.0.8.6
+-rwxrwxr-x    1 root     root       299008 Jan 13 15:13 log4net.dll
+-rwxrwxr-x    1 root     root       197632 Jan 13 15:13 protobuf-net.dll
+-rwxrwxr-x    1 root     root        20480 Jan 24 10:32 signals.db
+-rwxrwxr-x    1 root     root         1683 Jan 13 15:14 signals.dsc
+-rwxrwxr-x    1 root     root         4721 Jan 13 15:14 sqlite3.def
+-rwxr-xr-x    1 root     root         1982 Jan 24 13:57 test_wagon
+LINK STATISTICS
+PCproc link:
+PING 192.168.1.121 (192.168.1.121): 56 data bytes
+64 bytes from 192.168.1.121: seq=0 ttl=64 time=0.625 ms
+64 bytes from 192.168.1.121: seq=1 ttl=64 time=0.406 ms
+64 bytes from 192.168.1.121: seq=2 ttl=64 time=0.406 ms
+64 bytes from 192.168.1.121: seq=3 ttl=64 time=0.406 ms
+64 bytes from 192.168.1.121: seq=4 ttl=64 time=0.406 ms
+64 bytes from 192.168.1.121: seq=5 ttl=64 time=0.406 ms
+64 bytes from 192.168.1.121: seq=6 ttl=64 time=0.375 ms
+64 bytes from 192.168.1.121: seq=7 ttl=64 time=0.375 ms
+64 bytes from 192.168.1.121: seq=8 ttl=64 time=0.407 ms
+64 bytes from 192.168.1.121: seq=9 ttl=64 time=0.406 ms
+
+--- 192.168.1.121 ping statistics ---
+10 packets transmitted, 10 packets received, 0% packet loss
+round-trip min/avg/max = 0.375/0.421/0.625 ms
+Panel 4.3 link:
+PING 192.168.1.122 (192.168.1.122): 56 data bytes
+
+--- 192.168.1.122 ping statistics ---
+10 packets transmitted, 0 packets received, 100% packet loss
+WAGO link:
+PING 192.168.1.111 (192.168.1.111): 56 data bytes
+64 bytes from 192.168.1.111: seq=0 ttl=64 time=1.937 ms
+64 bytes from 192.168.1.111: seq=1 ttl=64 time=0.563 ms
+64 bytes from 192.168.1.111: seq=2 ttl=64 time=0.594 ms
+64 bytes from 192.168.1.111: seq=3 ttl=64 time=0.563 ms
+64 bytes from 192.168.1.111: seq=4 ttl=64 time=0.594 ms
+64 bytes from 192.168.1.111: seq=5 ttl=64 time=0.563 ms
+64 bytes from 192.168.1.111: seq=6 ttl=64 time=0.594 ms
+64 bytes from 192.168.1.111: seq=7 ttl=64 time=0.594 ms
+64 bytes from 192.168.1.111: seq=8 ttl=64 time=0.563 ms
+64 bytes from 192.168.1.111: seq=9 ttl=64 time=0.625 ms
+
+--- 192.168.1.111 ping statistics ---
+10 packets transmitted, 10 packets received, 0% packet loss
+round-trip min/avg/max = 0.563/0.719/1.937 ms
+Panel 10 link:
+PING 192.168.1.131 (192.168.1.131): 56 data bytes
+
+--- 192.168.1.131 ping statistics ---
+10 packets transmitted, 0 packets received, 100% packet loss
+STM32 link:
+PING 192.168.1.141 (192.168.1.141): 56 data bytes
+
+--- 192.168.1.141 ping statistics ---
+10 packets transmitted, 0 packets received, 100% packet loss
+Cam1 link:
+PING 192.168.1.101 (192.168.1.101): 56 data bytes
+
+--- 192.168.1.101 ping statistics ---
+10 packets transmitted, 0 packets received, 100% packet loss
+Cam2 link:
+PING 192.168.1.102 (192.168.1.102): 56 data bytes
+
+--- 192.168.1.102 ping statistics ---
+10 packets transmitted, 0 packets received, 100% packet loss
