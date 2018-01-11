@@ -1,0 +1,28 @@
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\SDK.Test\bin\Debug\SDK.Test.exe
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\SDK.Test\bin\Debug\SDK.Test.pdb
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\SDK.Test\bin\Debug\SDK.Prospero.Hardware.dll
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\SDK.Test\bin\Debug\SDK.Prospero.Hardware.pdb
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\Bin\GsmModem.ini
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\Bin\app.config
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\Bin\SDK.Test.exe.config
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\Bin\SDK.Test.exe
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\Bin\SDK.Test.pdb
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\SDK.Test\obj\x86\Debug\SDK.Test.csprojResolveAssemblyReference.cache
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\SDK.Test\obj\x86\Debug\SDK.Test.exe
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\SDK.Test\obj\x86\Debug\SDK.Test.pdb
+F:\Evg\_Копейск\SiQube SDK\SDK\Bin\GsmModem.ini
+F:\Evg\_Копейск\SiQube SDK\SDK\Bin\app.config
+F:\Evg\_Копейск\SiQube SDK\SDK\Bin\SDK.Test.exe.config
+F:\Evg\_Копейск\SiQube SDK\SDK\Bin\SDK.Test.exe
+F:\Evg\_Копейск\SiQube SDK\SDK\Bin\SDK.Test.pdb
+F:\Evg\_Копейск\SiQube SDK\SDK\SDK.Test\obj\x86\Debug\SDK.Test.csprojResolveAssemblyReference.cache
+F:\Evg\_Копейск\SiQube SDK\SDK\SDK.Test\obj\x86\Debug\SDK.Test.exe
+F:\Evg\_Копейск\SiQube SDK\SDK\SDK.Test\obj\x86\Debug\SDK.Test.pdb
+F:\Evg\_Копейск\SiQube SDK\SDK\Bin\Library\AmanithVG\x86\libAmanithEGL.dll
+F:\Evg\_Копейск\SiQube SDK\SDK\Bin\Library\AmanithVG\x86\libAmanithEGL_priv.dll
+F:\Evg\_Копейск\SiQube SDK\SDK\Bin\Library\AmanithVG\x86\libAmanithVG.dll
+F:\Evg\_Копейск\SiQube SDK\SDK\Bin\Library\AmanithVG\x86\libEGL.dll
+F:\Evg\_Копейск\SiQube SDK\SDK\Bin\Library\AmanithVG\x86\libOpenVG.dll
+F:\Evg\_Копейск\SiQube SDK\SDK\Bin\Tools\sdk_ui_image_converter.exe
+F:\Evg\_Копейск\SiQube SDK\SDK\Bin\Tools\splash_image_converter.exe
+F:\Evg\_Копейск\SiQube SDK\SDK\Bin\Library\AmanithVG\x86\amanithvg.ini

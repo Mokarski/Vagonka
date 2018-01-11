@@ -1,0 +1,13 @@
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK.Configure\bin\Debug\SDK.Configure.dll
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK.Configure\bin\Debug\SDK.Configure.pdb
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK.Configure\bin\Debug\SDK.Common.dll
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK.Configure\bin\Debug\SDK.Interfaces.dll
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK.Configure\bin\Debug\log4net.dll
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK.Configure\bin\Debug\Nini.dll
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK.Configure\bin\Debug\SDK.Common.pdb
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK.Configure\bin\Debug\SDK.Interfaces.pdb
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK.Configure\obj\Debug\SDK.Configure.csprojResolveAssemblyReference.cache
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK.Configure\obj\Debug\SDK.Configure.dll
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK.Configure\obj\Debug\SDK.Configure.pdb
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\Bin\SDK.Configure.dll
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\Bin\SDK.Configure.pdb

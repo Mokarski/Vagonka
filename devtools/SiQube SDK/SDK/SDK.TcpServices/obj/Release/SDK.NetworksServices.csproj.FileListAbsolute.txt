@@ -1,0 +1,48 @@
+D:\devtools\SiQube SDK\SDK\SDK.TcpServices\bin\Release\SDK.NetworksServices.dll
+D:\devtools\SiQube SDK\SDK\SDK.TcpServices\bin\Release\SDK.NetworksServices.pdb
+D:\devtools\SiQube SDK\SDK\SDK.TcpServices\bin\Release\protobuf-net.dll
+D:\devtools\SiQube SDK\SDK\SDK.TcpServices\bin\Release\SDK.Common.dll
+D:\devtools\SiQube SDK\SDK\SDK.TcpServices\bin\Release\SDK.Interfaces.dll
+D:\devtools\SiQube SDK\SDK\SDK.TcpServices\bin\Release\log4net.dll
+D:\devtools\SiQube SDK\SDK\SDK.TcpServices\bin\Release\Nini.dll
+D:\devtools\SiQube SDK\SDK\SDK.TcpServices\bin\Release\SDK.Common.pdb
+D:\devtools\SiQube SDK\SDK\SDK.TcpServices\bin\Release\SDK.Interfaces.pdb
+D:\devtools\SiQube SDK\SDK\SDK.TcpServices\obj\Release\SDK.NetworksServices.csprojResolveAssemblyReference.cache
+D:\devtools\SiQube SDK\SDK\SDK.TcpServices\obj\Release\SDK.NetworksServices.dll
+D:\devtools\SiQube SDK\SDK\SDK.TcpServices\obj\Release\SDK.NetworksServices.pdb
+C:\devtools\SiQube SDK\SDK\SDK.TcpServices\bin\Release\SDK.NetworksServices.dll
+C:\devtools\SiQube SDK\SDK\SDK.TcpServices\bin\Release\SDK.NetworksServices.pdb
+C:\devtools\SiQube SDK\SDK\SDK.TcpServices\bin\Release\protobuf-net.dll
+C:\devtools\SiQube SDK\SDK\SDK.TcpServices\bin\Release\SDK.Common.dll
+C:\devtools\SiQube SDK\SDK\SDK.TcpServices\bin\Release\SDK.Interfaces.dll
+C:\devtools\SiQube SDK\SDK\SDK.TcpServices\bin\Release\log4net.dll
+C:\devtools\SiQube SDK\SDK\SDK.TcpServices\bin\Release\Nini.dll
+C:\devtools\SiQube SDK\SDK\SDK.TcpServices\bin\Release\SDK.Common.pdb
+C:\devtools\SiQube SDK\SDK\SDK.TcpServices\bin\Release\SDK.Interfaces.pdb
+C:\devtools\SiQube SDK\SDK\SDK.TcpServices\obj\Release\SDK.NetworksServices.csprojResolveAssemblyReference.cache
+C:\devtools\SiQube SDK\SDK\SDK.TcpServices\obj\Release\SDK.NetworksServices.dll
+C:\devtools\SiQube SDK\SDK\SDK.TcpServices\obj\Release\SDK.NetworksServices.pdb
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.TcpServices\bin\Release\SDK.NetworksServices.dll
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.TcpServices\bin\Release\SDK.NetworksServices.pdb
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.TcpServices\bin\Release\protobuf-net.dll
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.TcpServices\bin\Release\SDK.Common.dll
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.TcpServices\bin\Release\SDK.Interfaces.dll
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.TcpServices\bin\Release\log4net.dll
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.TcpServices\bin\Release\Nini.dll
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.TcpServices\bin\Release\SDK.Common.pdb
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.TcpServices\bin\Release\SDK.Interfaces.pdb
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.TcpServices\obj\Release\SDK.NetworksServices.csprojResolveAssemblyReference.cache
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.TcpServices\obj\Release\SDK.NetworksServices.dll
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.TcpServices\obj\Release\SDK.NetworksServices.pdb
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\devtools\SiQube SDK\SDK\SDK.TcpServices\bin\Release\SDK.NetworksServices.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\devtools\SiQube SDK\SDK\SDK.TcpServices\bin\Release\SDK.NetworksServices.pdb
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\devtools\SiQube SDK\SDK\SDK.TcpServices\bin\Release\protobuf-net.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\devtools\SiQube SDK\SDK\SDK.TcpServices\bin\Release\SDK.Common.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\devtools\SiQube SDK\SDK\SDK.TcpServices\bin\Release\SDK.Interfaces.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\devtools\SiQube SDK\SDK\SDK.TcpServices\bin\Release\log4net.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\devtools\SiQube SDK\SDK\SDK.TcpServices\bin\Release\Nini.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\devtools\SiQube SDK\SDK\SDK.TcpServices\bin\Release\SDK.Common.pdb
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\devtools\SiQube SDK\SDK\SDK.TcpServices\bin\Release\SDK.Interfaces.pdb
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\devtools\SiQube SDK\SDK\SDK.TcpServices\obj\Release\SDK.NetworksServices.csprojResolveAssemblyReference.cache
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\devtools\SiQube SDK\SDK\SDK.TcpServices\obj\Release\SDK.NetworksServices.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\devtools\SiQube SDK\SDK\SDK.TcpServices\obj\Release\SDK.NetworksServices.pdb

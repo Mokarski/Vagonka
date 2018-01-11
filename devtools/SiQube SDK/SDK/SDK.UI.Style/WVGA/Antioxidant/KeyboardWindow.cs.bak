@@ -1,0 +1,20 @@
+using System;
+using SDK.UI.Widgets.Base;
+
+namespace SDK.UI.Style.WVGA.Antioxidant
+{
+    public class KeyboardWindow : ClassicWindow
+    {
+        public KeyboardWindow()
+            : base("keyboard")
+        {
+            mBackground = new Color(0x121212FF);
+
+            InitPanel();
+        }
+
+        public ClassicWindow ReturnWindow { get; set; }
+        public string DefaultText { get; set; }
+        public Action<string> OnEnter;
+    }
+}

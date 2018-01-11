@@ -1,0 +1,38 @@
+08:59:50.263: Старт работы PCproc
+SQLite3 v3008004
+SQLite db signals.db
+08:59:50.356: Запуск и конфигурирование Фабрики сигналов
+08:59:50.365: Инициализация Ваго
+08:59:50.401:  Подключение к порту журнала на 5000 
+DBUPDATE: [100;100;10000;] DF [800] V [700]
+DB: update "ConfigRecord" set "Type" = ? ,"Depth" = ? ,"Description" = ? ,"Range" = ? ,"Level" = ? ,"IsStorage" = ? ,"Value" = ? ,"SaveAt" = ? ,"accuracy" = ? ,"maxvalcal" = ? ,"IsConfiguretForQt" = ? ,"DefaultValue" = ?  where Id = ? 
+  0: Ushort
+  1: 5
+  2: Движение, 1 скорость
+  3: 100;100;10000;
+  4: 0
+  5: True
+  6: 700
+  7: 11/23/2017 8:59:50 AM
+  8: 10
+  9: 0
+  10: False
+  11: 800
+  12: derivative.system.speed.settings.1
+08:59:50.489: Set Init by Initialization
+system.code: 0
+08:59:50.498: invertor #1 init
+08:59:50.498: invertor #2 init
+08:59:50.499: invertor #3 init
+08:59:50.499: invertor #4 init
+08:59:50.501: Invertors service started
+08:59:50.501: SystemControl started
+08:59:50.501: Modbus database started at 127.0.0.1:5000
+08:59:50.502: Wago coupler started
+08:59:50.502: Signals factory started
+08:59:50.503: uz.2: set freq: 200
+08:59:50.503: uz.3: set freq: 200
+08:59:50.503: uz.4: set freq: 200
+08:59:50.503: uz.5: set freq: 200
+08:59:50.552: Set Ready by ReadyToUse
+system.code: 2

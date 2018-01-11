@@ -1,0 +1,35 @@
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\SDK.UI.Windows\obj\x86\Debug\SDK.UI.Windows.csprojResolveAssemblyReference.cache
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\SDK.UI.Windows\obj\x86\Debug\MainWindow.baml
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\SDK.UI.Windows\obj\x86\Debug\MainWindow.g.cs
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\SDK.UI.Windows\obj\x86\Debug\App.g.cs
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\SDK.UI.Windows\obj\x86\Debug\SDK.UI.Windows_MarkupCompile.cache
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\SDK.UI.Windows\obj\x86\Debug\SDK.UI.Windows.g.resources
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\SDK.UI.Windows\obj\x86\Debug\SDK.UI.Windows.Properties.Resources.resources
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\SDK.UI.Windows\obj\x86\Debug\SDK.UI.Windows.csproj.GenerateResource.Cache
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\Bin\SDK.UI.Windows.exe.config
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\Bin\SDK.UI.Windows.exe
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\Bin\SDK.UI.Windows.pdb
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\SDK.UI.Windows\obj\x86\Debug\SDK.UI.Windows.exe
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\SDK.UI.Windows\obj\x86\Debug\SDK.UI.Windows.pdb
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\Bin\libOpenVG.dll
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\Bin\Tools\sdk_ui_image_converter.exe
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\Bin\Tools\splash_image_converter.exe
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\Bin\amanithvg.ini
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\SDK.UI.Windows.WPF\obj\x86\Debug\SDK.UI.Windows.csprojResolveAssemblyReference.cache
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\SDK.UI.Windows.WPF\obj\x86\Debug\MainWindow.baml
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\SDK.UI.Windows.WPF\obj\x86\Debug\MainWindow.g.cs
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\SDK.UI.Windows.WPF\obj\x86\Debug\App.g.cs
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\SDK.UI.Windows.WPF\obj\x86\Debug\SDK.UI.Windows_MarkupCompile.cache
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\SDK.UI.Windows.WPF\obj\x86\Debug\SDK.UI.Windows.g.resources
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\SDK.UI.Windows.WPF\obj\x86\Debug\SDK.UI.Windows.Properties.Resources.resources
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\SDK.UI.Windows.WPF\obj\x86\Debug\SDK.UI.Windows.csproj.GenerateResource.Cache
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\SDK.UI.Windows.WPF\obj\x86\Debug\SDK.UI.Windows.exe
+F:\Evg\_Копейск\SiQube SDK\SDK\SDK.UI.Windows.WPF\obj\x86\Debug\SDK.UI.Windows.csprojResolveAssemblyReference.cache
+F:\Evg\_Копейск\SiQube SDK\SDK\SDK.UI.Windows.WPF\obj\x86\Debug\MainWindow.baml
+F:\Evg\_Копейск\SiQube SDK\SDK\SDK.UI.Windows.WPF\obj\x86\Debug\MainWindow.g.cs
+F:\Evg\_Копейск\SiQube SDK\SDK\SDK.UI.Windows.WPF\obj\x86\Debug\App.g.cs
+F:\Evg\_Копейск\SiQube SDK\SDK\SDK.UI.Windows.WPF\obj\x86\Debug\SDK.UI.Windows_MarkupCompile.cache
+F:\Evg\_Копейск\SiQube SDK\SDK\SDK.UI.Windows.WPF\obj\x86\Debug\SDK.UI.Windows.g.resources
+F:\Evg\_Копейск\SiQube SDK\SDK\SDK.UI.Windows.WPF\obj\x86\Debug\SDK.UI.Windows.Properties.Resources.resources
+F:\Evg\_Копейск\SiQube SDK\SDK\SDK.UI.Windows.WPF\obj\x86\Debug\SDK.UI.Windows.csproj.GenerateResource.Cache
+F:\Evg\_Копейск\SiQube SDK\SDK\SDK.UI.Windows.WPF\obj\x86\Debug\SDK.UI.Windows.exe

@@ -1,0 +1,20 @@
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\Bin\GsmModem.ini
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\Bin\SDK.Gsm.dll
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\Bin\SDK.Gsm.pdb
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\SDK.Gsm\obj\Debug\SDK.Gsm.csprojResolveAssemblyReference.cache
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\SDK.Gsm\obj\Debug\SDK.Gsm.dll
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\SDK.Gsm\obj\Debug\SDK.Gsm.pdb
+F:\Evg\_Копейск\SiQube SDK\SDK\Bin\GsmModem.ini
+F:\Evg\_Копейск\SiQube SDK\SDK\Bin\SDK.Gsm.dll
+F:\Evg\_Копейск\SiQube SDK\SDK\Bin\SDK.Gsm.pdb
+F:\Evg\_Копейск\SiQube SDK\SDK\SDK.Gsm\obj\Debug\SDK.Gsm.csprojResolveAssemblyReference.cache
+F:\Evg\_Копейск\SiQube SDK\SDK\SDK.Gsm\obj\Debug\SDK.Gsm.dll
+F:\Evg\_Копейск\SiQube SDK\SDK\SDK.Gsm\obj\Debug\SDK.Gsm.pdb
+F:\Evg\_Копейск\SiQube SDK\SDK\Bin\Library\AmanithVG\x86\libAmanithEGL.dll
+F:\Evg\_Копейск\SiQube SDK\SDK\Bin\Library\AmanithVG\x86\libAmanithEGL_priv.dll
+F:\Evg\_Копейск\SiQube SDK\SDK\Bin\Library\AmanithVG\x86\libAmanithVG.dll
+F:\Evg\_Копейск\SiQube SDK\SDK\Bin\Library\AmanithVG\x86\libEGL.dll
+F:\Evg\_Копейск\SiQube SDK\SDK\Bin\Library\AmanithVG\x86\libOpenVG.dll
+F:\Evg\_Копейск\SiQube SDK\SDK\Bin\Tools\sdk_ui_image_converter.exe
+F:\Evg\_Копейск\SiQube SDK\SDK\Bin\Tools\splash_image_converter.exe
+F:\Evg\_Копейск\SiQube SDK\SDK\Bin\Library\AmanithVG\x86\amanithvg.ini

@@ -1,0 +1,8 @@
+C:\Users\skipper\Desktop\спарк\копейск\software\Journal\bin\Debug\Journal.dll
+C:\Users\skipper\Desktop\спарк\копейск\software\Journal\bin\Debug\Journal.pdb
+C:\Users\skipper\Desktop\спарк\копейск\software\Journal\bin\Debug\log4net.dll
+C:\Users\skipper\Desktop\спарк\копейск\software\Journal\obj\Debug\Journal.dll
+C:\Users\skipper\Desktop\спарк\копейск\software\Journal\obj\Debug\Journal.pdb
+C:\Users\skipper\Desktop\спарк\копейск\software\Bin\Journal.dll
+C:\Users\skipper\Desktop\спарк\копейск\software\Bin\Journal.pdb
+C:\Users\skipper\Desktop\спарк\копейск\software\Journal\obj\Debug\Journal.csprojResolveAssemblyReference.cache

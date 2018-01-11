@@ -1,0 +1,12 @@
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\SDK.UI.Linux\obj\x86\Debug\SDK.UI.Linux.csprojResolveAssemblyReference.cache
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\Bin\SDK.UI.Linux.exe.config
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\Bin\SDK.UI.Linux.exe
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\Bin\SDK.UI.Linux.pdb
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\SDK.UI.Linux\obj\x86\Debug\SDK.UI.Linux.exe
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\SDK.UI.Linux\obj\x86\Debug\SDK.UI.Linux.pdb
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\Bin\libOpenVG.dll
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\Bin\Tools\sdk_ui_image_converter.exe
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\Bin\Tools\splash_image_converter.exe
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\Bin\amanithvg.ini
+F:\Evg\_Копейск\SiQube SDK\SDK\SDK.UI.Linux\obj\x86\Debug\SDK.UI.Linux.csprojResolveAssemblyReference.cache
+F:\Evg\_Копейск\SiQube SDK\SDK\SDK.UI.Linux\obj\x86\Debug\SDK.UI.Linux.exe

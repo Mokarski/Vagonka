@@ -1,0 +1,10 @@
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\Bin\SDK.RestServer.dll
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\Bin\SDK.RestServer.pdb
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\SDK.RestServer\obj\Debug\SDK.RestServer.csprojResolveAssemblyReference.cache
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\SDK.RestServer\obj\Debug\SDK.RestServer.dll
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\SDK.RestServer\obj\Debug\SDK.RestServer.pdb
+F:\Evg\_Копейск\SiQube SDK\SDK\Bin\SDK.RestServer.dll
+F:\Evg\_Копейск\SiQube SDK\SDK\Bin\SDK.RestServer.pdb
+F:\Evg\_Копейск\SiQube SDK\SDK\SDK.RestServer\obj\Debug\SDK.RestServer.csprojResolveAssemblyReference.cache
+F:\Evg\_Копейск\SiQube SDK\SDK\SDK.RestServer\obj\Debug\SDK.RestServer.dll
+F:\Evg\_Копейск\SiQube SDK\SDK\SDK.RestServer\obj\Debug\SDK.RestServer.pdb

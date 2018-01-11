@@ -1,0 +1,30 @@
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\Bin\SDK.Rpc.dll
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\Bin\SDK.Rpc.pdb
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\SDK.Rpc\obj\Debug\SDK.Rpc.csprojResolveAssemblyReference.cache
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\SDK.Rpc\obj\Debug\SDK.Rpc.dll
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\SDK.Rpc\obj\Debug\SDK.Rpc.pdb
+F:\Evg\_Копейск\SiQube SDK\SDK\Bin\SDK.Rpc.dll
+F:\Evg\_Копейск\SiQube SDK\SDK\Bin\SDK.Rpc.pdb
+F:\Evg\_Копейск\SiQube SDK\SDK\SDK.Rpc\obj\Debug\SDK.Rpc.csprojResolveAssemblyReference.cache
+F:\Evg\_Копейск\SiQube SDK\SDK\SDK.Rpc\obj\Debug\SDK.Rpc.dll
+F:\Evg\_Копейск\SiQube SDK\SDK\SDK.Rpc\obj\Debug\SDK.Rpc.pdb
+F:\devtools\SiQube SDK\SDK\Bin\SDK.Rpc.dll
+F:\devtools\SiQube SDK\SDK\Bin\SDK.Rpc.pdb
+F:\devtools\SiQube SDK\SDK\SDK.Rpc\obj\Debug\SDK.Rpc.csprojResolveAssemblyReference.cache
+F:\devtools\SiQube SDK\SDK\SDK.Rpc\obj\Debug\SDK.Rpc.dll
+F:\devtools\SiQube SDK\SDK\SDK.Rpc\obj\Debug\SDK.Rpc.pdb
+D:\devtools\SiQube SDK\SDK\Bin\SDK.Rpc.dll
+D:\devtools\SiQube SDK\SDK\Bin\SDK.Rpc.pdb
+D:\devtools\SiQube SDK\SDK\SDK.Rpc\obj\Debug\SDK.Rpc.csprojResolveAssemblyReference.cache
+D:\devtools\SiQube SDK\SDK\SDK.Rpc\obj\Debug\SDK.Rpc.dll
+D:\devtools\SiQube SDK\SDK\SDK.Rpc\obj\Debug\SDK.Rpc.pdb
+C:\devtools\SiQube SDK\SDK\Bin\SDK.Rpc.dll
+C:\devtools\SiQube SDK\SDK\Bin\SDK.Rpc.pdb
+C:\devtools\SiQube SDK\SDK\SDK.Rpc\obj\Debug\SDK.Rpc.csprojResolveAssemblyReference.cache
+C:\devtools\SiQube SDK\SDK\SDK.Rpc\obj\Debug\SDK.Rpc.dll
+C:\devtools\SiQube SDK\SDK\SDK.Rpc\obj\Debug\SDK.Rpc.pdb
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\Bin\SDK.Rpc.dll
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\Bin\SDK.Rpc.pdb
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.Rpc\obj\Debug\SDK.Rpc.csprojResolveAssemblyReference.cache
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.Rpc\obj\Debug\SDK.Rpc.dll
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.Rpc\obj\Debug\SDK.Rpc.pdb

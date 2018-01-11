@@ -1,0 +1,14 @@
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\Bin\SDK.JournalService.dll
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\Bin\SDK.JournalService.pdb
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK.JournalService\obj\Debug\SDK.JournalService.dll
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK.JournalService\obj\Debug\SDK.JournalService.pdb
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK.JournalService\obj\Debug\SDK.JournalService.csprojResolveAssemblyReference.cache
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\Bin\SDK.JournalService.dll
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\Bin\SDK.JournalService.pdb
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\SDK.JournalService\obj\Debug\SDK.JournalService.csprojResolveAssemblyReference.cache
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\SDK.JournalService\obj\Debug\SDK.JournalService.dll
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\SDK.JournalService\obj\Debug\SDK.JournalService.pdb
+F:\Evg\_Копейск\SiQube SDK\SDK\Bin\SDK.JournalService.dll
+F:\Evg\_Копейск\SiQube SDK\SDK\Bin\SDK.JournalService.pdb
+F:\Evg\_Копейск\SiQube SDK\SDK\SDK.JournalService\obj\Debug\SDK.JournalService.dll
+F:\Evg\_Копейск\SiQube SDK\SDK\SDK.JournalService\obj\Debug\SDK.JournalService.pdb

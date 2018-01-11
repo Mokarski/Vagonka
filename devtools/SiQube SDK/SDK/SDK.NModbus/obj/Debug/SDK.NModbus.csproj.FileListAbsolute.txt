@@ -1,0 +1,53 @@
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\SDK.NModbus\obj\Debug\SDK.NModbus.Modbus.Resources.resources
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\SDK.NModbus\obj\Debug\SDK.NModbus.csproj.GenerateResource.Cache
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\SDK.NModbus\bin\Debug\SDK.NModbus.dll
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\SDK.NModbus\bin\Debug\SDK.NModbus.pdb
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\SDK.NModbus\bin\Debug\log4net.dll
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\SDK.NModbus\bin\Debug\Unme.Common.dll
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\SDK.NModbus\obj\Debug\SDK.NModbus.dll
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\SDK.NModbus\obj\Debug\SDK.NModbus.pdb
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\Bin\SDK.NModbus.dll
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\Bin\SDK.NModbus.pdb
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\SDK.NModbus\obj\Debug\SDK.NModbus.csprojResolveAssemblyReference.cache
+F:\Evg\_Копейск\SiQube SDK\SDK\Bin\SDK.NModbus.dll
+F:\Evg\_Копейск\SiQube SDK\SDK\Bin\SDK.NModbus.pdb
+F:\Evg\_Копейск\SiQube SDK\SDK\SDK.NModbus\obj\Debug\SDK.NModbus.csprojResolveAssemblyReference.cache
+F:\Evg\_Копейск\SiQube SDK\SDK\SDK.NModbus\obj\Debug\SDK.NModbus.Modbus.Resources.resources
+F:\Evg\_Копейск\SiQube SDK\SDK\SDK.NModbus\obj\Debug\SDK.NModbus.csproj.GenerateResource.Cache
+F:\Evg\_Копейск\SiQube SDK\SDK\SDK.NModbus\obj\Debug\SDK.NModbus.dll
+F:\Evg\_Копейск\SiQube SDK\SDK\SDK.NModbus\obj\Debug\SDK.NModbus.pdb
+F:\devtools\SiQube SDK\SDK\Bin\SDK.NModbus.dll
+F:\devtools\SiQube SDK\SDK\Bin\SDK.NModbus.pdb
+F:\devtools\SiQube SDK\SDK\SDK.NModbus\obj\Debug\SDK.NModbus.csprojResolveAssemblyReference.cache
+F:\devtools\SiQube SDK\SDK\SDK.NModbus\obj\Debug\SDK.NModbus.Modbus.Resources.resources
+F:\devtools\SiQube SDK\SDK\SDK.NModbus\obj\Debug\SDK.NModbus.csproj.GenerateResource.Cache
+F:\devtools\SiQube SDK\SDK\SDK.NModbus\obj\Debug\SDK.NModbus.dll
+F:\devtools\SiQube SDK\SDK\SDK.NModbus\obj\Debug\SDK.NModbus.pdb
+D:\devtools\SiQube SDK\SDK\Bin\SDK.NModbus.dll
+D:\devtools\SiQube SDK\SDK\Bin\SDK.NModbus.pdb
+D:\devtools\SiQube SDK\SDK\SDK.NModbus\obj\Debug\SDK.NModbus.csprojResolveAssemblyReference.cache
+D:\devtools\SiQube SDK\SDK\SDK.NModbus\obj\Debug\SDK.NModbus.Modbus.Resources.resources
+D:\devtools\SiQube SDK\SDK\SDK.NModbus\obj\Debug\SDK.NModbus.csproj.GenerateResource.Cache
+D:\devtools\SiQube SDK\SDK\SDK.NModbus\obj\Debug\SDK.NModbus.dll
+D:\devtools\SiQube SDK\SDK\SDK.NModbus\obj\Debug\SDK.NModbus.pdb
+C:\devtools\SiQube SDK\SDK\Bin\SDK.NModbus.dll
+C:\devtools\SiQube SDK\SDK\Bin\SDK.NModbus.pdb
+C:\devtools\SiQube SDK\SDK\SDK.NModbus\obj\Debug\SDK.NModbus.csprojResolveAssemblyReference.cache
+C:\devtools\SiQube SDK\SDK\SDK.NModbus\obj\Debug\SDK.NModbus.Modbus.Resources.resources
+C:\devtools\SiQube SDK\SDK\SDK.NModbus\obj\Debug\SDK.NModbus.csproj.GenerateResource.Cache
+C:\devtools\SiQube SDK\SDK\SDK.NModbus\obj\Debug\SDK.NModbus.dll
+C:\devtools\SiQube SDK\SDK\SDK.NModbus\obj\Debug\SDK.NModbus.pdb
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\Bin\SDK.NModbus.dll
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\Bin\SDK.NModbus.pdb
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.NModbus\obj\Debug\SDK.NModbus.csprojResolveAssemblyReference.cache
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.NModbus\obj\Debug\SDK.NModbus.Modbus.Resources.resources
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.NModbus\obj\Debug\SDK.NModbus.csproj.GenerateResource.Cache
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.NModbus\obj\Debug\SDK.NModbus.dll
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.NModbus\obj\Debug\SDK.NModbus.pdb
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\devtools\SiQube SDK\SDK\Bin\SDK.NModbus.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\devtools\SiQube SDK\SDK\Bin\SDK.NModbus.pdb
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\devtools\SiQube SDK\SDK\SDK.NModbus\obj\Debug\SDK.NModbus.csprojResolveAssemblyReference.cache
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\devtools\SiQube SDK\SDK\SDK.NModbus\obj\Debug\SDK.NModbus.Modbus.Resources.resources
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\devtools\SiQube SDK\SDK\SDK.NModbus\obj\Debug\SDK.NModbus.csproj.GenerateResource.Cache
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\devtools\SiQube SDK\SDK\SDK.NModbus\obj\Debug\SDK.NModbus.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\devtools\SiQube SDK\SDK\SDK.NModbus\obj\Debug\SDK.NModbus.pdb

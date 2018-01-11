@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{E6B5DD56-8AC5-4A37-8E23-B508157E968B}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SDK.Common</RootNamespace>
+    <AssemblyName>SDK.Common</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\Bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="log4net, Version=1.2.11.0, Culture=neutral, PublicKeyToken=1b44e1d426115821, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Bin\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="Nini, Version=1.1.0.0, Culture=neutral, PublicKeyToken=691faec150a7fa7b, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Bin\Nini.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DelayedTask.cs" />
+    <Compile Include="SQLite.cs" />
+    <Compile Include="SQLiteAsync.cs" />
+    <Compile Include="IniConfiguration.cs" />
+    <Compile Include="LocationService.cs" />
+    <Compile Include="NTPClient.cs" />
+    <Compile Include="PeriodicTask.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="XPBitConverter.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="3rd libraries\Ionic.Zip.dll" />
+    <Content Include="3rd libraries\Jayrock\Jayrock.dll" />
+    <Content Include="3rd libraries\Jayrock\Jayrock.Json.dll" />
+    <Content Include="3rd libraries\log4net.dll" />
+    <Content Include="3rd libraries\Nancy\Nancy.dll" />
+    <Content Include="3rd libraries\Nancy\Nancy.Hosting.Self.dll" />
+    <Content Include="3rd libraries\NModbus\Modbus.dll" />
+    <Content Include="3rd libraries\NModbus\Modbus.Extensions.dll" />
+    <Content Include="3rd libraries\NModbus\Mono.Posix.dll" />
+    <Content Include="3rd libraries\Nini.dll" />
+    <Content Include="3rd libraries\NModbus\Unme.Common.dll" />
+    <Content Include="3rd libraries\sqlite\version.txt" />
+    <Content Include="3rd libraries\sqlite\win32\sqlite3.def" />
+    <Content Include="3rd libraries\sqlite\win32\sqlite3.dll" />
+    <Content Include="3rd libraries\sqlite\win32\sqlite3.exe" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SDK.Interfaces\SDK.Interfaces.csproj">
+      <Project>{6be5ad78-5cb1-4c7a-bdda-c0623cbdb216}</Project>
+      <Name>SDK.Interfaces</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="3rd libraries\sqlite\linux\ARM9\libsqlite3.so.0.8.6" />
+    <None Include="3rd libraries\sqlite\linux\ARM9\sqlite3" />
+    <None Include="3rd libraries\sqlite\linux\CortexA9\libsqlite3.so" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{073AC67B-DE04-4FAB-A713-076D6E723B1E}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Sensors</RootNamespace>
+    <AssemblyName>Sensors</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\Bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Include="Snippets\Conveyor.cs" />
+    <Compile Include="B17K\Auxiary\Cord.cs" />
+    <Compile Include="B17K\Auxiary\CouplerConfigurator.cs" />
+    <None Include="Snippets\Engine.cs" />
+    <Compile Include="B17K\Auxiary\EquipmentState.cs" />
+    <Compile Include="B17K\Auxiary\Keyboard.cs" />
+    <Compile Include="B17K\RemoteConsole.cs" />
+    <Compile Include="B17K\Auxiary\Pedals.cs" />
+    <Compile Include="B17K\Pump.cs" />
+    <Compile Include="B17K\Auxiary\Relay.cs" />
+    <Compile Include="B17K\Auxiary\SensorName.cs" />
+    <Compile Include="B17K\Auxiary\SoundAlarm.cs" />
+    <Compile Include="B17K\SystemContol.cs" />
+    <Compile Include="B17K\Auxiary\SystemState.cs" />
+    <Compile Include="B17K\SystemStateCodes.cs" />
+    <Compile Include="Invertors\IInvertor.cs" />
+    <Compile Include="Invertors\ENEL\FNTGZ60.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="B17K\Engine.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\devtools\SiQube SDK\SDK\SDK.Common\SDK.Common.csproj">
+      <Project>{E6B5DD56-8AC5-4A37-8E23-B508157E968B}</Project>
+      <Name>SDK.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\devtools\SiQube SDK\SDK\SDK.Interfaces\SDK.Interfaces.csproj">
+      <Project>{6BE5AD78-5CB1-4C7A-BDDA-C0623CBDB216}</Project>
+      <Name>SDK.Interfaces</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\devtools\SiQube SDK\SDK\SDK.NModbus\SDK.NModbus.csproj">
+      <Project>{B48CBEF6-9C85-41FD-816F-66E4FD5651D7}</Project>
+      <Name>SDK.NModbus</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\devtools\SiQube SDK\SDK\SDK.SignalsFactory\SDK.SignalsFactory.csproj">
+      <Project>{5A3C48C0-ECF9-4BB7-8ED0-B23B0F9D1A2A}</Project>
+      <Name>SDK.SignalsFactory</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\devtools\SiQube SDK\SDK\SDK.TcpServices\SDK.NetworksServices.csproj">
+      <Project>{21F95DBD-A0F3-4A0E-889A-5E4BF3531B1A}</Project>
+      <Name>SDK.NetworksServices</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{2DE0B3BE-C166-4E0B-9077-B4957DE87752}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SDK.RestServer</RootNamespace>
+    <AssemblyName>SDK.RestServer</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\Bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="log4net, Version=1.2.11.0, Culture=neutral, PublicKeyToken=1b44e1d426115821, processorArchitecture=MSIL" />
+    <Reference Include="Nancy">
+      <HintPath>..\SDK.Common\3rd libraries\Nancy\Nancy.dll</HintPath>
+    </Reference>
+    <Reference Include="Nancy.Hosting.Self">
+      <HintPath>..\SDK.Common\3rd libraries\Nancy\Nancy.Hosting.Self.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="HttpRestServer.cs" />
+    <None Include="Services\RestApiBootstrapper.cs" />
+    <None Include="Services\ControllerRestModule.cs" />
+    <None Include="Services\JournalRestModule.cs" />
+    <None Include="Services\LocationRestModule.cs" />
+    <None Include="Services\PhaseRestModule.cs" />
+    <None Include="Services\TimeTableRestModule.cs" />
+    <None Include="Repositories\ControllerRepository.cs" />
+    <None Include="Repositories\IControllerRepository.cs" />
+    <None Include="Repositories\IJournalRepository.cs" />
+    <None Include="Repositories\ILocationRepository.cs" />
+    <None Include="Repositories\ITimeTableRepository.cs" />
+    <None Include="Repositories\IUpdatesRepository.cs" />
+    <None Include="Repositories\JournalRepository.cs" />
+    <None Include="Repositories\LocationRepository.cs" />
+    <None Include="Repositories\TimeTableRepository.cs" />
+    <None Include="Repositories\UpdatesRepository.cs" />
+    <None Include="Repositories\XmlControllerRepository.cs" />
+    <None Include="Repositories\XmlLocationRepository.cs" />
+    <None Include="Repositories\XmlTimeTableRepository.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SDK.Common\SDK.Common.csproj">
+      <Project>{E6B5DD56-8AC5-4A37-8E23-B508157E968B}</Project>
+      <Name>SDK.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SDK.Interfaces\SDK.Interfaces.csproj">
+      <Project>{6BE5AD78-5CB1-4C7A-BDDA-C0623CBDB216}</Project>
+      <Name>SDK.Interfaces</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SDK.Rpc\SDK.Rpc.csproj">
+      <Project>{5B1F202F-DCA0-4D3A-B9DA-11C20E73E7BB}</Project>
+      <Name>SDK.Rpc</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

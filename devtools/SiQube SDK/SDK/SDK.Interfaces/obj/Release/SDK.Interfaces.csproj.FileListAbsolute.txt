@@ -1,0 +1,18 @@
+D:\devtools\SiQube SDK\SDK\SDK.Interfaces\bin\Release\SDK.Interfaces.dll
+D:\devtools\SiQube SDK\SDK\SDK.Interfaces\bin\Release\SDK.Interfaces.pdb
+D:\devtools\SiQube SDK\SDK\SDK.Interfaces\obj\Release\SDK.Interfaces.dll
+D:\devtools\SiQube SDK\SDK\SDK.Interfaces\obj\Release\SDK.Interfaces.pdb
+C:\devtools\SiQube SDK\SDK\SDK.Interfaces\bin\Release\SDK.Interfaces.dll
+C:\devtools\SiQube SDK\SDK\SDK.Interfaces\bin\Release\SDK.Interfaces.pdb
+C:\devtools\SiQube SDK\SDK\SDK.Interfaces\obj\Release\SDK.Interfaces.dll
+C:\devtools\SiQube SDK\SDK\SDK.Interfaces\obj\Release\SDK.Interfaces.pdb
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.Interfaces\bin\Release\SDK.Interfaces.dll
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.Interfaces\bin\Release\SDK.Interfaces.pdb
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.Interfaces\obj\Release\SDK.Interfaces.dll
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.Interfaces\obj\Release\SDK.Interfaces.pdb
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.Interfaces\obj\Release\SDK.Interfaces.csprojResolveAssemblyReference.cache
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\devtools\SiQube SDK\SDK\SDK.Interfaces\bin\Release\SDK.Interfaces.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\devtools\SiQube SDK\SDK\SDK.Interfaces\bin\Release\SDK.Interfaces.pdb
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\devtools\SiQube SDK\SDK\SDK.Interfaces\obj\Release\SDK.Interfaces.csprojResolveAssemblyReference.cache
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\devtools\SiQube SDK\SDK\SDK.Interfaces\obj\Release\SDK.Interfaces.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\devtools\SiQube SDK\SDK\SDK.Interfaces\obj\Release\SDK.Interfaces.pdb

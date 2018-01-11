@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{5A3C48C0-ECF9-4BB7-8ED0-B23B0F9D1A2A}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SDK.SignalsFactory</RootNamespace>
+    <AssemblyName>SDK.SignalsFactory</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\Bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="protobuf-net, Version=2.0.0.668, Culture=neutral, PublicKeyToken=257b51d87d2e4d67, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\SDK.Common\3rd libraries\Protobuf\protobuf-net.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Snippets\Common.cs" />
+    <Compile Include="Equipment\Wago\Coupler.cs" />
+    <Compile Include="Equipment\Wago\W7501405.cs" />
+    <Compile Include="Equipment\Wago\W750493.cs" />
+    <Compile Include="Equipment\Wago\W750514.cs" />
+    <Compile Include="Equipment\Wago\WagoDetect493.cs" />
+    <Compile Include="Interface\IReadonlySignal.cs" />
+    <Compile Include="Interface\ISignal.cs" />
+    <Compile Include="ProtoChannel\Interface\ISignalsClient.cs" />
+    <Compile Include="Interface\ISignalsFactory.cs" />
+    <Compile Include="Interface\IRemoteSignalsFactory.cs" />
+    <Compile Include="Modbus\MasterConnection.cs" />
+    <Compile Include="Modbus\RS485Master.cs" />
+    <Compile Include="Modbus\TcpDatastore.cs" />
+    <Compile Include="Modbus\TcpMaster.cs" />
+    <None Include="Snippets\Sensor.cs" />
+    <Compile Include="ProtoChannel\Client\SignalsClient.cs" />
+    <Compile Include="Interface\SignalSpecification.cs" />
+    <Compile Include="Interface\SignalState.cs" />
+    <Compile Include="Interface\SignalStatus.cs" />
+    <Compile Include="Interface\SignalType.cs" />
+    <Compile Include="ProtoChannel\Settings.cs" />
+    <Compile Include="ReadolnySignal.cs" />
+    <Compile Include="RemoteSignalsFactory.cs" />
+    <Compile Include="Signal.cs" />
+    <Compile Include="ModbusDescription.cs" />
+    <Compile Include="SignalBuilder.cs" />
+    <Compile Include="SignalsFactory.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SDK.Common\SDK.Common.csproj">
+      <Project>{E6B5DD56-8AC5-4A37-8E23-B508157E968B}</Project>
+      <Name>SDK.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SDK.Interfaces\SDK.Interfaces.csproj">
+      <Project>{6BE5AD78-5CB1-4C7A-BDDA-C0623CBDB216}</Project>
+      <Name>SDK.Interfaces</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SDK.NModbus\SDK.NModbus.csproj">
+      <Project>{B48CBEF6-9C85-41FD-816F-66E4FD5651D7}</Project>
+      <Name>SDK.NModbus</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SDK.TcpServices\SDK.NetworksServices.csproj">
+      <Project>{21f95dbd-a0f3-4a0e-889a-5e4bf3531b1a}</Project>
+      <Name>SDK.NetworksServices</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Wrappers\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

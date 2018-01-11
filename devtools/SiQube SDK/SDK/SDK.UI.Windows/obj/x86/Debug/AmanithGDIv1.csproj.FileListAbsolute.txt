@@ -1,0 +1,13 @@
+C:\Users\skipper\Documents\Visual Studio 2010\Projects\amanith_gdi\AmanithGDIv1\AmanithGDIv1\bin\Debug\AmanithGDIv1.exe
+C:\Users\skipper\Documents\Visual Studio 2010\Projects\amanith_gdi\AmanithGDIv1\AmanithGDIv1\bin\Debug\AmanithGDIv1.pdb
+C:\Users\skipper\Documents\Visual Studio 2010\Projects\amanith_gdi\AmanithGDIv1\AmanithGDIv1\obj\x86\Debug\AmanithGDIv1.exe
+C:\Users\skipper\Documents\Visual Studio 2010\Projects\amanith_gdi\AmanithGDIv1\AmanithGDIv1\obj\x86\Debug\AmanithGDIv1.pdb
+C:\Users\skipper\Documents\Visual Studio 2010\Projects\amanith_gdi\AmanithGDIv1\AmanithGDIv1\bin\Debug\AmanithGDIv1.exe.config
+C:\Users\skipper\Documents\Visual Studio 2010\Projects\amanith_gdi\AmanithGDIv1\AmanithGDIv1\obj\x86\Debug\AmanithGDIv1.csprojResolveAssemblyReference.cache
+C:\Users\skipper\Documents\Visual Studio 2010\Projects\amanith_gdi\AmanithGDIv1\Bin\AmanithGDIv1.exe.config
+C:\Users\skipper\Documents\Visual Studio 2010\Projects\amanith_gdi\AmanithGDIv1\Bin\libOpenVG.dll
+C:\Users\skipper\Documents\Visual Studio 2010\Projects\amanith_gdi\AmanithGDIv1\Bin\Tools\sdk_ui_image_converter.exe
+C:\Users\skipper\Documents\Visual Studio 2010\Projects\amanith_gdi\AmanithGDIv1\Bin\Tools\splash_image_converter.exe
+C:\Users\skipper\Documents\Visual Studio 2010\Projects\amanith_gdi\AmanithGDIv1\Bin\amanithvg.ini
+C:\Users\skipper\Documents\Visual Studio 2010\Projects\amanith_gdi\AmanithGDIv1\Bin\AmanithGDIv1.exe
+C:\Users\skipper\Documents\Visual Studio 2010\Projects\amanith_gdi\AmanithGDIv1\Bin\AmanithGDIv1.pdb
