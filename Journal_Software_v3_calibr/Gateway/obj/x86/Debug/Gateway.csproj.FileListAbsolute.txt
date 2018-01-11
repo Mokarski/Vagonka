@@ -77,3 +77,6 @@ C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\Journal_Sof
 C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\Journal_Software_v3_calibr\Bin\Gateway\Gateway.exe
 C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\Journal_Software_v3_calibr\Bin\Gateway\Gateway.pdb
 C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\Journal_Software_v3_calibr\Gateway\obj\x86\Debug\Gateway.csprojResolveAssemblyReference.cache
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\Journal_Software_v3_calibr\Bin\Gateway\Gateway.exe.config
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\Journal_Software_v3_calibr\Gateway\obj\x86\Debug\Gateway.exe
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\Journal_Software_v3_calibr\Gateway\obj\x86\Debug\Gateway.pdb
