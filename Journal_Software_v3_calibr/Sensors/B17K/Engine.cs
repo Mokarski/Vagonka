@@ -1060,6 +1060,72 @@ namespace Sensors.B17K
             mJournal.Debug(string.Format("Установлена скорость: {0}:{1}", mode, mode == EngineMode.Motion ? mMotionSpeed.ValueAsInt : mConveyorSpeed.ValueAsInt), MessageLevel.System);
         }
 
+
+        public static void Speed1(EngineMode mode)
+        {
+            switch (mode)
+            {
+                case EngineMode.Motion:
+                    {                        
+                            mMotionSpeed.Update(1);
+                    }
+                    break;
+
+                
+            }
+
+            mJournal.Debug(string.Format("Установлена скорость: {0}:{1}", mode, mode == EngineMode.Motion ? mMotionSpeed.ValueAsInt : mConveyorSpeed.ValueAsInt), MessageLevel.System);
+        }
+
+        public static void Speed2(EngineMode mode)
+        {
+            switch (mode)
+            {
+                case EngineMode.Motion:
+                    {
+                        mMotionSpeed.Update(2);
+                    }
+                    break;
+
+
+            }
+
+            mJournal.Debug(string.Format("Установлена скорость: {0}:{1}", mode, mode == EngineMode.Motion ? mMotionSpeed.ValueAsInt : mConveyorSpeed.ValueAsInt), MessageLevel.System);
+        }
+
+        public static void Speed3(EngineMode mode)
+        {
+            switch (mode)
+            {
+                case EngineMode.Motion:
+                    {
+                        mMotionSpeed.Update(3);
+                    }
+                    break;
+
+
+            }
+
+            mJournal.Debug(string.Format("Установлена скорость: {0}:{1}", mode, mode == EngineMode.Motion ? mMotionSpeed.ValueAsInt : mConveyorSpeed.ValueAsInt), MessageLevel.System);
+        }
+
+        public static void Speed4(EngineMode mode)
+        {
+            switch (mode)
+            {
+                case EngineMode.Motion:
+                    {
+                        mMotionSpeed.Update(4);
+                    }
+                    break;
+
+
+            }
+
+            mJournal.Debug(string.Format("Установлена скорость: {0}:{1}", mode, mode == EngineMode.Motion ? mMotionSpeed.ValueAsInt : mConveyorSpeed.ValueAsInt), MessageLevel.System);
+        }
+
+
         /// <summary>
         /// Опускаем скорость на одну ступеньку
         /// </summary>
@@ -1097,6 +1163,28 @@ namespace Sensors.B17K
                 mConveyorSpeed.Update(mConveyorSpeed.Value + 1);
 
             if(mIsConveyorActive)
+                ConveyorOn();
+
+            //mJournal.Debug(string.Format("speed up: {0}:{1}", mode, mode == EngineMode.Motion ? mMotionSpeed.ValueAsInt : mConveyorSpeed.ValueAsInt), MessageLevel.System);
+        }
+
+        public static void ConveyorSpeed1()
+        {
+            
+                mConveyorSpeed.Update(1);
+
+            if (mIsConveyorActive)
+                ConveyorOn();
+
+            //mJournal.Debug(string.Format("speed up: {0}:{1}", mode, mode == EngineMode.Motion ? mMotionSpeed.ValueAsInt : mConveyorSpeed.ValueAsInt), MessageLevel.System);
+        }
+
+        public static void ConveyorSpeed2()
+        {
+
+            mConveyorSpeed.Update(2);
+
+            if (mIsConveyorActive)
                 ConveyorOn();
 
             //mJournal.Debug(string.Format("speed up: {0}:{1}", mode, mode == EngineMode.Motion ? mMotionSpeed.ValueAsInt : mConveyorSpeed.ValueAsInt), MessageLevel.System);

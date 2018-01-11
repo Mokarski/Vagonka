@@ -132,19 +132,32 @@ namespace Sensors.B17K
                                                      }
                                                  }
                                                  break;
-
+                                             //now this button is reset
                                              case KeyboardCode.UserLock:
                                                  {
-                                                     pressLockTime = DateTime.Now;
+                                                     //pressLockTime = DateTime.Now;
+                                                     switch (mState)
+                                                     {
+                                                         case SystemState.Init:
+                                                         case SystemState.Ready:
+                                                         case SystemState.Failure:
+                                                             {
+                                                                 mJournal.Debug(string.Format("Сброс системы: {0}", mState), MessageLevel.System);
+                                                                 Pump.ResetFault();
+                                                                 Engine.ResetFault();
+                                                                 SetState(SystemState.Init, SystemStateCodes.State.Initialization);
+                                                             }
+                                                             break;
+                                                     }
                                                  }
                                                  break;
                                              #endregion
 
                                              #region engine
-
+                                            // now is speed 4 button
                                              case KeyboardCode.SpeedUp:
                                                  {
-                                                     switch (mState)
+                                                     /*switch (mState)
                                                      {
                                                          //case SystemState.Init:
                                                          case SystemState.Ready:
@@ -152,22 +165,61 @@ namespace Sensors.B17K
                                                              Engine.SpeedUp(EngineMode.Motion);
                                                              break;
                                                      }
-                                                 }
-                                                 break;
-
-                                             case KeyboardCode.SpeedDown:
-                                                 {
+                                                      */
                                                      switch (mState)
                                                      {
-                                                         //case SystemState.Init:
+                                                         // можем запускать только из состояния, когда включен только насос
                                                          case SystemState.Ready:
-                                                         case SystemState.Active:
-                                                             Engine.SpeedDown(EngineMode.Motion);
+                                                             {
+                                                                 Engine.SetMode(EngineMode.Motion);
+
+                                                                 // если нет блокировок на запуск, то mIsActionBlock == false                                                              
+                                                                 if (!mIsActionBlock)
+                                                                     SetState(SystemState.Active, SystemStateCodes.State.MotionMode);
+
+                                                                 Engine.Speed4(EngineMode.Motion);
+                                                             }
+
                                                              break;
                                                      }
                                                  }
                                                  break;
 
+                                            // now this is speed 2 button
+                                             case KeyboardCode.SpeedDown:
+                                                 { 
+                                                     /*
+                                                     switch (mState)
+                                                     {
+                                                         
+                                                         //case SystemState.Init:
+                                                         case SystemState.Ready:
+                                                         case SystemState.Active:
+                                                             Engine.SpeedDown(EngineMode.Motion);
+                                                             break;
+                                                       
+                                                     }
+                                                     */
+                                                     switch (mState)
+                                                     {
+                                                         // можем запускать только из состояния, когда включен только насос
+                                                         case SystemState.Ready:
+                                                             {
+                                                                 Engine.SetMode(EngineMode.Motion);
+
+                                                                 // если нет блокировок на запуск, то mIsActionBlock == false                                                              
+                                                                 if (!mIsActionBlock)
+                                                                     SetState(SystemState.Active, SystemStateCodes.State.MotionMode);
+
+                                                                 Engine.Speed2(EngineMode.Motion);
+                                                             }
+
+                                                             break;
+                                                     }
+                                                 }
+                                                 break;
+
+                                            //now is speed 3 button
                                              case KeyboardCode.MotionStart:
                                                  {
                                                      switch (mState)
@@ -180,23 +232,34 @@ namespace Sensors.B17K
                                                                  // если нет блокировок на запуск, то mIsActionBlock == false                                                              
                                                                  if (!mIsActionBlock)
                                                                      SetState(SystemState.Active, SystemStateCodes.State.MotionMode);
+                                                                 
+                                                                     Engine.Speed3(EngineMode.Motion);
                                                              }
 
                                                              break;
                                                      }
                                                  }
                                                  break;
-                                             
-                                             case KeyboardCode.MotionStop:
+
+                                             // now is speed1 button
+                                             case KeyboardCode.MotionStop: 
                                                  {
-                                                     if (Engine.Mode == EngineMode.Motion)
-                                                         switch (mState)
-                                                         {
-                                                             case SystemState.Active:
-                                                                 Engine.SetMode(EngineMode.Deactivate);
-                                                                 SetState(SystemState.Ready, SystemStateCodes.State.ReadyToUse);
-                                                                 break;
-                                                         }
+                                                     switch (mState)
+                                                     {
+                                                         // можем запускать только из состояния, когда включен только насос
+                                                         case SystemState.Ready:
+                                                             {
+                                                                 Engine.SetMode(EngineMode.Motion);
+
+                                                                 // если нет блокировок на запуск, то mIsActionBlock == false                                                              
+                                                                 if (!mIsActionBlock)
+                                                                     SetState(SystemState.Active, SystemStateCodes.State.MotionMode);
+
+                                                                 Engine.Speed1(EngineMode.Motion);
+                                                             }
+
+                                                             break;
+                                                     }
                                                  }
                                                  break;
                                              #endregion
@@ -210,7 +273,7 @@ namespace Sensors.B17K
                                                          case SystemState.Init:
                                                          case SystemState.Ready:
                                                          case SystemState.Active:
-                                                            // Engine.ConveyorSpeedUp();
+                                                             Engine.ConveyorSpeed2();
                                                              Engine.ConveyorOn(1);
                                                              //Engine.SpeedUp(EngineMode.Conveyor);
                                                              break;
@@ -226,7 +289,7 @@ namespace Sensors.B17K
                                                          case SystemState.Ready:
                                                          case SystemState.Active:
                                                              Engine.ConveyorOn(0);
-                                                             //Engine.ConveyorSpeedDown();
+                                                             Engine.ConveyorSpeed1();
                                                              //Engine.SpeedDown(EngineMode.Conveyor);
                                                              break;
                                                      }
@@ -334,14 +397,16 @@ namespace Sensors.B17K
                                                   break;
                                                    
                                               #endregion
-
+                                            //not used
                                               case KeyboardCode.UserLock:
                                                   {
+                                                      /*
                                                       if (DateTime.Now.Subtract(pressLockTime).TotalMilliseconds > 3000)
                                                       {
                                                           mJournal.Debug("Станция заблокирована оператором", MessageLevel.System);
                                                           //SetState(SystemState.UserLock);
                                                       }
+                                                       */
                                                   }
                                                   break;
                                           }
