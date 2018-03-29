@@ -360,7 +360,7 @@ namespace Gateway
             #endregion
 
             #region Рабочие параметры частотников
-            for (byte i = 1; i < 5; i++)
+            for (byte i = 1; i < 19; i++)
             {
                 signals.AddSignal(SensorName.Invertor(i, SignalName.Mode), "");//, SignalType.Ushort);
                 signals.AddSignal(SensorName.Invertor(i, SignalName.Error), "");//, SignalType.Ushort);
@@ -368,7 +368,43 @@ namespace Gateway
                 signals.AddSignal(SensorName.Invertor(i, SignalName.Current), "");//, SignalType.Ushort);
                 signals.AddSignal(SensorName.Invertor(i, SignalName.Voltage), "");//, SignalType.Ushort);
                 signals.AddSignal(SensorName.Invertor(i, SignalName.Temperature), "");//, SignalType.Ushort);
-                signals.AddSignal(SensorName.Invertor(i, SignalName.Angle), "");//, SignalType.Ushort);                
+                signals.AddSignal(SensorName.Invertor(i, SignalName.Angle), "");//, SignalType.Ushort);   
+                /*
+                  40009 причина последнего выключения (код как выше)
+                  40010 час выключения (если время не подаётся в SLAVE показывает „00”)
+                    40011 минута выключения (если время не подаётся в SLAVE показывает „00”)
+                    40012 день выключения (если время не подаётся в SLAVE показывает „00”)
+                    40013 месяц выключения (если время не подаётся в SLAVE показывает „00”)
+                    40014 год выключения (если время не подаётся в SLAVE показывает „00”)
+                    40015 Fzad при выключении в сотых частях [Гц]
+                    40016 Fpracy при выключении в сотых частях [Гц]
+                    40017 Ud при выключении
+                    40018 Iskut при выключении
+                    40019 температура сенсора при выключении
+                    40020 скорость вращения двигателя в [обр/мин] подключенного к энкодеру
+                    LastStop,
+                    HourStop,
+                    MinuteStop,
+                    DayStop,
+                    MonthStop,
+                    YearStop,
+                    FzadStop,
+                    FpracyStop,
+                    UdStop,
+                    IskutStop,
+                    TermSensStop,
+                 */
+                signals.AddSignal(SensorName.Invertor(i, SignalName.LastStop), "");//, SignalType.Ushort);   
+                signals.AddSignal(SensorName.Invertor(i, SignalName.HourStop), "");//, SignalType.Ushort);   
+                signals.AddSignal(SensorName.Invertor(i, SignalName.MinuteStop), "");//, SignalType.Ushort);   
+                signals.AddSignal(SensorName.Invertor(i, SignalName.DayStop), "");//, SignalType.Ushort);   
+                signals.AddSignal(SensorName.Invertor(i, SignalName.MonthStop), "");//, SignalType.Ushort);   
+                signals.AddSignal(SensorName.Invertor(i, SignalName.YearStop), "");//, SignalType.Ushort);   
+                signals.AddSignal(SensorName.Invertor(i, SignalName.FzadStop), "");//, SignalType.Ushort);   
+                signals.AddSignal(SensorName.Invertor(i, SignalName.FpracyStop), "");//, SignalType.Ushort);   
+                signals.AddSignal(SensorName.Invertor(i, SignalName.UdStop), "");//, SignalType.Ushort);   
+                signals.AddSignal(SensorName.Invertor(i, SignalName.IskutStop), "");//, SignalType.Ushort);   
+                signals.AddSignal(SensorName.Invertor(i, SignalName.TermSensStop), "");//, SignalType.Ushort);   
             }
             #endregion
 

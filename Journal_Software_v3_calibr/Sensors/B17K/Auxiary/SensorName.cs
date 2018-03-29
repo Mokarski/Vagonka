@@ -84,6 +84,18 @@ namespace Sensors.B17K
         Pitch,
         Angle,
         Frequency,
+        //дополнительные параметры в журнал (для Дэрэка)
+        LastStop,
+        HourStop,
+        MinuteStop,
+        DayStop,
+        MonthStop,
+        YearStop,
+        FzadStop,
+        FpracyStop,
+        UdStop,
+        IskutStop,
+        TermSensStop,
         //Общее версия софта
         PcProcVer,
         Panel43Ver,

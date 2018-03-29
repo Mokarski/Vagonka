@@ -52,6 +52,19 @@ namespace Sensors.Invertors.ENEL
             mVoltage = signals.GetSignal(SensorName.Invertor(mModbusId, SignalName.Voltage));
             mTemperature = signals.GetSignal(SensorName.Invertor(mModbusId, SignalName.Temperature));
             mAngle = signals.GetSignal(SensorName.Invertor(mModbusId, SignalName.Angle));
+
+            mLastStop = signals.GetSignal(SensorName.Invertor(mModbusId, SignalName.LastStop));            
+            mHourStop  = signals.GetSignal(SensorName.Invertor(mModbusId, SignalName.HourStop));
+            mMinuteStop = signals.GetSignal(SensorName.Invertor(mModbusId, SignalName.MinuteStop));
+            mDayStop = signals.GetSignal(SensorName.Invertor(mModbusId, SignalName.DayStop));
+            mMonthStop = signals.GetSignal(SensorName.Invertor(mModbusId, SignalName.MonthStop));
+            mYearStop = signals.GetSignal(SensorName.Invertor(mModbusId, SignalName.YearStop));
+            mFzadStop  = signals.GetSignal(SensorName.Invertor(mModbusId, SignalName.FzadStop));
+            mFpracyStop = signals.GetSignal(SensorName.Invertor(mModbusId, SignalName.FpracyStop));
+            mUdStop = signals.GetSignal(SensorName.Invertor(mModbusId, SignalName.UdStop));
+            mIskutStop = signals.GetSignal(SensorName.Invertor(mModbusId, SignalName.IskutStop));
+            mTermSensStop = signals.GetSignal(SensorName.Invertor(mModbusId, SignalName.TermSensStop));
+             
         }
 
         public EngineStatus Status { get; private set; }
@@ -136,7 +149,9 @@ namespace Sensors.Invertors.ENEL
                     return false;
 
                 #region read
-                var rv = mConnection.ReadHoldings(mModbusId, 0, 9); // 40000 - 40008 регистры
+                //var rv = mConnection.ReadHoldings(mModbusId, 0, 9); // 40000 - 40008 регистры
+                //Расширяем число читаемых в журнал регистров по Дэрэку
+                var rv = mConnection.ReadHoldings(mModbusId, 0, 20); // 40000 - 40020 регистры
                 if (rv != null)
                 {
                     mState.Update(rv[0]);
@@ -153,6 +168,18 @@ namespace Sensors.Invertors.ENEL
                     mVoltage.Update(rv[6]); // напряжение на входе инвертора
                     //mTemperature.Update(rv[7]); // температура воздуха вокруг инвертора
                     mAngle.Update(rv[8]); // угол компенсации поворота колес
+                    
+                    mLastStop.Update(rv[9]);
+                    mHourStop.Update(rv[10]);
+                    mMinuteStop.Update(rv[11]);
+                    mDayStop.Update(rv[12]);
+                    mMonthStop.Update(rv[13]);
+                    mYearStop.Update(rv[14]);
+                    mFzadStop.Update(rv[15]);
+                    mFpracyStop.Update(rv[16]);
+                    mUdStop.Update(rv[17]);
+                    mIskutStop.Update(rv[18]);
+                    mTermSensStop.Update(rv[19]);
 
                     //return true;
                 }
@@ -238,7 +265,19 @@ namespace Sensors.Invertors.ENEL
                             if (Status != EngineStatus.Failure)
                             {
                                 // первый вход в режим
-                                mJournal.Debug(string.Format("{0} уст. код ошибки {1}", Id, mError.ValueAsInt), MessageLevel.System);
+                                mJournal.Debug(string.Format("{0} уст. код защиты {1}", Id, mError.ValueAsInt), MessageLevel.System);
+
+                                mJournal.Debug(string.Format("{0} уст. причина защиты {1}", Id, mLastStop.ValueAsInt), MessageLevel.System);
+                                mJournal.Debug(string.Format("{0} уст. Часы {1}", Id, mHourStop.ValueAsInt), MessageLevel.System);
+                                mJournal.Debug(string.Format("{0} уст. Минуты {1}", Id, mMinuteStop.ValueAsInt), MessageLevel.System);
+                                mJournal.Debug(string.Format("{0} уст. Дни {1}", Id, mDayStop.ValueAsInt), MessageLevel.System);
+                                mJournal.Debug(string.Format("{0} уст. Месяц {1}", Id, mMonthStop.ValueAsInt), MessageLevel.System);
+                                mJournal.Debug(string.Format("{0} уст. Год {1}", Id, mYearStop.ValueAsInt), MessageLevel.System);
+                                mJournal.Debug(string.Format("{0} уст. Fzad {1}", Id, mFzadStop.ValueAsInt), MessageLevel.System);
+                                mJournal.Debug(string.Format("{0} уст. Fpracy {1}", Id, mFpracyStop.ValueAsInt), MessageLevel.System);
+                                mJournal.Debug(string.Format("{0} уст. Ud {1}", Id, mUdStop.ValueAsInt), MessageLevel.System);
+                                mJournal.Debug(string.Format("{0} уст. Iskut {1}", Id, mIskutStop.ValueAsInt), MessageLevel.System);
+                                mJournal.Debug(string.Format("{0} уст. TermSens {1}", Id, mTermSensStop.ValueAsInt), MessageLevel.System);
 
                                 if (OnError != null)
                                     OnError(mError);
@@ -277,6 +316,22 @@ namespace Sensors.Invertors.ENEL
         private readonly ISignal mVoltage;
         private readonly ISignal mTemperature;
         private readonly ISignal mAngle;
+
+                    private readonly ISignal mLastStop;        
+                    private readonly ISignal mHourStop;
+                    private readonly ISignal mMinuteStop;
+                    private readonly ISignal mDayStop;
+                    private readonly ISignal mMonthStop;
+                    private readonly ISignal mYearStop;
+                    private readonly ISignal mFzadStop;
+                    private readonly ISignal mFpracyStop;
+                    private readonly ISignal mUdStop;
+                    private readonly ISignal mIskutStop;
+                    private readonly ISignal mTermSensStop;
+
+        //added signals
+        //private readonly ISignal mError;
+
         //private readonly ushort[] mOutputData = new ushort[3];
 
         private ushort mFrequencySettings;

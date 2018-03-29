@@ -177,7 +177,7 @@ namespace Sensors.B17K
                                                                  if (!mIsActionBlock)
                                                                      SetState(SystemState.Active, SystemStateCodes.State.MotionMode);
 
-                                                                 Engine.Speed4(EngineMode.Motion);
+                                                                 Engine.Speed4(EngineMode.Motion); // Теперь это кнопка скорость 4
                                                              }
 
                                                              break;

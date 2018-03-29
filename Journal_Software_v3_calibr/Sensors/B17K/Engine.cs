@@ -1067,7 +1067,7 @@ namespace Sensors.B17K
             {
                 case EngineMode.Motion:
                     {                        
-                            mMotionSpeed.Update(1);
+                            mMotionSpeed.Update(0);
                     }
                     break;
 
@@ -1083,7 +1083,7 @@ namespace Sensors.B17K
             {
                 case EngineMode.Motion:
                     {
-                        mMotionSpeed.Update(2);
+                        mMotionSpeed.Update(1);
                     }
                     break;
 
@@ -1099,7 +1099,7 @@ namespace Sensors.B17K
             {
                 case EngineMode.Motion:
                     {
-                        mMotionSpeed.Update(3);
+                        mMotionSpeed.Update(2);
                     }
                     break;
 
@@ -1115,7 +1115,7 @@ namespace Sensors.B17K
             {
                 case EngineMode.Motion:
                     {
-                        mMotionSpeed.Update(4);
+                        mMotionSpeed.Update(3);
                     }
                     break;
 
