@@ -1,0 +1,6 @@
+C:\Users\skipper\Desktop\спарк\копейск\software\Bin\Journal.exe.config
+C:\Users\skipper\Desktop\спарк\копейск\software\Bin\Journal.exe
+C:\Users\skipper\Desktop\спарк\копейск\software\Bin\Journal.pdb
+C:\Users\skipper\Desktop\спарк\копейск\software\JournalService\obj\x86\Debug\Journal.csprojResolveAssemblyReference.cache
+C:\Users\skipper\Desktop\спарк\копейск\software\JournalService\obj\x86\Debug\Journal.exe
+C:\Users\skipper\Desktop\спарк\копейск\software\JournalService\obj\x86\Debug\Journal.pdb

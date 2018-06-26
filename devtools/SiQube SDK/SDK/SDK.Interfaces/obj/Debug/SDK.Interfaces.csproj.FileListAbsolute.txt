@@ -33,3 +33,8 @@ C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\devtools\Si
 C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\devtools\SiQube SDK\SDK\SDK.Interfaces\obj\Debug\SDK.Interfaces.csprojResolveAssemblyReference.cache
 C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\devtools\SiQube SDK\SDK\SDK.Interfaces\obj\Debug\SDK.Interfaces.dll
 C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\devtools\SiQube SDK\SDK\SDK.Interfaces\obj\Debug\SDK.Interfaces.pdb
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\devtools\SiQube SDK\SDK\Bin\SDK.Interfaces.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\devtools\SiQube SDK\SDK\Bin\SDK.Interfaces.pdb
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\devtools\SiQube SDK\SDK\SDK.Interfaces\obj\Debug\SDK.Interfaces.csprojResolveAssemblyReference.cache
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\devtools\SiQube SDK\SDK\SDK.Interfaces\obj\Debug\SDK.Interfaces.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\devtools\SiQube SDK\SDK\SDK.Interfaces\obj\Debug\SDK.Interfaces.pdb

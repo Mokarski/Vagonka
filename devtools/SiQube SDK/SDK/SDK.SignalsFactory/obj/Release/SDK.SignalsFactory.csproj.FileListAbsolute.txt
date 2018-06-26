@@ -32,23 +32,6 @@ C:\devtools\SiQube SDK\SDK\SDK.SignalsFactory\bin\Release\SDK.NetworksServices.p
 C:\devtools\SiQube SDK\SDK\SDK.SignalsFactory\obj\Release\SDK.SignalsFactory.csprojResolveAssemblyReference.cache
 C:\devtools\SiQube SDK\SDK\SDK.SignalsFactory\obj\Release\SDK.SignalsFactory.dll
 C:\devtools\SiQube SDK\SDK\SDK.SignalsFactory\obj\Release\SDK.SignalsFactory.pdb
-D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.SignalsFactory\bin\Release\SDK.SignalsFactory.dll
-D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.SignalsFactory\bin\Release\SDK.SignalsFactory.pdb
-D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.SignalsFactory\bin\Release\protobuf-net.dll
-D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.SignalsFactory\bin\Release\SDK.Common.dll
-D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.SignalsFactory\bin\Release\SDK.Interfaces.dll
-D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.SignalsFactory\bin\Release\SDK.NetworksServices.dll
-D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.SignalsFactory\bin\Release\SDK.NModbus.dll
-D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.SignalsFactory\bin\Release\log4net.dll
-D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.SignalsFactory\bin\Release\Nini.dll
-D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.SignalsFactory\bin\Release\Unme.Common.dll
-D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.SignalsFactory\bin\Release\SDK.Common.pdb
-D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.SignalsFactory\bin\Release\SDK.Interfaces.pdb
-D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.SignalsFactory\bin\Release\SDK.NModbus.pdb
-D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.SignalsFactory\bin\Release\SDK.NetworksServices.pdb
-D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.SignalsFactory\obj\Release\SDK.SignalsFactory.csprojResolveAssemblyReference.cache
-D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.SignalsFactory\obj\Release\SDK.SignalsFactory.dll
-D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.SignalsFactory\obj\Release\SDK.SignalsFactory.pdb
 C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\devtools\SiQube SDK\SDK\SDK.SignalsFactory\bin\Release\SDK.SignalsFactory.dll
 C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\devtools\SiQube SDK\SDK\SDK.SignalsFactory\bin\Release\SDK.SignalsFactory.pdb
 C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\devtools\SiQube SDK\SDK\SDK.SignalsFactory\bin\Release\protobuf-net.dll
@@ -66,6 +49,23 @@ C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\devtools\Si
 C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\devtools\SiQube SDK\SDK\SDK.SignalsFactory\obj\Release\SDK.SignalsFactory.csprojResolveAssemblyReference.cache
 C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\devtools\SiQube SDK\SDK\SDK.SignalsFactory\obj\Release\SDK.SignalsFactory.dll
 C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\devtools\SiQube SDK\SDK\SDK.SignalsFactory\obj\Release\SDK.SignalsFactory.pdb
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.SignalsFactory\bin\Release\SDK.SignalsFactory.dll
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.SignalsFactory\bin\Release\SDK.SignalsFactory.pdb
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.SignalsFactory\bin\Release\protobuf-net.dll
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.SignalsFactory\bin\Release\SDK.Common.dll
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.SignalsFactory\bin\Release\SDK.Interfaces.dll
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.SignalsFactory\bin\Release\SDK.NetworksServices.dll
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.SignalsFactory\bin\Release\SDK.NModbus.dll
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.SignalsFactory\bin\Release\log4net.dll
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.SignalsFactory\bin\Release\Nini.dll
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.SignalsFactory\bin\Release\Unme.Common.dll
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.SignalsFactory\bin\Release\SDK.Common.pdb
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.SignalsFactory\bin\Release\SDK.Interfaces.pdb
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.SignalsFactory\bin\Release\SDK.NModbus.pdb
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.SignalsFactory\bin\Release\SDK.NetworksServices.pdb
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.SignalsFactory\obj\Release\SDK.SignalsFactory.csprojResolveAssemblyReference.cache
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.SignalsFactory\obj\Release\SDK.SignalsFactory.dll
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.SignalsFactory\obj\Release\SDK.SignalsFactory.pdb
 C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\devtools\SiQube SDK\SDK\SDK.SignalsFactory\bin\Release\SDK.SignalsFactory.dll
 C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\devtools\SiQube SDK\SDK\SDK.SignalsFactory\bin\Release\SDK.SignalsFactory.pdb
 C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\devtools\SiQube SDK\SDK\SDK.SignalsFactory\bin\Release\protobuf-net.dll

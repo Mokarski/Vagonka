@@ -1,0 +1,39 @@
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\Bin\SDK.Watchdog.exe.config
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\Bin\SDK.Watchdog.exe
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\Bin\SDK.Watchdog.pdb
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\SDK.Watchdog\obj\x86\Debug\SDK.Watchdog.exe
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\SDK.Watchdog\obj\x86\Debug\SDK.Watchdog.pdb
+F:\Evg\_Копейск\SiQube SDK\SDK\Bin\SDK.Watchdog.exe.config
+F:\Evg\_Копейск\SiQube SDK\SDK\SDK.Watchdog\obj\x86\Debug\SDK.Watchdog.exe
+F:\Evg\_Копейск\SiQube SDK\SDK\SDK.Watchdog\obj\x86\Debug\SDK.Watchdog.pdb
+F:\Evg\_Копейск\SiQube SDK\SDK\Bin\SDK.Watchdog.exe
+F:\Evg\_Копейск\SiQube SDK\SDK\Bin\SDK.Watchdog.pdb
+F:\devtools\SiQube SDK\SDK\Bin\SDK.Watchdog.exe.config
+F:\devtools\SiQube SDK\SDK\Bin\SDK.Watchdog.exe
+F:\devtools\SiQube SDK\SDK\Bin\SDK.Watchdog.pdb
+F:\devtools\SiQube SDK\SDK\SDK.Watchdog\obj\x86\Debug\SDK.Watchdog.exe
+F:\devtools\SiQube SDK\SDK\SDK.Watchdog\obj\x86\Debug\SDK.Watchdog.pdb
+F:\devtools\SiQube SDK\SDK\SDK.Watchdog\obj\x86\Debug\SDK.Watchdog.csprojResolveAssemblyReference.cache
+D:\devtools\SiQube SDK\SDK\Bin\SDK.Watchdog.exe.config
+D:\devtools\SiQube SDK\SDK\Bin\SDK.Watchdog.exe
+D:\devtools\SiQube SDK\SDK\Bin\SDK.Watchdog.pdb
+D:\devtools\SiQube SDK\SDK\SDK.Watchdog\obj\x86\Debug\SDK.Watchdog.exe
+D:\devtools\SiQube SDK\SDK\SDK.Watchdog\obj\x86\Debug\SDK.Watchdog.pdb
+D:\devtools\SiQube SDK\SDK\SDK.Watchdog\obj\x86\Debug\SDK.Watchdog.csprojResolveAssemblyReference.cache
+C:\devtools\SiQube SDK\SDK\Bin\SDK.Watchdog.exe.config
+C:\devtools\SiQube SDK\SDK\Bin\SDK.Watchdog.exe
+C:\devtools\SiQube SDK\SDK\Bin\SDK.Watchdog.pdb
+C:\devtools\SiQube SDK\SDK\SDK.Watchdog\obj\x86\Debug\SDK.Watchdog.exe
+C:\devtools\SiQube SDK\SDK\SDK.Watchdog\obj\x86\Debug\SDK.Watchdog.pdb
+C:\devtools\SiQube SDK\SDK\SDK.Watchdog\obj\x86\Debug\SDK.Watchdog.csprojResolveAssemblyReference.cache
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\Bin\SDK.Watchdog.exe.config
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\Bin\SDK.Watchdog.exe
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\Bin\SDK.Watchdog.pdb
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.Watchdog\obj\x86\Debug\SDK.Watchdog.exe
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.Watchdog\obj\x86\Debug\SDK.Watchdog.pdb
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\devtools\SiQube SDK\SDK\Bin\SDK.Watchdog.exe.config
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\devtools\SiQube SDK\SDK\Bin\SDK.Watchdog.exe
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\devtools\SiQube SDK\SDK\Bin\SDK.Watchdog.pdb
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\devtools\SiQube SDK\SDK\SDK.Watchdog\obj\x86\Debug\SDK.Watchdog.csprojResolveAssemblyReference.cache
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\devtools\SiQube SDK\SDK\SDK.Watchdog\obj\x86\Debug\SDK.Watchdog.exe
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\devtools\SiQube SDK\SDK\SDK.Watchdog\obj\x86\Debug\SDK.Watchdog.pdb

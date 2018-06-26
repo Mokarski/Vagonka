@@ -1171,7 +1171,7 @@ namespace Sensors.B17K
         public static void ConveyorSpeed1()
         {
             
-                mConveyorSpeed.Update(1);
+                mConveyorSpeed.Update(0);
 
             if (mIsConveyorActive)
                 ConveyorOn();
@@ -1182,7 +1182,7 @@ namespace Sensors.B17K
         public static void ConveyorSpeed2()
         {
 
-            mConveyorSpeed.Update(2);
+            mConveyorSpeed.Update(1);
 
             if (mIsConveyorActive)
                 ConveyorOn();

@@ -46,10 +46,8 @@ C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\Journal_Sof
 C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\Journal_Software_v3_calibr\Gateway\bin\Release\SignalsNamespace.pdb
 C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\Journal_Software_v3_calibr\Gateway\bin\Release\SDK.NModbus.pdb
 C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\Journal_Software_v3_calibr\Gateway\obj\x86\Release\Gateway.csprojResolveAssemblyReference.cache
-C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\Journal_Software_v3_calibr\Gateway\bin\Release\Gateway.exe.config
-C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\Journal_Software_v3_calibr\Gateway\obj\x86\Release\Gateway.exe
-C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\Journal_Software_v3_calibr\Gateway\obj\x86\Release\Gateway.pdb
 C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\Journal_Software_v3_calibr\Gateway\bin\Release\sqlite3.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\Journal_Software_v3_calibr\Gateway\bin\Release\Gateway.exe.config
 C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\Journal_Software_v3_calibr\Gateway\bin\Release\Gateway.exe
 C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\Journal_Software_v3_calibr\Gateway\bin\Release\Gateway.pdb
 C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\Journal_Software_v3_calibr\Gateway\bin\Release\SDK.Common.dll
@@ -70,3 +68,5 @@ C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\J
 C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\Journal_Software_v3_calibr\Gateway\bin\Release\SignalsNamespace.pdb
 C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\Journal_Software_v3_calibr\Gateway\bin\Release\SDK.NModbus.pdb
 C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\Journal_Software_v3_calibr\Gateway\obj\x86\Release\Gateway.csprojResolveAssemblyReference.cache
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\Journal_Software_v3_calibr\Gateway\obj\x86\Release\Gateway.exe
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\Journal_Software_v3_calibr\Gateway\obj\x86\Release\Gateway.pdb

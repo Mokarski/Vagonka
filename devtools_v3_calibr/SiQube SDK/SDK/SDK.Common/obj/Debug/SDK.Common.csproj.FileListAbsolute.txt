@@ -1,0 +1,35 @@
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\Bin\SDK.Common.dll
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\Bin\SDK.Common.pdb
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\SDK.Common\obj\Debug\SDK.Common.dll
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\SDK.Common\obj\Debug\SDK.Common.pdb
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\SDK.Common\obj\Debug\SDK.Common.csprojResolveAssemblyReference.cache
+F:\Evg\_Копейск\SiQube SDK\SDK\Bin\SDK.Common.dll
+F:\Evg\_Копейск\SiQube SDK\SDK\Bin\SDK.Common.pdb
+F:\Evg\_Копейск\SiQube SDK\SDK\SDK.Common\obj\Debug\SDK.Common.csprojResolveAssemblyReference.cache
+F:\Evg\_Копейск\SiQube SDK\SDK\SDK.Common\obj\Debug\SDK.Common.dll
+F:\Evg\_Копейск\SiQube SDK\SDK\SDK.Common\obj\Debug\SDK.Common.pdb
+F:\devtools\SiQube SDK\SDK\Bin\SDK.Common.dll
+F:\devtools\SiQube SDK\SDK\Bin\SDK.Common.pdb
+F:\devtools\SiQube SDK\SDK\SDK.Common\obj\Debug\SDK.Common.csprojResolveAssemblyReference.cache
+F:\devtools\SiQube SDK\SDK\SDK.Common\obj\Debug\SDK.Common.dll
+F:\devtools\SiQube SDK\SDK\SDK.Common\obj\Debug\SDK.Common.pdb
+D:\devtools\SiQube SDK\SDK\Bin\SDK.Common.dll
+D:\devtools\SiQube SDK\SDK\Bin\SDK.Common.pdb
+D:\devtools\SiQube SDK\SDK\SDK.Common\obj\Debug\SDK.Common.csprojResolveAssemblyReference.cache
+D:\devtools\SiQube SDK\SDK\SDK.Common\obj\Debug\SDK.Common.dll
+D:\devtools\SiQube SDK\SDK\SDK.Common\obj\Debug\SDK.Common.pdb
+C:\devtools\SiQube SDK\SDK\Bin\SDK.Common.dll
+C:\devtools\SiQube SDK\SDK\Bin\SDK.Common.pdb
+C:\devtools\SiQube SDK\SDK\SDK.Common\obj\Debug\SDK.Common.csprojResolveAssemblyReference.cache
+C:\devtools\SiQube SDK\SDK\SDK.Common\obj\Debug\SDK.Common.dll
+C:\devtools\SiQube SDK\SDK\SDK.Common\obj\Debug\SDK.Common.pdb
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\Bin\SDK.Common.dll
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\Bin\SDK.Common.pdb
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.Common\obj\Debug\SDK.Common.csprojResolveAssemblyReference.cache
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.Common\obj\Debug\SDK.Common.dll
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.Common\obj\Debug\SDK.Common.pdb
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\devtools\SiQube SDK\SDK\Bin\SDK.Common.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\devtools\SiQube SDK\SDK\Bin\SDK.Common.pdb
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\devtools\SiQube SDK\SDK\SDK.Common\obj\Debug\SDK.Common.csprojResolveAssemblyReference.cache
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\devtools\SiQube SDK\SDK\SDK.Common\obj\Debug\SDK.Common.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\devtools\SiQube SDK\SDK\SDK.Common\obj\Debug\SDK.Common.pdb

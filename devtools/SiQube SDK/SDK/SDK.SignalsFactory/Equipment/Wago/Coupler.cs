@@ -86,7 +86,8 @@ namespace SDK.SignalsFactory.Equipment.Wago
 
                 var rv = mConnection.ReadWriteMultipleRegisters(1, 0, 120, 512, mOutputData); // 120 inputs registers max
                 ushort[] mModulesCfg = new ushort[16];
-                
+                //ushort[] mModulesCfg = new ushort[16];
+
                 if (Read_Cfg_Coupler == 0) // ѕроверка что до этого не считывали конфигу каплера
                 {   
                     if (rv != null) //проверка открыти€ сокета модбас к ваго, если открыт то далее

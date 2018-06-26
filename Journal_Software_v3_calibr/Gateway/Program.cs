@@ -456,7 +456,7 @@ namespace Gateway
             #endregion
 
             #region Версия ПО
-            signals.AddStored(new SignalSpecification(string.Format("system.settings.Panel43Ver", SensorName.PcprocVer(SignalName.PcProcVer)), "Версия Процессора").SaveAsUshort(3001, true, 0, 1, 10000));
+            signals.AddStored(new SignalSpecification(string.Format("system.settings.Panel43Ver", SensorName.PcprocVer(SignalName.PcProcVer)), "Версия Процессора").SaveAsUshort(3002, true, 0, 1, 10000));
             signals.AddStored(new SignalSpecification(string.Format("system.settings.PcProcVer", SensorName.Panel43Ver(SignalName.Panel43Ver)), "Версия панель43").SaveAsUshort(3001, true, 0, 1, 10000));
             #endregion
             #region МотоЧасы и КиловатЧасы

@@ -26,20 +26,6 @@ C:\devtools\SiQube SDK\SDK\SDK.NModbus\obj\Release\SDK.NModbus.Modbus.Resources.
 C:\devtools\SiQube SDK\SDK\SDK.NModbus\obj\Release\SDK.NModbus.csproj.GenerateResource.Cache
 C:\devtools\SiQube SDK\SDK\SDK.NModbus\obj\Release\SDK.NModbus.dll
 C:\devtools\SiQube SDK\SDK\SDK.NModbus\obj\Release\SDK.NModbus.pdb
-D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.NModbus\bin\Release\SDK.NModbus.dll
-D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.NModbus\bin\Release\SDK.NModbus.pdb
-D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.NModbus\bin\Release\log4net.dll
-D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.NModbus\bin\Release\SDK.Common.dll
-D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.NModbus\bin\Release\Unme.Common.dll
-D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.NModbus\bin\Release\SDK.Interfaces.dll
-D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.NModbus\bin\Release\Nini.dll
-D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.NModbus\bin\Release\SDK.Common.pdb
-D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.NModbus\bin\Release\SDK.Interfaces.pdb
-D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.NModbus\obj\Release\SDK.NModbus.csprojResolveAssemblyReference.cache
-D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.NModbus\obj\Release\SDK.NModbus.Modbus.Resources.resources
-D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.NModbus\obj\Release\SDK.NModbus.csproj.GenerateResource.Cache
-D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.NModbus\obj\Release\SDK.NModbus.dll
-D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.NModbus\obj\Release\SDK.NModbus.pdb
 C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\devtools\SiQube SDK\SDK\SDK.NModbus\bin\Release\SDK.NModbus.dll
 C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\devtools\SiQube SDK\SDK\SDK.NModbus\bin\Release\SDK.NModbus.pdb
 C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\devtools\SiQube SDK\SDK\SDK.NModbus\bin\Release\log4net.dll
@@ -54,6 +40,20 @@ C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\devtools\Si
 C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\devtools\SiQube SDK\SDK\SDK.NModbus\obj\Release\SDK.NModbus.csproj.GenerateResource.Cache
 C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\devtools\SiQube SDK\SDK\SDK.NModbus\obj\Release\SDK.NModbus.dll
 C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\devtools\SiQube SDK\SDK\SDK.NModbus\obj\Release\SDK.NModbus.pdb
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.NModbus\bin\Release\SDK.NModbus.dll
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.NModbus\bin\Release\SDK.NModbus.pdb
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.NModbus\bin\Release\log4net.dll
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.NModbus\bin\Release\SDK.Common.dll
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.NModbus\bin\Release\Unme.Common.dll
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.NModbus\bin\Release\SDK.Interfaces.dll
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.NModbus\bin\Release\Nini.dll
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.NModbus\bin\Release\SDK.Common.pdb
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.NModbus\bin\Release\SDK.Interfaces.pdb
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.NModbus\obj\Release\SDK.NModbus.csprojResolveAssemblyReference.cache
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.NModbus\obj\Release\SDK.NModbus.Modbus.Resources.resources
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.NModbus\obj\Release\SDK.NModbus.csproj.GenerateResource.Cache
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.NModbus\obj\Release\SDK.NModbus.dll
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.NModbus\obj\Release\SDK.NModbus.pdb
 C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\devtools\SiQube SDK\SDK\SDK.NModbus\bin\Release\SDK.NModbus.dll
 C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\devtools\SiQube SDK\SDK\SDK.NModbus\bin\Release\SDK.NModbus.pdb
 C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\devtools\SiQube SDK\SDK\SDK.NModbus\bin\Release\log4net.dll
@@ -65,6 +65,7 @@ C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\d
 C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\devtools\SiQube SDK\SDK\SDK.NModbus\bin\Release\SDK.Interfaces.pdb
 C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\devtools\SiQube SDK\SDK\SDK.NModbus\obj\Release\SDK.NModbus.csprojResolveAssemblyReference.cache
 C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\devtools\SiQube SDK\SDK\SDK.NModbus\obj\Release\SDK.NModbus.Modbus.Resources.resources
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\devtools\SiQube SDK\SDK\SDK.NModbus\obj\Release\SDK.NModbus.Properties.Resources.resources
 C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\devtools\SiQube SDK\SDK\SDK.NModbus\obj\Release\SDK.NModbus.csproj.GenerateResource.Cache
 C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\devtools\SiQube SDK\SDK\SDK.NModbus\obj\Release\SDK.NModbus.dll
 C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\devtools\SiQube SDK\SDK\SDK.NModbus\obj\Release\SDK.NModbus.pdb

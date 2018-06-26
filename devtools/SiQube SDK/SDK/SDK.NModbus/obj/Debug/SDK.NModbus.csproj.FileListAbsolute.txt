@@ -51,3 +51,10 @@ C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\devtools\Si
 C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\devtools\SiQube SDK\SDK\SDK.NModbus\obj\Debug\SDK.NModbus.csproj.GenerateResource.Cache
 C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\devtools\SiQube SDK\SDK\SDK.NModbus\obj\Debug\SDK.NModbus.dll
 C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\devtools\SiQube SDK\SDK\SDK.NModbus\obj\Debug\SDK.NModbus.pdb
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\devtools\SiQube SDK\SDK\Bin\SDK.NModbus.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\devtools\SiQube SDK\SDK\Bin\SDK.NModbus.pdb
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\devtools\SiQube SDK\SDK\SDK.NModbus\obj\Debug\SDK.NModbus.csprojResolveAssemblyReference.cache
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\devtools\SiQube SDK\SDK\SDK.NModbus\obj\Debug\SDK.NModbus.Modbus.Resources.resources
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\devtools\SiQube SDK\SDK\SDK.NModbus\obj\Debug\SDK.NModbus.csproj.GenerateResource.Cache
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\devtools\SiQube SDK\SDK\SDK.NModbus\obj\Debug\SDK.NModbus.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\devtools\SiQube SDK\SDK\SDK.NModbus\obj\Debug\SDK.NModbus.pdb

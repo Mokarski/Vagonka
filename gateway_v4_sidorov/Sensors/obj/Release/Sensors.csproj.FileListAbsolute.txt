@@ -1,0 +1,95 @@
+D:\Journal_software_v1\software_v1\software_v1\Sensors\bin\Release\Sensors.dll
+D:\Journal_software_v1\software_v1\software_v1\Sensors\bin\Release\Sensors.pdb
+D:\Journal_software_v1\software_v1\software_v1\Sensors\bin\Release\SDK.Common.dll
+D:\Journal_software_v1\software_v1\software_v1\Sensors\bin\Release\SDK.Interfaces.dll
+D:\Journal_software_v1\software_v1\software_v1\Sensors\bin\Release\SDK.NetworksServices.dll
+D:\Journal_software_v1\software_v1\software_v1\Sensors\bin\Release\SDK.NModbus.dll
+D:\Journal_software_v1\software_v1\software_v1\Sensors\bin\Release\SDK.SignalsFactory.dll
+D:\Journal_software_v1\software_v1\software_v1\Sensors\bin\Release\log4net.dll
+D:\Journal_software_v1\software_v1\software_v1\Sensors\bin\Release\Nini.dll
+D:\Journal_software_v1\software_v1\software_v1\Sensors\bin\Release\Unme.Common.dll
+D:\Journal_software_v1\software_v1\software_v1\Sensors\bin\Release\protobuf-net.dll
+D:\Journal_software_v1\software_v1\software_v1\Sensors\bin\Release\SDK.Common.pdb
+D:\Journal_software_v1\software_v1\software_v1\Sensors\bin\Release\SDK.Interfaces.pdb
+D:\Journal_software_v1\software_v1\software_v1\Sensors\bin\Release\SDK.NModbus.pdb
+D:\Journal_software_v1\software_v1\software_v1\Sensors\bin\Release\SDK.SignalsFactory.pdb
+D:\Journal_software_v1\software_v1\software_v1\Sensors\bin\Release\SDK.NetworksServices.pdb
+D:\Journal_software_v1\software_v1\software_v1\Sensors\obj\Release\Sensors.csprojResolveAssemblyReference.cache
+D:\Journal_software_v1\software_v1\software_v1\Sensors\obj\Release\Sensors.dll
+D:\Journal_software_v1\software_v1\software_v1\Sensors\obj\Release\Sensors.pdb
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\Journal_Software_v3_calibr\Sensors\bin\Release\Sensors.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\Journal_Software_v3_calibr\Sensors\bin\Release\Sensors.pdb
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\Journal_Software_v3_calibr\Sensors\bin\Release\SDK.Common.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\Journal_Software_v3_calibr\Sensors\bin\Release\SDK.Interfaces.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\Journal_Software_v3_calibr\Sensors\bin\Release\SDK.NetworksServices.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\Journal_Software_v3_calibr\Sensors\bin\Release\SDK.NModbus.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\Journal_Software_v3_calibr\Sensors\bin\Release\SDK.SignalsFactory.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\Journal_Software_v3_calibr\Sensors\bin\Release\log4net.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\Journal_Software_v3_calibr\Sensors\bin\Release\Nini.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\Journal_Software_v3_calibr\Sensors\bin\Release\Unme.Common.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\Journal_Software_v3_calibr\Sensors\bin\Release\protobuf-net.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\Journal_Software_v3_calibr\Sensors\bin\Release\SDK.Common.pdb
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\Journal_Software_v3_calibr\Sensors\bin\Release\SDK.Interfaces.pdb
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\Journal_Software_v3_calibr\Sensors\bin\Release\SDK.NModbus.pdb
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\Journal_Software_v3_calibr\Sensors\bin\Release\SDK.SignalsFactory.pdb
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\Journal_Software_v3_calibr\Sensors\bin\Release\SDK.NetworksServices.pdb
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\Journal_Software_v3_calibr\Sensors\obj\Release\Sensors.csprojResolveAssemblyReference.cache
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\Journal_Software_v3_calibr\Sensors\obj\Release\Sensors.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\Journal_Software_v3_calibr\Sensors\obj\Release\Sensors.pdb
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\Journal_Software_v3_calibr\Sensors\bin\Release\Sensors.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\Journal_Software_v3_calibr\Sensors\bin\Release\Sensors.pdb
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\Journal_Software_v3_calibr\Sensors\bin\Release\SDK.Common.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\Journal_Software_v3_calibr\Sensors\bin\Release\SDK.Interfaces.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\Journal_Software_v3_calibr\Sensors\bin\Release\SDK.NetworksServices.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\Journal_Software_v3_calibr\Sensors\bin\Release\SDK.NModbus.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\Journal_Software_v3_calibr\Sensors\bin\Release\SDK.SignalsFactory.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\Journal_Software_v3_calibr\Sensors\bin\Release\log4net.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\Journal_Software_v3_calibr\Sensors\bin\Release\Nini.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\Journal_Software_v3_calibr\Sensors\bin\Release\Unme.Common.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\Journal_Software_v3_calibr\Sensors\bin\Release\protobuf-net.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\Journal_Software_v3_calibr\Sensors\bin\Release\SDK.Common.pdb
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\Journal_Software_v3_calibr\Sensors\bin\Release\SDK.Interfaces.pdb
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\Journal_Software_v3_calibr\Sensors\bin\Release\SDK.NModbus.pdb
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\Journal_Software_v3_calibr\Sensors\bin\Release\SDK.SignalsFactory.pdb
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\Journal_Software_v3_calibr\Sensors\bin\Release\SDK.NetworksServices.pdb
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\Journal_Software_v3_calibr\Sensors\obj\Release\Sensors.csprojResolveAssemblyReference.cache
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\Journal_Software_v3_calibr\Sensors\obj\Release\Sensors.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\Journal_Software_v3_calibr\Sensors\obj\Release\Sensors.pdb
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\Journal_Software_v3_calibr\Sensors\bin\Release\Sensors.dll
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\Journal_Software_v3_calibr\Sensors\bin\Release\Sensors.pdb
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\Journal_Software_v3_calibr\Sensors\bin\Release\SDK.Common.dll
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\Journal_Software_v3_calibr\Sensors\bin\Release\SDK.Interfaces.dll
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\Journal_Software_v3_calibr\Sensors\bin\Release\SDK.NetworksServices.dll
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\Journal_Software_v3_calibr\Sensors\bin\Release\SDK.NModbus.dll
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\Journal_Software_v3_calibr\Sensors\bin\Release\SDK.SignalsFactory.dll
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\Journal_Software_v3_calibr\Sensors\bin\Release\log4net.dll
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\Journal_Software_v3_calibr\Sensors\bin\Release\Nini.dll
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\Journal_Software_v3_calibr\Sensors\bin\Release\Unme.Common.dll
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\Journal_Software_v3_calibr\Sensors\bin\Release\protobuf-net.dll
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\Journal_Software_v3_calibr\Sensors\bin\Release\SDK.Common.pdb
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\Journal_Software_v3_calibr\Sensors\bin\Release\SDK.Interfaces.pdb
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\Journal_Software_v3_calibr\Sensors\bin\Release\SDK.NModbus.pdb
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\Journal_Software_v3_calibr\Sensors\bin\Release\SDK.SignalsFactory.pdb
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\Journal_Software_v3_calibr\Sensors\bin\Release\SDK.NetworksServices.pdb
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\Journal_Software_v3_calibr\Sensors\obj\Release\Sensors.csprojResolveAssemblyReference.cache
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\Journal_Software_v3_calibr\Sensors\obj\Release\Sensors.dll
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\Journal_Software_v3_calibr\Sensors\obj\Release\Sensors.pdb
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\gateway_v4_sidorov\Sensors\bin\Release\Sensors.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\gateway_v4_sidorov\Sensors\bin\Release\Sensors.pdb
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\gateway_v4_sidorov\Sensors\bin\Release\SDK.Common.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\gateway_v4_sidorov\Sensors\bin\Release\SDK.Interfaces.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\gateway_v4_sidorov\Sensors\bin\Release\SDK.NetworksServices.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\gateway_v4_sidorov\Sensors\bin\Release\SDK.NModbus.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\gateway_v4_sidorov\Sensors\bin\Release\SDK.SignalsFactory.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\gateway_v4_sidorov\Sensors\bin\Release\log4net.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\gateway_v4_sidorov\Sensors\bin\Release\Nini.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\gateway_v4_sidorov\Sensors\bin\Release\Unme.Common.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\gateway_v4_sidorov\Sensors\bin\Release\protobuf-net.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\gateway_v4_sidorov\Sensors\bin\Release\SDK.Common.pdb
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\gateway_v4_sidorov\Sensors\bin\Release\SDK.Interfaces.pdb
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\gateway_v4_sidorov\Sensors\bin\Release\SDK.NModbus.pdb
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\gateway_v4_sidorov\Sensors\bin\Release\SDK.SignalsFactory.pdb
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\gateway_v4_sidorov\Sensors\bin\Release\SDK.NetworksServices.pdb
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\gateway_v4_sidorov\Sensors\obj\Release\Sensors.csprojResolveAssemblyReference.cache
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\gateway_v4_sidorov\Sensors\obj\Release\Sensors.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\gateway_v4_sidorov\Sensors\obj\Release\Sensors.pdb

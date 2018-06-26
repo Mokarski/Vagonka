@@ -37,3 +37,4 @@ C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\devtools\Si
 C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\devtools\SiQube SDK\SDK\SDK.Watchdog\obj\x86\Debug\SDK.Watchdog.csprojResolveAssemblyReference.cache
 C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\devtools\SiQube SDK\SDK\SDK.Watchdog\obj\x86\Debug\SDK.Watchdog.exe
 C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\devtools\SiQube SDK\SDK\SDK.Watchdog\obj\x86\Debug\SDK.Watchdog.pdb
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.Watchdog\obj\x86\Debug\SDK.Watchdog.csprojResolveAssemblyReference.cache
