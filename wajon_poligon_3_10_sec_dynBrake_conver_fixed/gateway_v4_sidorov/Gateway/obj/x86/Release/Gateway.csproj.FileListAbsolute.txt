@@ -1,0 +1,150 @@
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\Journal_Software_v3_calibr\Gateway\bin\Release\Gateway.exe.config
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\Journal_Software_v3_calibr\Gateway\obj\x86\Release\Gateway.exe
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\Journal_Software_v3_calibr\Gateway\obj\x86\Release\Gateway.pdb
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\Journal_Software_v3_calibr\Gateway\bin\Release\sqlite3.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\Journal_Software_v3_calibr\Gateway\bin\Release\Gateway.exe
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\Journal_Software_v3_calibr\Gateway\bin\Release\Gateway.pdb
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\Journal_Software_v3_calibr\Gateway\bin\Release\SDK.Common.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\Journal_Software_v3_calibr\Gateway\bin\Release\SDK.Interfaces.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\Journal_Software_v3_calibr\Gateway\bin\Release\SDK.NetworksServices.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\Journal_Software_v3_calibr\Gateway\bin\Release\SDK.SignalsFactory.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\Journal_Software_v3_calibr\Gateway\bin\Release\Sensors.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\Journal_Software_v3_calibr\Gateway\bin\Release\SignalsNamespace.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\Journal_Software_v3_calibr\Gateway\bin\Release\Nini.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\Journal_Software_v3_calibr\Gateway\bin\Release\SDK.NModbus.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\Journal_Software_v3_calibr\Gateway\bin\Release\protobuf-net.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\Journal_Software_v3_calibr\Gateway\bin\Release\Unme.Common.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\Journal_Software_v3_calibr\Gateway\bin\Release\SDK.Common.pdb
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\Journal_Software_v3_calibr\Gateway\bin\Release\SDK.Interfaces.pdb
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\Journal_Software_v3_calibr\Gateway\bin\Release\SDK.SignalsFactory.pdb
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\Journal_Software_v3_calibr\Gateway\bin\Release\SDK.NetworksServices.pdb
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\Journal_Software_v3_calibr\Gateway\bin\Release\Sensors.pdb
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\Journal_Software_v3_calibr\Gateway\bin\Release\SignalsNamespace.pdb
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\Journal_Software_v3_calibr\Gateway\bin\Release\SDK.NModbus.pdb
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\Journal_Software_v3_calibr\Gateway\obj\x86\Release\Gateway.csprojResolveAssemblyReference.cache
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\Journal_Software_v3_calibr\Gateway\bin\Release\Gateway.exe.config
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\Journal_Software_v3_calibr\Gateway\obj\x86\Release\Gateway.exe
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\Journal_Software_v3_calibr\Gateway\obj\x86\Release\Gateway.pdb
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\Journal_Software_v3_calibr\Gateway\bin\Release\sqlite3.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\Journal_Software_v3_calibr\Gateway\bin\Release\Gateway.exe
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\Journal_Software_v3_calibr\Gateway\bin\Release\Gateway.pdb
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\Journal_Software_v3_calibr\Gateway\bin\Release\SDK.Common.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\Journal_Software_v3_calibr\Gateway\bin\Release\SDK.Interfaces.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\Journal_Software_v3_calibr\Gateway\bin\Release\SDK.NetworksServices.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\Journal_Software_v3_calibr\Gateway\bin\Release\SDK.SignalsFactory.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\Journal_Software_v3_calibr\Gateway\bin\Release\Sensors.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\Journal_Software_v3_calibr\Gateway\bin\Release\SignalsNamespace.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\Journal_Software_v3_calibr\Gateway\bin\Release\Nini.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\Journal_Software_v3_calibr\Gateway\bin\Release\SDK.NModbus.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\Journal_Software_v3_calibr\Gateway\bin\Release\protobuf-net.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\Journal_Software_v3_calibr\Gateway\bin\Release\Unme.Common.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\Journal_Software_v3_calibr\Gateway\bin\Release\SDK.Common.pdb
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\Journal_Software_v3_calibr\Gateway\bin\Release\SDK.Interfaces.pdb
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\Journal_Software_v3_calibr\Gateway\bin\Release\SDK.SignalsFactory.pdb
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\Journal_Software_v3_calibr\Gateway\bin\Release\SDK.NetworksServices.pdb
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\Journal_Software_v3_calibr\Gateway\bin\Release\Sensors.pdb
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\Journal_Software_v3_calibr\Gateway\bin\Release\SignalsNamespace.pdb
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\Journal_Software_v3_calibr\Gateway\bin\Release\SDK.NModbus.pdb
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\Journal_Software_v3_calibr\Gateway\obj\x86\Release\Gateway.csprojResolveAssemblyReference.cache
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\Journal_Software_v3_calibr\Gateway\bin\Release\sqlite3.dll
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\Journal_Software_v3_calibr\Gateway\bin\Release\Gateway.exe.config
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\Journal_Software_v3_calibr\Gateway\bin\Release\Gateway.exe
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\Journal_Software_v3_calibr\Gateway\bin\Release\Gateway.pdb
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\Journal_Software_v3_calibr\Gateway\bin\Release\SDK.Common.dll
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\Journal_Software_v3_calibr\Gateway\bin\Release\SDK.Interfaces.dll
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\Journal_Software_v3_calibr\Gateway\bin\Release\SDK.NetworksServices.dll
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\Journal_Software_v3_calibr\Gateway\bin\Release\SDK.SignalsFactory.dll
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\Journal_Software_v3_calibr\Gateway\bin\Release\Sensors.dll
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\Journal_Software_v3_calibr\Gateway\bin\Release\SignalsNamespace.dll
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\Journal_Software_v3_calibr\Gateway\bin\Release\Nini.dll
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\Journal_Software_v3_calibr\Gateway\bin\Release\SDK.NModbus.dll
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\Journal_Software_v3_calibr\Gateway\bin\Release\protobuf-net.dll
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\Journal_Software_v3_calibr\Gateway\bin\Release\Unme.Common.dll
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\Journal_Software_v3_calibr\Gateway\bin\Release\SDK.Common.pdb
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\Journal_Software_v3_calibr\Gateway\bin\Release\SDK.Interfaces.pdb
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\Journal_Software_v3_calibr\Gateway\bin\Release\SDK.SignalsFactory.pdb
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\Journal_Software_v3_calibr\Gateway\bin\Release\SDK.NetworksServices.pdb
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\Journal_Software_v3_calibr\Gateway\bin\Release\Sensors.pdb
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\Journal_Software_v3_calibr\Gateway\bin\Release\SignalsNamespace.pdb
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\Journal_Software_v3_calibr\Gateway\bin\Release\SDK.NModbus.pdb
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\Journal_Software_v3_calibr\Gateway\obj\x86\Release\Gateway.csprojResolveAssemblyReference.cache
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\Journal_Software_v3_calibr\Gateway\obj\x86\Release\Gateway.exe
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\Journal_Software_v3_calibr\Gateway\obj\x86\Release\Gateway.pdb
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\gateway_v4_sidorov\Gateway\bin\Release\sqlite3.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\gateway_v4_sidorov\Gateway\bin\Release\Gateway.exe.config
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\gateway_v4_sidorov\Gateway\bin\Release\Gateway.exe
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\gateway_v4_sidorov\Gateway\bin\Release\Gateway.pdb
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\gateway_v4_sidorov\Gateway\bin\Release\SDK.Common.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\gateway_v4_sidorov\Gateway\bin\Release\SDK.Interfaces.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\gateway_v4_sidorov\Gateway\bin\Release\SDK.NetworksServices.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\gateway_v4_sidorov\Gateway\bin\Release\SDK.SignalsFactory.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\gateway_v4_sidorov\Gateway\bin\Release\Sensors.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\gateway_v4_sidorov\Gateway\bin\Release\SignalsNamespace.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\gateway_v4_sidorov\Gateway\bin\Release\Nini.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\gateway_v4_sidorov\Gateway\bin\Release\SDK.NModbus.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\gateway_v4_sidorov\Gateway\bin\Release\protobuf-net.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\gateway_v4_sidorov\Gateway\bin\Release\Unme.Common.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\gateway_v4_sidorov\Gateway\bin\Release\SDK.Common.pdb
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\gateway_v4_sidorov\Gateway\bin\Release\SDK.Interfaces.pdb
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\gateway_v4_sidorov\Gateway\bin\Release\SDK.SignalsFactory.pdb
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\gateway_v4_sidorov\Gateway\bin\Release\SDK.NetworksServices.pdb
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\gateway_v4_sidorov\Gateway\bin\Release\Sensors.pdb
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\gateway_v4_sidorov\Gateway\bin\Release\SignalsNamespace.pdb
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\gateway_v4_sidorov\Gateway\bin\Release\SDK.NModbus.pdb
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\gateway_v4_sidorov\Gateway\obj\x86\Release\Gateway.csprojResolveAssemblyReference.cache
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\gateway_v4_sidorov\Gateway\obj\x86\Release\Gateway.Properties.Resources.resources
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\gateway_v4_sidorov\Gateway\obj\x86\Release\Gateway.csproj.GenerateResource.Cache
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\gateway_v4_sidorov\Gateway\obj\x86\Release\Gateway.exe
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\gateway_v4_sidorov\Gateway\obj\x86\Release\Gateway.pdb
+F:\Alekseew\wajon_poligon\gateway_v4_sidorov\Gateway\bin\Release\Gateway.exe.config
+F:\Alekseew\wajon_poligon\gateway_v4_sidorov\Gateway\obj\x86\Release\Gateway.exe
+F:\Alekseew\wajon_poligon\gateway_v4_sidorov\Gateway\obj\x86\Release\Gateway.pdb
+F:\Alekseew\wajon_poligon\gateway_v4_sidorov\Gateway\bin\Release\sqlite3.dll
+F:\Alekseew\wajon_poligon\gateway_v4_sidorov\Gateway\bin\Release\Gateway.exe
+F:\Alekseew\wajon_poligon\gateway_v4_sidorov\Gateway\bin\Release\Gateway.pdb
+F:\Alekseew\wajon_poligon\gateway_v4_sidorov\Gateway\bin\Release\SDK.Common.dll
+F:\Alekseew\wajon_poligon\gateway_v4_sidorov\Gateway\bin\Release\SDK.Interfaces.dll
+F:\Alekseew\wajon_poligon\gateway_v4_sidorov\Gateway\bin\Release\SDK.NetworksServices.dll
+F:\Alekseew\wajon_poligon\gateway_v4_sidorov\Gateway\bin\Release\SDK.SignalsFactory.dll
+F:\Alekseew\wajon_poligon\gateway_v4_sidorov\Gateway\bin\Release\Sensors.dll
+F:\Alekseew\wajon_poligon\gateway_v4_sidorov\Gateway\bin\Release\SignalsNamespace.dll
+F:\Alekseew\wajon_poligon\gateway_v4_sidorov\Gateway\bin\Release\Nini.dll
+F:\Alekseew\wajon_poligon\gateway_v4_sidorov\Gateway\bin\Release\SDK.NModbus.dll
+F:\Alekseew\wajon_poligon\gateway_v4_sidorov\Gateway\bin\Release\protobuf-net.dll
+F:\Alekseew\wajon_poligon\gateway_v4_sidorov\Gateway\bin\Release\Unme.Common.dll
+F:\Alekseew\wajon_poligon\gateway_v4_sidorov\Gateway\bin\Release\SDK.Common.pdb
+F:\Alekseew\wajon_poligon\gateway_v4_sidorov\Gateway\bin\Release\SDK.Interfaces.pdb
+F:\Alekseew\wajon_poligon\gateway_v4_sidorov\Gateway\bin\Release\SDK.SignalsFactory.pdb
+F:\Alekseew\wajon_poligon\gateway_v4_sidorov\Gateway\bin\Release\SDK.NetworksServices.pdb
+F:\Alekseew\wajon_poligon\gateway_v4_sidorov\Gateway\bin\Release\Sensors.pdb
+F:\Alekseew\wajon_poligon\gateway_v4_sidorov\Gateway\bin\Release\SignalsNamespace.pdb
+F:\Alekseew\wajon_poligon\gateway_v4_sidorov\Gateway\bin\Release\SDK.NModbus.pdb
+F:\Alekseew\wajon_poligon\gateway_v4_sidorov\Gateway\obj\x86\Release\Gateway.csprojResolveAssemblyReference.cache
+F:\Alekseew\wajon_poligon\gateway_v4_sidorov\Gateway\obj\x86\Release\Gateway.Properties.Resources.resources
+F:\Alekseew\wajon_poligon\gateway_v4_sidorov\Gateway\obj\x86\Release\Gateway.csproj.GenerateResource.Cache
+C:\Alekseew\wajon_poligon_3_10_sec\wajon_poligon_3_10_sec\gateway_v4_sidorov\Gateway\bin\Release\Gateway.exe.config
+C:\Alekseew\wajon_poligon_3_10_sec\wajon_poligon_3_10_sec\gateway_v4_sidorov\Gateway\obj\x86\Release\Gateway.exe
+C:\Alekseew\wajon_poligon_3_10_sec\wajon_poligon_3_10_sec\gateway_v4_sidorov\Gateway\obj\x86\Release\Gateway.pdb
+C:\Alekseew\wajon_poligon_3_10_sec\wajon_poligon_3_10_sec\gateway_v4_sidorov\Gateway\bin\Release\sqlite3.dll
+C:\Alekseew\wajon_poligon_3_10_sec\wajon_poligon_3_10_sec\gateway_v4_sidorov\Gateway\bin\Release\Gateway.exe
+C:\Alekseew\wajon_poligon_3_10_sec\wajon_poligon_3_10_sec\gateway_v4_sidorov\Gateway\bin\Release\Gateway.pdb
+C:\Alekseew\wajon_poligon_3_10_sec\wajon_poligon_3_10_sec\gateway_v4_sidorov\Gateway\bin\Release\SDK.Common.dll
+C:\Alekseew\wajon_poligon_3_10_sec\wajon_poligon_3_10_sec\gateway_v4_sidorov\Gateway\bin\Release\SDK.Interfaces.dll
+C:\Alekseew\wajon_poligon_3_10_sec\wajon_poligon_3_10_sec\gateway_v4_sidorov\Gateway\bin\Release\SDK.NetworksServices.dll
+C:\Alekseew\wajon_poligon_3_10_sec\wajon_poligon_3_10_sec\gateway_v4_sidorov\Gateway\bin\Release\SDK.SignalsFactory.dll
+C:\Alekseew\wajon_poligon_3_10_sec\wajon_poligon_3_10_sec\gateway_v4_sidorov\Gateway\bin\Release\Sensors.dll
+C:\Alekseew\wajon_poligon_3_10_sec\wajon_poligon_3_10_sec\gateway_v4_sidorov\Gateway\bin\Release\SignalsNamespace.dll
+C:\Alekseew\wajon_poligon_3_10_sec\wajon_poligon_3_10_sec\gateway_v4_sidorov\Gateway\bin\Release\Nini.dll
+C:\Alekseew\wajon_poligon_3_10_sec\wajon_poligon_3_10_sec\gateway_v4_sidorov\Gateway\bin\Release\SDK.NModbus.dll
+C:\Alekseew\wajon_poligon_3_10_sec\wajon_poligon_3_10_sec\gateway_v4_sidorov\Gateway\bin\Release\protobuf-net.dll
+C:\Alekseew\wajon_poligon_3_10_sec\wajon_poligon_3_10_sec\gateway_v4_sidorov\Gateway\bin\Release\Unme.Common.dll
+C:\Alekseew\wajon_poligon_3_10_sec\wajon_poligon_3_10_sec\gateway_v4_sidorov\Gateway\bin\Release\SDK.Common.pdb
+C:\Alekseew\wajon_poligon_3_10_sec\wajon_poligon_3_10_sec\gateway_v4_sidorov\Gateway\bin\Release\SDK.Interfaces.pdb
+C:\Alekseew\wajon_poligon_3_10_sec\wajon_poligon_3_10_sec\gateway_v4_sidorov\Gateway\bin\Release\SDK.SignalsFactory.pdb
+C:\Alekseew\wajon_poligon_3_10_sec\wajon_poligon_3_10_sec\gateway_v4_sidorov\Gateway\bin\Release\SDK.NetworksServices.pdb
+C:\Alekseew\wajon_poligon_3_10_sec\wajon_poligon_3_10_sec\gateway_v4_sidorov\Gateway\bin\Release\Sensors.pdb
+C:\Alekseew\wajon_poligon_3_10_sec\wajon_poligon_3_10_sec\gateway_v4_sidorov\Gateway\bin\Release\SignalsNamespace.pdb
+C:\Alekseew\wajon_poligon_3_10_sec\wajon_poligon_3_10_sec\gateway_v4_sidorov\Gateway\bin\Release\SDK.NModbus.pdb
+C:\Alekseew\wajon_poligon_3_10_sec\wajon_poligon_3_10_sec\gateway_v4_sidorov\Gateway\obj\x86\Release\Gateway.csprojResolveAssemblyReference.cache
+C:\Alekseew\wajon_poligon_3_10_sec\wajon_poligon_3_10_sec\gateway_v4_sidorov\Gateway\obj\x86\Release\Gateway.Properties.Resources.resources
+C:\Alekseew\wajon_poligon_3_10_sec\wajon_poligon_3_10_sec\gateway_v4_sidorov\Gateway\obj\x86\Release\Gateway.csproj.GenerateResource.Cache

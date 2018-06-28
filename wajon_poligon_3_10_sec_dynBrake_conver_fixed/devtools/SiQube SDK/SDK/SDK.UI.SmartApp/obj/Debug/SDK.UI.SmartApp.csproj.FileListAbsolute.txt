@@ -1,0 +1,24 @@
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\SDK.UI.SmartApp\bin\Debug\libOpenVG.dll
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\SDK.UI.SmartApp\bin\Debug\Tools\sdk_ui_image_converter.exe
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\SDK.UI.SmartApp\bin\Debug\Tools\splash_image_converter.exe
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\SDK.UI.SmartApp\bin\Debug\amanithvg.ini
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\SDK.UI.SmartApp\bin\Debug\SDK.UI.SmartApp.dll
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\SDK.UI.SmartApp\bin\Debug\SDK.UI.SmartApp.pdb
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\SDK.UI.SmartApp\bin\Debug\SDK.Interfaces.dll
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\SDK.UI.SmartApp\bin\Debug\SDK.Prospero.Hardware.dll
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\SDK.UI.SmartApp\bin\Debug\SDK.UI.dll
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\SDK.UI.SmartApp\bin\Debug\SDK.Interfaces.pdb
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\SDK.UI.SmartApp\bin\Debug\SDK.Prospero.Hardware.pdb
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\SDK.UI.SmartApp\bin\Debug\SDK.UI.pdb
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\Bin\libOpenVG.dll
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\Bin\Tools\sdk_ui_image_converter.exe
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\Bin\Tools\splash_image_converter.exe
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\Bin\amanithvg.ini
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\Bin\SDK.UI.SmartApp.dll
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\Bin\SDK.UI.SmartApp.pdb
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\SDK.UI.SmartApp\obj\Debug\SDK.UI.SmartApp.csprojResolveAssemblyReference.cache
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\SDK.UI.SmartApp\obj\Debug\SDK.UI.SmartApp.dll
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\SDK.UI.SmartApp\obj\Debug\SDK.UI.SmartApp.pdb
+F:\Evg\_Копейск\SiQube SDK\SDK\SDK.UI.SmartApp\obj\Debug\SDK.UI.SmartApp.csprojResolveAssemblyReference.cache
+F:\Evg\_Копейск\SiQube SDK\SDK\SDK.UI.SmartApp\obj\Debug\SDK.UI.SmartApp.dll
+F:\Evg\_Копейск\SiQube SDK\SDK\SDK.UI.SmartApp\obj\Debug\SDK.UI.SmartApp.pdb

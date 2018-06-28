@@ -1,0 +1,14 @@
+C:\Users\skipper\Documents\Visual Studio 2010\Projects\amanith_gdi\AmanithGDIv1\Bin\SDK.UI.Windows.exe.config
+C:\Users\skipper\Documents\Visual Studio 2010\Projects\amanith_gdi\AmanithGDIv1\Bin\libOpenVG.dll
+C:\Users\skipper\Documents\Visual Studio 2010\Projects\amanith_gdi\AmanithGDIv1\Bin\Tools\sdk_ui_image_converter.exe
+C:\Users\skipper\Documents\Visual Studio 2010\Projects\amanith_gdi\AmanithGDIv1\Bin\Tools\splash_image_converter.exe
+C:\Users\skipper\Documents\Visual Studio 2010\Projects\amanith_gdi\AmanithGDIv1\Bin\amanithvg.ini
+C:\Users\skipper\Documents\Visual Studio 2010\Projects\amanith_gdi\AmanithGDIv1\Bin\SDK.UI.Windows.exe
+C:\Users\skipper\Documents\Visual Studio 2010\Projects\amanith_gdi\AmanithGDIv1\Bin\SDK.UI.Windows.pdb
+C:\Users\skipper\Documents\Visual Studio 2010\Projects\amanith_gdi\AmanithGDIv1\AmanithGDIv1\obj\x86\Debug\SDK.UI.Windows.GDI.csprojResolveAssemblyReference.cache
+C:\Users\skipper\Documents\Visual Studio 2010\Projects\amanith_gdi\AmanithGDIv1\AmanithGDIv1\obj\x86\Debug\SDK.UI.Windows.exe
+C:\Users\skipper\Documents\Visual Studio 2010\Projects\amanith_gdi\AmanithGDIv1\AmanithGDIv1\obj\x86\Debug\SDK.UI.Windows.pdb
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\SDK.UI.Windows\obj\x86\Debug\SDK.UI.Windows.GDI.csprojResolveAssemblyReference.cache
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\SDK.UI.Windows\obj\x86\Debug\SDK.UI.Windows.exe
+F:\Evg\_Копейск\SiQube SDK\SDK\SDK.UI.Windows\obj\x86\Debug\SDK.UI.Windows.GDI.csprojResolveAssemblyReference.cache
+F:\Evg\_Копейск\SiQube SDK\SDK\SDK.UI.Windows\obj\x86\Debug\SDK.UI.Windows.exe

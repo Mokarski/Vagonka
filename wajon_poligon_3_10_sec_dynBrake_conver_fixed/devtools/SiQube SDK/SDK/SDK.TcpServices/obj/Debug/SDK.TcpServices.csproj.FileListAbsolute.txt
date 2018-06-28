@@ -1,0 +1,5 @@
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\Bin\SDK.TcpServices.dll
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\Bin\SDK.TcpServices.pdb
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\SDK.TcpServices\obj\Debug\SDK.TcpServices.dll
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\SDK.TcpServices\obj\Debug\SDK.TcpServices.pdb
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\SDK.TcpServices\obj\Debug\SDK.TcpServices.csprojResolveAssemblyReference.cache

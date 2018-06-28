@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{21F95DBD-A0F3-4A0E-889A-5E4BF3531B1A}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SDK.NetworksServices</RootNamespace>
+    <AssemblyName>SDK.NetworksServices</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\Bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="protobuf-net">
+      <HintPath>..\SDK.Common\3rd libraries\Protobuf\protobuf-net.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.XML" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Client\Journal\JournalClient.cs" />
+    <Compile Include="Interfaces\IProxyChannel.cs" />
+    <Compile Include="Interfaces\IJournal.cs" />
+    <Compile Include="JpegUdpReader.cs" />
+    <Compile Include="MjpegWriter.cs" />
+    <Compile Include="ProtoBufRemote\DynamicCallResult.cs" />
+    <Compile Include="ProtoBufRemote\DynamicProxy.cs" />
+    <Compile Include="ProtoBufRemote\InvalidRpcCallException.cs" />
+    <Compile Include="ProtoBufRemote\LoopbackRpcChannel.cs" />
+    <Compile Include="ProtoBufRemote\NetworkStreamRpcChannel.cs" />
+    <Compile Include="ProtoBufRemote\ParameterConverter.cs" />
+    <Compile Include="ProtoBufRemote\PendingCall.cs" />
+    <Compile Include="ProtoBufRemote\Proxy.cs" />
+    <Compile Include="ProtoBufRemote\ProxyBuilder.cs" />
+    <Compile Include="ProtoBufRemote\ProxyBuilderHelpers.cs" />
+    <Compile Include="ProtoBufRemote\RpcChannel.cs" />
+    <Compile Include="ProtoBufRemote\RpcClient.cs" />
+    <Compile Include="ProtoBufRemote\RpcController.cs" />
+    <Compile Include="ProtoBufRemote\RpcMessage.cs" />
+    <Compile Include="ProtoBufRemote\RpcMethodAttribute.cs" />
+    <Compile Include="ProtoBufRemote\RpcMethodDescriptor.cs" />
+    <Compile Include="ProtoBufRemote\RpcServer.cs" />
+    <Compile Include="ProtoBufRemote\RpcServiceAttribute.cs" />
+    <Compile Include="ProtoBufRemote\RpcServiceDescriptor.cs" />
+    <Compile Include="ProtoBufRemote\ServiceThunkBuilder.cs" />
+    <Compile Include="ProtoBufRemote\ServiceThunkHelpers.cs" />
+    <Compile Include="ProtoBufRemote\StreamRpcChannel.cs" />
+    <Compile Include="ProtoBufRemote\TcpClientRpcChannel.cs" />
+    <Compile Include="ProtoBufRemote\ThunkHelpers.cs" />
+    <Compile Include="Services\Journal\ConsoleJournal.cs" />
+    <Compile Include="Services\Journal\Settings.cs" />
+    <Compile Include="Services\Journal\SqLiteJournal.cs" />
+    <Compile Include="Services\Journal\JournalDbRecord.cs" />
+    <Compile Include="Services\Journal\JournalDbConnection.cs" />
+    <Compile Include="MultiThreadServer.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Services\Journal\JournalService.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SDK.Common\SDK.Common.csproj">
+      <Project>{E6B5DD56-8AC5-4A37-8E23-B508157E968B}</Project>
+      <Name>SDK.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SDK.Interfaces\SDK.Interfaces.csproj">
+      <Project>{6BE5AD78-5CB1-4C7A-BDDA-C0623CBDB216}</Project>
+      <Name>SDK.Interfaces</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ProtoBufRemote\RpcMessage.proto" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

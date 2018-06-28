@@ -1,0 +1,53 @@
+D:\devtools\SiQube SDK\SDK\SDK.UI\bin\Release\Library\AmanithVG\x86\libAmanithEGL.dll
+D:\devtools\SiQube SDK\SDK\SDK.UI\bin\Release\Library\AmanithVG\x86\libAmanithEGL_priv.dll
+D:\devtools\SiQube SDK\SDK\SDK.UI\bin\Release\Library\AmanithVG\x86\libAmanithVG.dll
+D:\devtools\SiQube SDK\SDK\SDK.UI\bin\Release\Library\AmanithVG\x86\libEGL.dll
+D:\devtools\SiQube SDK\SDK\SDK.UI\bin\Release\Library\AmanithVG\x86\libOpenVG.dll
+D:\devtools\SiQube SDK\SDK\SDK.UI\bin\Release\Tools\sdk_ui_image_converter.exe
+D:\devtools\SiQube SDK\SDK\SDK.UI\bin\Release\Tools\splash_image_converter.exe
+D:\devtools\SiQube SDK\SDK\SDK.UI\bin\Release\Library\AmanithVG\x86\amanithvg.ini
+D:\devtools\SiQube SDK\SDK\SDK.UI\bin\Release\SDK.UI.dll
+D:\devtools\SiQube SDK\SDK\SDK.UI\bin\Release\SDK.UI.pdb
+D:\devtools\SiQube SDK\SDK\SDK.UI\bin\Release\SDK.Common.dll
+D:\devtools\SiQube SDK\SDK\SDK.UI\bin\Release\log4net.dll
+D:\devtools\SiQube SDK\SDK\SDK.UI\bin\Release\Nini.dll
+D:\devtools\SiQube SDK\SDK\SDK.UI\bin\Release\SDK.Common.pdb
+D:\devtools\SiQube SDK\SDK\SDK.UI\bin\Release\SDK.Interfaces.pdb
+D:\devtools\SiQube SDK\SDK\SDK.UI\obj\Release\SDK.UI.csprojResolveAssemblyReference.cache
+D:\devtools\SiQube SDK\SDK\SDK.UI\obj\Release\SDK.UI.dll
+D:\devtools\SiQube SDK\SDK\SDK.UI\obj\Release\SDK.UI.pdb
+C:\devtools\SiQube SDK\SDK\SDK.UI\bin\Release\Library\AmanithVG\x86\libAmanithEGL.dll
+C:\devtools\SiQube SDK\SDK\SDK.UI\bin\Release\Library\AmanithVG\x86\libAmanithEGL_priv.dll
+C:\devtools\SiQube SDK\SDK\SDK.UI\bin\Release\Library\AmanithVG\x86\libAmanithVG.dll
+C:\devtools\SiQube SDK\SDK\SDK.UI\bin\Release\Library\AmanithVG\x86\libEGL.dll
+C:\devtools\SiQube SDK\SDK\SDK.UI\bin\Release\Library\AmanithVG\x86\libOpenVG.dll
+C:\devtools\SiQube SDK\SDK\SDK.UI\bin\Release\Tools\sdk_ui_image_converter.exe
+C:\devtools\SiQube SDK\SDK\SDK.UI\bin\Release\Tools\splash_image_converter.exe
+C:\devtools\SiQube SDK\SDK\SDK.UI\bin\Release\Library\AmanithVG\x86\amanithvg.ini
+C:\devtools\SiQube SDK\SDK\SDK.UI\bin\Release\SDK.UI.dll
+C:\devtools\SiQube SDK\SDK\SDK.UI\bin\Release\SDK.UI.pdb
+C:\devtools\SiQube SDK\SDK\SDK.UI\bin\Release\SDK.Common.dll
+C:\devtools\SiQube SDK\SDK\SDK.UI\bin\Release\log4net.dll
+C:\devtools\SiQube SDK\SDK\SDK.UI\bin\Release\Nini.dll
+C:\devtools\SiQube SDK\SDK\SDK.UI\bin\Release\SDK.Common.pdb
+C:\devtools\SiQube SDK\SDK\SDK.UI\bin\Release\SDK.Interfaces.pdb
+C:\devtools\SiQube SDK\SDK\SDK.UI\obj\Release\SDK.UI.csprojResolveAssemblyReference.cache
+C:\devtools\SiQube SDK\SDK\SDK.UI\obj\Release\SDK.UI.dll
+C:\devtools\SiQube SDK\SDK\SDK.UI\obj\Release\SDK.UI.pdb
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.UI\bin\Release\Library\AmanithVG\x86\libAmanithEGL.dll
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.UI\bin\Release\Library\AmanithVG\x86\libAmanithEGL_priv.dll
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.UI\bin\Release\Library\AmanithVG\x86\libAmanithVG.dll
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.UI\bin\Release\Library\AmanithVG\x86\libEGL.dll
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.UI\bin\Release\Library\AmanithVG\x86\libOpenVG.dll
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.UI\bin\Release\Tools\sdk_ui_image_converter.exe
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.UI\bin\Release\Tools\splash_image_converter.exe
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.UI\bin\Release\Library\AmanithVG\x86\amanithvg.ini
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.UI\bin\Release\SDK.UI.dll
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.UI\bin\Release\SDK.UI.pdb
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.UI\bin\Release\SDK.Common.dll
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.UI\bin\Release\log4net.dll
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.UI\bin\Release\Nini.dll
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.UI\bin\Release\SDK.Common.pdb
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.UI\obj\Release\SDK.UI.csprojResolveAssemblyReference.cache
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.UI\obj\Release\SDK.UI.dll
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.UI\obj\Release\SDK.UI.pdb

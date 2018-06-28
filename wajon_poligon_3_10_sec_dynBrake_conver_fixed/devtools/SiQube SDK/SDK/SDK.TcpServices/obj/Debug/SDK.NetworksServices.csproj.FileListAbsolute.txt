@@ -1,0 +1,40 @@
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\SDK.TcpServices\obj\Debug\SDK.NetworksServices.csprojResolveAssemblyReference.cache
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\Bin\SDK.NetworksServices.dll
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\Bin\SDK.NetworksServices.pdb
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\SDK.TcpServices\obj\Debug\SDK.NetworksServices.dll
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\SDK.TcpServices\obj\Debug\SDK.NetworksServices.pdb
+F:\Evg\_Копейск\SiQube SDK\SDK\Bin\SDK.NetworksServices.dll
+F:\Evg\_Копейск\SiQube SDK\SDK\Bin\SDK.NetworksServices.pdb
+F:\Evg\_Копейск\SiQube SDK\SDK\SDK.TcpServices\obj\Debug\SDK.NetworksServices.csprojResolveAssemblyReference.cache
+F:\Evg\_Копейск\SiQube SDK\SDK\SDK.TcpServices\obj\Debug\SDK.NetworksServices.dll
+F:\Evg\_Копейск\SiQube SDK\SDK\SDK.TcpServices\obj\Debug\SDK.NetworksServices.pdb
+F:\devtools\SiQube SDK\SDK\Bin\SDK.NetworksServices.dll
+F:\devtools\SiQube SDK\SDK\Bin\SDK.NetworksServices.pdb
+F:\devtools\SiQube SDK\SDK\SDK.TcpServices\obj\Debug\SDK.NetworksServices.csprojResolveAssemblyReference.cache
+F:\devtools\SiQube SDK\SDK\SDK.TcpServices\obj\Debug\SDK.NetworksServices.dll
+F:\devtools\SiQube SDK\SDK\SDK.TcpServices\obj\Debug\SDK.NetworksServices.pdb
+D:\devtools\SiQube SDK\SDK\Bin\SDK.NetworksServices.dll
+D:\devtools\SiQube SDK\SDK\Bin\SDK.NetworksServices.pdb
+D:\devtools\SiQube SDK\SDK\SDK.TcpServices\obj\Debug\SDK.NetworksServices.csprojResolveAssemblyReference.cache
+D:\devtools\SiQube SDK\SDK\SDK.TcpServices\obj\Debug\SDK.NetworksServices.dll
+D:\devtools\SiQube SDK\SDK\SDK.TcpServices\obj\Debug\SDK.NetworksServices.pdb
+C:\devtools\SiQube SDK\SDK\Bin\SDK.NetworksServices.dll
+C:\devtools\SiQube SDK\SDK\Bin\SDK.NetworksServices.pdb
+C:\devtools\SiQube SDK\SDK\SDK.TcpServices\obj\Debug\SDK.NetworksServices.csprojResolveAssemblyReference.cache
+C:\devtools\SiQube SDK\SDK\SDK.TcpServices\obj\Debug\SDK.NetworksServices.dll
+C:\devtools\SiQube SDK\SDK\SDK.TcpServices\obj\Debug\SDK.NetworksServices.pdb
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\Bin\SDK.NetworksServices.dll
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\Bin\SDK.NetworksServices.pdb
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.TcpServices\obj\Debug\SDK.NetworksServices.csprojResolveAssemblyReference.cache
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.TcpServices\obj\Debug\SDK.NetworksServices.dll
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.TcpServices\obj\Debug\SDK.NetworksServices.pdb
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\devtools\SiQube SDK\SDK\Bin\SDK.NetworksServices.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\devtools\SiQube SDK\SDK\Bin\SDK.NetworksServices.pdb
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\devtools\SiQube SDK\SDK\SDK.TcpServices\obj\Debug\SDK.NetworksServices.csprojResolveAssemblyReference.cache
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\devtools\SiQube SDK\SDK\SDK.TcpServices\obj\Debug\SDK.NetworksServices.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\devtools\SiQube SDK\SDK\SDK.TcpServices\obj\Debug\SDK.NetworksServices.pdb
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\devtools\SiQube SDK\SDK\Bin\SDK.NetworksServices.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\devtools\SiQube SDK\SDK\Bin\SDK.NetworksServices.pdb
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\devtools\SiQube SDK\SDK\SDK.TcpServices\obj\Debug\SDK.NetworksServices.csprojResolveAssemblyReference.cache
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\devtools\SiQube SDK\SDK\SDK.TcpServices\obj\Debug\SDK.NetworksServices.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\devtools\SiQube SDK\SDK\SDK.TcpServices\obj\Debug\SDK.NetworksServices.pdb

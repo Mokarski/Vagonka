@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{EC663749-A548-4B61-AF27-D2A0BDD5ADA8}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SDK.UI</RootNamespace>
+    <AssemblyName>SDK.UI</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\Bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Application.cs" />
+    <None Include="Examples\UserExamples.cs" />
+    <None Include="Library\AmanithVG\x86\amanithvg.ini">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <Compile Include="Widgets\Base\List.cs" />
+    <Compile Include="Widgets\Base\VGPathWidget.cs" />
+    <Compile Include="Widgets\Base\VideoPlayer.cs" />
+    <Compile Include="Widgets\Base\Window.cs" />
+    <Compile Include="Widgets\Interfaces\IVGPath.cs" />
+    <Compile Include="Events.cs" />
+    <Compile Include="Fonts\I260ClockFont.cs" />
+    <Compile Include="Fonts\I260TempFont.cs" />
+    <Compile Include="Fonts\MyriadProFont.cs" />
+    <Compile Include="Fonts\TahomaFont.cs" />
+    <Compile Include="Widgets\Base\VGPath.cs" />
+    <Compile Include="Widgets\Base\Button.cs" />
+    <Compile Include="Widgets\Interfaces\IImage.cs" />
+    <Compile Include="Widgets\Interfaces\IFontInfo.cs" />
+    <Compile Include="Widgets\Interfaces\ITextRender.cs" />
+    <Compile Include="Common\OpenVG Wrapper.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Fonts\TextRender.cs" />
+    <Compile Include="Widgets\Base\Widget.cs" />
+    <None Include="Backup\Button.cs" />
+    <Compile Include="Widgets\Base\Color.cs" />
+    <Compile Include="Widgets\Base\GraphicArea.cs" />
+    <Compile Include="Widgets\Base\Image.cs" />
+    <None Include="Backup\ItemBorder.cs" />
+    <Compile Include="Widgets\Interfaces\IWidget.cs" />
+    <Compile Include="Widgets\Interfaces\IWindow.cs" />
+    <None Include="Backup\ListItem.cs" />
+    <None Include="Backup\ListWidget.cs" />
+    <Compile Include="Widgets\Interfaces\ITable.cs" />
+    <Compile Include="Widgets\Interfaces\ITextArea.cs" />
+    <Compile Include="Widgets\Base\ModalWindow.cs" />
+    <Compile Include="Widgets\Base\ProgressBar.cs" />
+    <None Include="Backup\ProgressBarImages.cs" />
+    <None Include="Backup\RawButton.cs" />
+    <None Include="Backup\ScaleButton.cs" />
+    <Compile Include="Widgets\Base\Table.cs" />
+    <Compile Include="Widgets\Base\TableLine.cs" />
+    <Compile Include="Widgets\Base\TextArea.cs" />
+    <None Include="Backup\TextTable.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Library\AmanithVG\x86\libAmanithEGL.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Library\AmanithVG\x86\libAmanithEGL_priv.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Library\AmanithVG\x86\libAmanithVG.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Library\AmanithVG\x86\libEGL.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Library\AmanithVG\x86\libOpenVG.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Tools\sdk_ui_image_converter.exe">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Tools\splash_image_converter.exe">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="SDK.Interfaces, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SDK.Common\SDK.Common.csproj">
+      <Project>{e6b5dd56-8ac5-4a37-8e23-b508157e968b}</Project>
+      <Name>SDK.Common</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

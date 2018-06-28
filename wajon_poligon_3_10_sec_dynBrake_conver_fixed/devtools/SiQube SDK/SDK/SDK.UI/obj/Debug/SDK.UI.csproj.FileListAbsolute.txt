@@ -1,0 +1,84 @@
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\SDK.UI\bin\Debug\SDK.UI.dll
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\SDK.UI\bin\Debug\SDK.UI.pdb
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\SDK.UI\bin\Debug\libOpenVG.dll
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\SDK.UI\bin\Debug\amanithvg.ini
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\SDK.UI\bin\Debug\Tools\sdk_ui_image_converter.exe
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\SDK.UI\bin\Debug\Tools\splash_image_converter.exe
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\Bin\Tools\sdk_ui_image_converter.exe
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\Bin\Tools\splash_image_converter.exe
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\Bin\SDK.UI.dll
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\Bin\SDK.UI.pdb
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\SDK.UI\obj\Debug\SDK.UI.dll
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\SDK.UI\obj\Debug\SDK.UI.pdb
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\Bin\Library\AmanithVG\x86\libAmanithEGL.dll
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\Bin\Library\AmanithVG\x86\libAmanithEGL_priv.dll
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\Bin\Library\AmanithVG\x86\libAmanithVG.dll
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\Bin\Library\AmanithVG\x86\libEGL.dll
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\Bin\Library\AmanithVG\x86\libOpenVG.dll
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\Bin\Library\AmanithVG\x86\amanithvg.ini
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\SDK.UI\obj\Debug\SDK.UI.csprojResolveAssemblyReference.cache
+F:\Evg\_Копейск\SiQube SDK\SDK\Bin\Library\AmanithVG\x86\libAmanithEGL.dll
+F:\Evg\_Копейск\SiQube SDK\SDK\Bin\Library\AmanithVG\x86\libAmanithEGL_priv.dll
+F:\Evg\_Копейск\SiQube SDK\SDK\Bin\Library\AmanithVG\x86\libAmanithVG.dll
+F:\Evg\_Копейск\SiQube SDK\SDK\Bin\Library\AmanithVG\x86\libEGL.dll
+F:\Evg\_Копейск\SiQube SDK\SDK\Bin\Library\AmanithVG\x86\libOpenVG.dll
+F:\Evg\_Копейск\SiQube SDK\SDK\Bin\Tools\sdk_ui_image_converter.exe
+F:\Evg\_Копейск\SiQube SDK\SDK\Bin\Tools\splash_image_converter.exe
+F:\Evg\_Копейск\SiQube SDK\SDK\Bin\Library\AmanithVG\x86\amanithvg.ini
+F:\Evg\_Копейск\SiQube SDK\SDK\Bin\SDK.UI.dll
+F:\Evg\_Копейск\SiQube SDK\SDK\Bin\SDK.UI.pdb
+F:\Evg\_Копейск\SiQube SDK\SDK\SDK.UI\obj\Debug\SDK.UI.csprojResolveAssemblyReference.cache
+F:\Evg\_Копейск\SiQube SDK\SDK\SDK.UI\obj\Debug\SDK.UI.dll
+F:\Evg\_Копейск\SiQube SDK\SDK\SDK.UI\obj\Debug\SDK.UI.pdb
+F:\devtools\SiQube SDK\SDK\Bin\Library\AmanithVG\x86\libAmanithEGL.dll
+F:\devtools\SiQube SDK\SDK\Bin\Library\AmanithVG\x86\libAmanithEGL_priv.dll
+F:\devtools\SiQube SDK\SDK\Bin\Library\AmanithVG\x86\libAmanithVG.dll
+F:\devtools\SiQube SDK\SDK\Bin\Library\AmanithVG\x86\libEGL.dll
+F:\devtools\SiQube SDK\SDK\Bin\Library\AmanithVG\x86\libOpenVG.dll
+F:\devtools\SiQube SDK\SDK\Bin\Tools\sdk_ui_image_converter.exe
+F:\devtools\SiQube SDK\SDK\Bin\Tools\splash_image_converter.exe
+F:\devtools\SiQube SDK\SDK\Bin\Library\AmanithVG\x86\amanithvg.ini
+F:\devtools\SiQube SDK\SDK\Bin\SDK.UI.dll
+F:\devtools\SiQube SDK\SDK\Bin\SDK.UI.pdb
+F:\devtools\SiQube SDK\SDK\SDK.UI\obj\Debug\SDK.UI.csprojResolveAssemblyReference.cache
+F:\devtools\SiQube SDK\SDK\SDK.UI\obj\Debug\SDK.UI.dll
+F:\devtools\SiQube SDK\SDK\SDK.UI\obj\Debug\SDK.UI.pdb
+D:\devtools\SiQube SDK\SDK\Bin\Library\AmanithVG\x86\libAmanithEGL.dll
+D:\devtools\SiQube SDK\SDK\Bin\Library\AmanithVG\x86\libAmanithEGL_priv.dll
+D:\devtools\SiQube SDK\SDK\Bin\Library\AmanithVG\x86\libAmanithVG.dll
+D:\devtools\SiQube SDK\SDK\Bin\Library\AmanithVG\x86\libEGL.dll
+D:\devtools\SiQube SDK\SDK\Bin\Library\AmanithVG\x86\libOpenVG.dll
+D:\devtools\SiQube SDK\SDK\Bin\Tools\sdk_ui_image_converter.exe
+D:\devtools\SiQube SDK\SDK\Bin\Tools\splash_image_converter.exe
+D:\devtools\SiQube SDK\SDK\Bin\Library\AmanithVG\x86\amanithvg.ini
+D:\devtools\SiQube SDK\SDK\Bin\SDK.UI.dll
+D:\devtools\SiQube SDK\SDK\Bin\SDK.UI.pdb
+D:\devtools\SiQube SDK\SDK\SDK.UI\obj\Debug\SDK.UI.csprojResolveAssemblyReference.cache
+D:\devtools\SiQube SDK\SDK\SDK.UI\obj\Debug\SDK.UI.dll
+D:\devtools\SiQube SDK\SDK\SDK.UI\obj\Debug\SDK.UI.pdb
+C:\devtools\SiQube SDK\SDK\Bin\Library\AmanithVG\x86\libAmanithEGL.dll
+C:\devtools\SiQube SDK\SDK\Bin\Library\AmanithVG\x86\libAmanithEGL_priv.dll
+C:\devtools\SiQube SDK\SDK\Bin\Library\AmanithVG\x86\libAmanithVG.dll
+C:\devtools\SiQube SDK\SDK\Bin\Library\AmanithVG\x86\libEGL.dll
+C:\devtools\SiQube SDK\SDK\Bin\Library\AmanithVG\x86\libOpenVG.dll
+C:\devtools\SiQube SDK\SDK\Bin\Tools\sdk_ui_image_converter.exe
+C:\devtools\SiQube SDK\SDK\Bin\Tools\splash_image_converter.exe
+C:\devtools\SiQube SDK\SDK\Bin\Library\AmanithVG\x86\amanithvg.ini
+C:\devtools\SiQube SDK\SDK\Bin\SDK.UI.dll
+C:\devtools\SiQube SDK\SDK\Bin\SDK.UI.pdb
+C:\devtools\SiQube SDK\SDK\SDK.UI\obj\Debug\SDK.UI.csprojResolveAssemblyReference.cache
+C:\devtools\SiQube SDK\SDK\SDK.UI\obj\Debug\SDK.UI.dll
+C:\devtools\SiQube SDK\SDK\SDK.UI\obj\Debug\SDK.UI.pdb
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\Bin\Library\AmanithVG\x86\libAmanithEGL.dll
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\Bin\Library\AmanithVG\x86\libAmanithEGL_priv.dll
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\Bin\Library\AmanithVG\x86\libAmanithVG.dll
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\Bin\Library\AmanithVG\x86\libEGL.dll
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\Bin\Library\AmanithVG\x86\libOpenVG.dll
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\Bin\Tools\sdk_ui_image_converter.exe
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\Bin\Tools\splash_image_converter.exe
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\Bin\Library\AmanithVG\x86\amanithvg.ini
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\Bin\SDK.UI.dll
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\Bin\SDK.UI.pdb
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.UI\obj\Debug\SDK.UI.csprojResolveAssemblyReference.cache
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.UI\obj\Debug\SDK.UI.dll
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.UI\obj\Debug\SDK.UI.pdb

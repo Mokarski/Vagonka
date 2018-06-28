@@ -1,0 +1,65 @@
+D:\devtools\SiQube SDK\SDK\SDK.Common\bin\Release\SDK.Common.dll
+D:\devtools\SiQube SDK\SDK\SDK.Common\bin\Release\SDK.Common.pdb
+D:\devtools\SiQube SDK\SDK\SDK.Common\bin\Release\log4net.dll
+D:\devtools\SiQube SDK\SDK\SDK.Common\bin\Release\Nini.dll
+D:\devtools\SiQube SDK\SDK\SDK.Common\bin\Release\SDK.Interfaces.dll
+D:\devtools\SiQube SDK\SDK\SDK.Common\bin\Release\SDK.Interfaces.pdb
+D:\devtools\SiQube SDK\SDK\SDK.Common\obj\Release\SDK.Common.csprojResolveAssemblyReference.cache
+D:\devtools\SiQube SDK\SDK\SDK.Common\obj\Release\SDK.Common.dll
+D:\devtools\SiQube SDK\SDK\SDK.Common\obj\Release\SDK.Common.pdb
+C:\devtools\SiQube SDK\SDK\SDK.Common\bin\Release\SDK.Common.dll
+C:\devtools\SiQube SDK\SDK\SDK.Common\bin\Release\SDK.Common.pdb
+C:\devtools\SiQube SDK\SDK\SDK.Common\bin\Release\log4net.dll
+C:\devtools\SiQube SDK\SDK\SDK.Common\bin\Release\Nini.dll
+C:\devtools\SiQube SDK\SDK\SDK.Common\bin\Release\SDK.Interfaces.dll
+C:\devtools\SiQube SDK\SDK\SDK.Common\bin\Release\SDK.Interfaces.pdb
+C:\devtools\SiQube SDK\SDK\SDK.Common\obj\Release\SDK.Common.csprojResolveAssemblyReference.cache
+C:\devtools\SiQube SDK\SDK\SDK.Common\obj\Release\SDK.Common.dll
+C:\devtools\SiQube SDK\SDK\SDK.Common\obj\Release\SDK.Common.pdb
+c:\devtools\SiQube SDK\SDK\SDK.Common\bin\Release\SDK.Common.dll.CodeAnalysisLog.xml
+c:\devtools\SiQube SDK\SDK\SDK.Common\bin\Release\SDK.Common.dll.lastcodeanalysissucceeded
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\devtools\SiQube SDK\SDK\SDK.Common\bin\Release\SDK.Common.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\devtools\SiQube SDK\SDK\SDK.Common\bin\Release\SDK.Common.pdb
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\devtools\SiQube SDK\SDK\SDK.Common\bin\Release\log4net.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\devtools\SiQube SDK\SDK\SDK.Common\bin\Release\Nini.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\devtools\SiQube SDK\SDK\SDK.Common\bin\Release\SDK.Interfaces.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\devtools\SiQube SDK\SDK\SDK.Common\bin\Release\SDK.Interfaces.pdb
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\devtools\SiQube SDK\SDK\SDK.Common\obj\Release\SDK.Common.csprojResolveAssemblyReference.cache
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\devtools\SiQube SDK\SDK\SDK.Common\obj\Release\SDK.Common.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\devtools\SiQube SDK\SDK\SDK.Common\obj\Release\SDK.Common.pdb
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.Common\bin\Release\SDK.Common.dll
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.Common\bin\Release\SDK.Common.pdb
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.Common\bin\Release\log4net.dll
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.Common\bin\Release\Nini.dll
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.Common\bin\Release\SDK.Interfaces.dll
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.Common\bin\Release\SDK.Interfaces.pdb
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.Common\obj\Release\SDK.Common.csprojResolveAssemblyReference.cache
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.Common\obj\Release\SDK.Common.dll
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.Common\obj\Release\SDK.Common.pdb
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\devtools\SiQube SDK\SDK\SDK.Common\bin\Release\SDK.Common.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\devtools\SiQube SDK\SDK\SDK.Common\bin\Release\SDK.Common.pdb
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\devtools\SiQube SDK\SDK\SDK.Common\bin\Release\log4net.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\devtools\SiQube SDK\SDK\SDK.Common\bin\Release\Nini.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\devtools\SiQube SDK\SDK\SDK.Common\bin\Release\SDK.Interfaces.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\devtools\SiQube SDK\SDK\SDK.Common\bin\Release\SDK.Interfaces.pdb
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\devtools\SiQube SDK\SDK\SDK.Common\obj\Release\SDK.Common.csprojResolveAssemblyReference.cache
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\devtools\SiQube SDK\SDK\SDK.Common\obj\Release\SDK.Common.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\devtools\SiQube SDK\SDK\SDK.Common\obj\Release\SDK.Common.pdb
+F:\Alekseew\wajon_poligon\devtools\SiQube SDK\SDK\SDK.Common\bin\Release\SDK.Common.dll
+F:\Alekseew\wajon_poligon\devtools\SiQube SDK\SDK\SDK.Common\bin\Release\SDK.Common.pdb
+F:\Alekseew\wajon_poligon\devtools\SiQube SDK\SDK\SDK.Common\bin\Release\log4net.dll
+F:\Alekseew\wajon_poligon\devtools\SiQube SDK\SDK\SDK.Common\bin\Release\Nini.dll
+F:\Alekseew\wajon_poligon\devtools\SiQube SDK\SDK\SDK.Common\bin\Release\SDK.Interfaces.dll
+F:\Alekseew\wajon_poligon\devtools\SiQube SDK\SDK\SDK.Common\bin\Release\SDK.Interfaces.pdb
+F:\Alekseew\wajon_poligon\devtools\SiQube SDK\SDK\SDK.Common\obj\Release\SDK.Common.csprojResolveAssemblyReference.cache
+F:\Alekseew\wajon_poligon\devtools\SiQube SDK\SDK\SDK.Common\obj\Release\SDK.Common.dll
+F:\Alekseew\wajon_poligon\devtools\SiQube SDK\SDK\SDK.Common\obj\Release\SDK.Common.pdb
+C:\Alekseew\wajon_poligon_3_10_sec\wajon_poligon_3_10_sec\devtools\SiQube SDK\SDK\SDK.Common\bin\Release\SDK.Common.dll
+C:\Alekseew\wajon_poligon_3_10_sec\wajon_poligon_3_10_sec\devtools\SiQube SDK\SDK\SDK.Common\bin\Release\SDK.Common.pdb
+C:\Alekseew\wajon_poligon_3_10_sec\wajon_poligon_3_10_sec\devtools\SiQube SDK\SDK\SDK.Common\bin\Release\log4net.dll
+C:\Alekseew\wajon_poligon_3_10_sec\wajon_poligon_3_10_sec\devtools\SiQube SDK\SDK\SDK.Common\bin\Release\Nini.dll
+C:\Alekseew\wajon_poligon_3_10_sec\wajon_poligon_3_10_sec\devtools\SiQube SDK\SDK\SDK.Common\bin\Release\SDK.Interfaces.dll
+C:\Alekseew\wajon_poligon_3_10_sec\wajon_poligon_3_10_sec\devtools\SiQube SDK\SDK\SDK.Common\bin\Release\SDK.Interfaces.pdb
+C:\Alekseew\wajon_poligon_3_10_sec\wajon_poligon_3_10_sec\devtools\SiQube SDK\SDK\SDK.Common\obj\Release\SDK.Common.csprojResolveAssemblyReference.cache
+C:\Alekseew\wajon_poligon_3_10_sec\wajon_poligon_3_10_sec\devtools\SiQube SDK\SDK\SDK.Common\obj\Release\SDK.Common.dll
+C:\Alekseew\wajon_poligon_3_10_sec\wajon_poligon_3_10_sec\devtools\SiQube SDK\SDK\SDK.Common\obj\Release\SDK.Common.pdb

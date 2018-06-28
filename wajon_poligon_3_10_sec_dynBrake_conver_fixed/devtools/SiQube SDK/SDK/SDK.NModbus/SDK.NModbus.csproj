@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{B48CBEF6-9C85-41FD-816F-66E4FD5651D7}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SDK.NModbus</RootNamespace>
+    <AssemblyName>SDK.NModbus</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\Bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Modbus.Extensions\EnronModbus.cs" />
+    <Compile Include="Modbus\Data\DataStore.cs" />
+    <Compile Include="Modbus\Data\DataStoreEventArgs.cs" />
+    <Compile Include="Modbus\Data\DataStoreFactory.cs" />
+    <Compile Include="Modbus\Data\DiscreteCollection.cs" />
+    <Compile Include="Modbus\Data\IModbusMessageDataCollection.cs" />
+    <Compile Include="Modbus\Data\ModbusDataCollection.cs" />
+    <Compile Include="Modbus\Data\ModbusDataType.cs" />
+    <Compile Include="Modbus\Data\RegisterCollection.cs" />
+    <Compile Include="Modbus\Device\IModbusMaster.cs" />
+    <Compile Include="Modbus\Device\IModbusSerialMaster.cs" />
+    <Compile Include="Modbus\Device\ModbusDevice.cs" />
+    <Compile Include="Modbus\Device\ModbusIpMaster.cs" />
+    <Compile Include="Modbus\Device\ModbusMaster.cs" />
+    <Compile Include="Modbus\Device\ModbusMasterTcpConnection.cs" />
+    <Compile Include="Modbus\Device\ModbusSerialMaster.cs" />
+    <Compile Include="Modbus\Device\ModbusSerialSlave.cs" />
+    <Compile Include="Modbus\Device\ModbusSlave.cs" />
+    <Compile Include="Modbus\Device\ModbusSlaveRequestEventArgs.cs" />
+    <Compile Include="Modbus\Device\ModbusTcpSlave.cs" />
+    <Compile Include="Modbus\Device\ModbusUdpSlave.cs" />
+    <Compile Include="Modbus\Device\TcpConnectionEventArgs.cs" />
+    <Compile Include="Modbus\GlobalSuppressions.cs" />
+    <Compile Include="Modbus\IO\CompactUdpClient.cs" />
+    <Compile Include="Modbus\IO\CrossPlatformUdpClient.cs" />
+    <Compile Include="Modbus\IO\EmptyTransport.cs" />
+    <Compile Include="Modbus\IO\FullUdpClient.cs" />
+    <Compile Include="Modbus\IO\IStreamResource.cs" />
+    <Compile Include="Modbus\IO\ModbusAsciiTransport.cs" />
+    <Compile Include="Modbus\IO\ModbusIpTransport.cs" />
+    <Compile Include="Modbus\IO\ModbusRtuTransport.cs" />
+    <Compile Include="Modbus\IO\ModbusSerialTransport.cs" />
+    <Compile Include="Modbus\IO\ModbusTransport.cs" />
+    <Compile Include="Modbus\IO\SerialPortAdapter.cs" />
+    <Compile Include="Modbus\IO\StreamResourceUtility.cs" />
+    <Compile Include="Modbus\IO\TcpClientAdapter.cs" />
+    <Compile Include="Modbus\IO\UdpClientAdapter.cs" />
+    <Compile Include="Modbus\Message\DiagnosticsRequestResponse.cs" />
+    <Compile Include="Modbus\Message\IModbusMessage.cs" />
+    <Compile Include="Modbus\Message\IModbusRequest.cs" />
+    <Compile Include="Modbus\Message\ModbusMessage.cs" />
+    <Compile Include="Modbus\Message\ModbusMessageFactory.cs" />
+    <Compile Include="Modbus\Message\ModbusMessageImpl.cs" />
+    <Compile Include="Modbus\Message\ModbusMessageWithData.cs" />
+    <Compile Include="Modbus\Message\ReadCoilsInputsRequest.cs" />
+    <Compile Include="Modbus\Message\ReadCoilsInputsResponse.cs" />
+    <Compile Include="Modbus\Message\ReadHoldingInputRegistersRequest.cs" />
+    <Compile Include="Modbus\Message\ReadHoldingInputRegistersResponse.cs" />
+    <Compile Include="Modbus\Message\ReadWriteMultipleRegistersRequest.cs" />
+    <Compile Include="Modbus\Message\SlaveExceptionResponse.cs" />
+    <Compile Include="Modbus\Message\WriteMultipleCoilsRequest.cs" />
+    <Compile Include="Modbus\Message\WriteMultipleCoilsResponse.cs" />
+    <Compile Include="Modbus\Message\WriteMultipleRegistersRequest.cs" />
+    <Compile Include="Modbus\Message\WriteMultipleRegistersResponse.cs" />
+    <Compile Include="Modbus\Message\WriteSingleCoilRequestResponse.cs" />
+    <Compile Include="Modbus\Message\WriteSingleRegisterRequestResponse.cs" />
+    <Compile Include="Modbus\Modbus.cs" />
+    <Compile Include="Modbus\Resources.Designer.cs" />
+    <Compile Include="Modbus\SlaveException.cs" />
+    <Compile Include="Modbus\Utility\DiscriminatedUnion.cs" />
+    <Compile Include="Modbus\Utility\ModbusUtility.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Modbus\Resources.resx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="log4net">
+      <HintPath>..\Bin\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="Unme.Common">
+      <HintPath>..\SDK.Common\3rd libraries\NModbus\Unme.Common.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SDK.Common\SDK.Common.csproj">
+      <Project>{E6B5DD56-8AC5-4A37-8E23-B508157E968B}</Project>
+      <Name>SDK.Common</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

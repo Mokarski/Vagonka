@@ -1,0 +1,40 @@
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\Bin\SDK.SignalsFactory.dll
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\Bin\SDK.SignalsFactory.pdb
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\SDK.SignalsFactory\obj\Debug\SDK.SignalsFactory.csprojResolveAssemblyReference.cache
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\SDK.SignalsFactory\obj\Debug\SDK.SignalsFactory.dll
+C:\Users\skipper\Desktop\текущие документы\sw\SiQube SDK\SDK\SDK.SignalsFactory\obj\Debug\SDK.SignalsFactory.pdb
+F:\Evg\_Копейск\SiQube SDK\SDK\Bin\SDK.SignalsFactory.dll
+F:\Evg\_Копейск\SiQube SDK\SDK\Bin\SDK.SignalsFactory.pdb
+F:\Evg\_Копейск\SiQube SDK\SDK\SDK.SignalsFactory\obj\Debug\SDK.SignalsFactory.csprojResolveAssemblyReference.cache
+F:\Evg\_Копейск\SiQube SDK\SDK\SDK.SignalsFactory\obj\Debug\SDK.SignalsFactory.dll
+F:\Evg\_Копейск\SiQube SDK\SDK\SDK.SignalsFactory\obj\Debug\SDK.SignalsFactory.pdb
+F:\devtools\SiQube SDK\SDK\Bin\SDK.SignalsFactory.dll
+F:\devtools\SiQube SDK\SDK\Bin\SDK.SignalsFactory.pdb
+F:\devtools\SiQube SDK\SDK\SDK.SignalsFactory\obj\Debug\SDK.SignalsFactory.csprojResolveAssemblyReference.cache
+F:\devtools\SiQube SDK\SDK\SDK.SignalsFactory\obj\Debug\SDK.SignalsFactory.dll
+F:\devtools\SiQube SDK\SDK\SDK.SignalsFactory\obj\Debug\SDK.SignalsFactory.pdb
+D:\devtools\SiQube SDK\SDK\Bin\SDK.SignalsFactory.dll
+D:\devtools\SiQube SDK\SDK\Bin\SDK.SignalsFactory.pdb
+D:\devtools\SiQube SDK\SDK\SDK.SignalsFactory\obj\Debug\SDK.SignalsFactory.csprojResolveAssemblyReference.cache
+D:\devtools\SiQube SDK\SDK\SDK.SignalsFactory\obj\Debug\SDK.SignalsFactory.dll
+D:\devtools\SiQube SDK\SDK\SDK.SignalsFactory\obj\Debug\SDK.SignalsFactory.pdb
+C:\devtools\SiQube SDK\SDK\Bin\SDK.SignalsFactory.dll
+C:\devtools\SiQube SDK\SDK\Bin\SDK.SignalsFactory.pdb
+C:\devtools\SiQube SDK\SDK\SDK.SignalsFactory\obj\Debug\SDK.SignalsFactory.csprojResolveAssemblyReference.cache
+C:\devtools\SiQube SDK\SDK\SDK.SignalsFactory\obj\Debug\SDK.SignalsFactory.dll
+C:\devtools\SiQube SDK\SDK\SDK.SignalsFactory\obj\Debug\SDK.SignalsFactory.pdb
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\Bin\SDK.SignalsFactory.dll
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\Bin\SDK.SignalsFactory.pdb
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.SignalsFactory\obj\Debug\SDK.SignalsFactory.csprojResolveAssemblyReference.cache
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.SignalsFactory\obj\Debug\SDK.SignalsFactory.dll
+D:\МоиДокументы\Visual Studio 2013\Projects\SPARC\devtools\SiQube SDK\SDK\SDK.SignalsFactory\obj\Debug\SDK.SignalsFactory.pdb
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\devtools\SiQube SDK\SDK\Bin\SDK.SignalsFactory.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\devtools\SiQube SDK\SDK\Bin\SDK.SignalsFactory.pdb
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\devtools\SiQube SDK\SDK\SDK.SignalsFactory\obj\Debug\SDK.SignalsFactory.csprojResolveAssemblyReference.cache
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\devtools\SiQube SDK\SDK\SDK.SignalsFactory\obj\Debug\SDK.SignalsFactory.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\devtools\SiQube SDK\SDK\SDK.SignalsFactory\obj\Debug\SDK.SignalsFactory.pdb
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\devtools\SiQube SDK\SDK\Bin\SDK.SignalsFactory.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\devtools\SiQube SDK\SDK\Bin\SDK.SignalsFactory.pdb
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\devtools\SiQube SDK\SDK\SDK.SignalsFactory\obj\Debug\SDK.SignalsFactory.csprojResolveAssemblyReference.cache
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\devtools\SiQube SDK\SDK\SDK.SignalsFactory\obj\Debug\SDK.SignalsFactory.dll
+C:\Alekseew\От_ДимыСидорова\Journal_Software_v3_calibr\git_vagon\devtools\SiQube SDK\SDK\SDK.SignalsFactory\obj\Debug\SDK.SignalsFactory.pdb
